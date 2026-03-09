@@ -1,6 +1,6 @@
 {
-    "last_update": "2026-03-09T08:17:14.307579",
-    "new_articles_added": 107,
+    "last_update": "2026-03-09T09:51:49.666279",
+    "new_articles_added": 112,
     "total_articles": 100,
     "articles": [
         {
@@ -94,11 +94,25 @@
         },
         {
             "source": "7sur7",
+            "title": "Grève de trois jours sur le rail: le point sur les perturbations",
+            "link": "https://www.7sur7.be/belgique/greve-de-trois-jours-sur-le-rail-le-point-sur-les-perturbations~a302a58b/",
+            "published": "Sun, 08 Mar 2026 21:19:00 GMT",
+            "summary": "Une grève de trois jours sur le rail belge a débuté dimanche à 22h et se poursuivra jusqu’à mercredi même heure."
+        },
+        {
+            "source": "7sur7",
             "title": "Un hôtel de luxe visé par les frappes israéliennes à Beyrouth: les Libanais ne sont plus “en sécurité nulle part”",
             "link": "https://www.7sur7.be/monde/un-hotel-de-luxe-vise-par-les-frappes-israeliennes-a-beyrouth-les-libanais-ne-sont-plus-en-securite-nulle-part~ace4294e/",
             "description": "“Un sublime décor romantique”, annonce un panneau face à la majestueuse arche naturelle baignée dans les eaux turquoise de la Méditerranée. Rien ne laissait présager qu’Israël frapperait le coeur touristique et économique de Beyrouth, jusqu’à dimanche au petit matin.",
             "published": "Sun, 08 Mar 2026 21:11:33 GMT",
             "category": "Général"
+        },
+        {
+            "source": "RTBF Info",
+            "title": "Conflit au Moyen-Orient : l'Iran menace d'un \"pétrole à plus de 200 dollars \" et de cibler les sites pétroliers du Golfe (revivez notre direct)",
+            "link": "https://www.rtbf.be/article/direct-conflit-au-moyen-orient-l-iran-se-dit-pret-a-au-moins-six-mois-de-guerre-un-hotel-vise-en-plein-centre-de-beyrouth-11690994",
+            "published": "Sun, 08 Mar 2026 21:11:22 +0100",
+            "summary": "La guerre au Moyen-Orient, entrée dimanche dans son neuvième jour, a aussi donné lieu à de nouvelles attaques aériennes..."
         },
         {
             "source": "7sur7",
@@ -138,6 +152,13 @@
             "link": "https://www.franceinfo.fr/environnement/crise-climatique/les-suisses-rejettent-une-initiative-pour-un-fonds-climat-de-plusieurs-milliards_7854329.html#xtor=RSS-3-[lestitres]",
             "published": "Sun, 08 Mar 2026 20:04:45 +0100",
             "summary": "La présidente du parti écologiste a assuré, après le résultat, que les objectifs climatiques de la Suisse restaient \"les mêmes\" et étaient \"largement souhaités par la population\"."
+        },
+        {
+            "source": "RTL-info",
+            "title": "« Le MR et les Engagés ont tellement menti » : Paul Magnette démonte la réforme du chômage et propose des solutions pour créer de l’emploi",
+            "link": "https://www.rtl.be/actu/belgique/politique/le-mr-et-les-engages-ont-tellement-menti-paul-magnette-demonte-la-reforme-du/2026-03-08/article/782013",
+            "published": "Sun, 08 Mar 2026 20:01:17 +0000",
+            "summary": ""
         },
         {
             "source": "7sur7-Belgique",
@@ -185,6 +206,13 @@
             "summary": "Au-delà de victoires spectaculaires espérées à Marseille ou Toulon, le parti de Jordan Bardella et de Marine Le Pen compte poursuivre son implantation territoriale pour se mettre en ordre de bataille "
         },
         {
+            "source": "RTL-info",
+            "title": "Guerre au Moyen-Orient : quelle position pour le gouvernement belge ? « Il y a la réalité des principes »",
+            "link": "https://www.rtl.be/actu/belgique/politique/guerre-au-moyen-orient-quelle-position-pour-le-gouvernement-belge-il-y-la/2026-03-08/article/782009",
+            "published": "Sun, 08 Mar 2026 19:02:36 +0000",
+            "summary": ""
+        },
+        {
             "source": "France-info",
             "title": "Sébastien Lecornu annonce \"500 contrôles\" dans les stations-service contre les hausses abusives de prix à la pompe",
             "link": "https://www.franceinfo.fr/economie/automobile/essence/sebastien-lecornu-annonce-500-controles-dans-les-stations-service-contre-les-hausses-abusives-de-prix-a-la-pompe_7854281.html#xtor=RSS-3-[lestitres]",
@@ -223,6 +251,13 @@
             "category": "Général"
         },
         {
+            "source": "7sur7 Monde",
+            "title": "Un deuxième vol de rapatriement a atterri dimanche soir à Zaventem",
+            "link": "https://www.7sur7.be/monde/un-deuxieme-vol-de-rapatriement-a-atterri-dimanche-soir-a-zaventem~ae497933/",
+            "published": "Sun, 08 Mar 2026 18:07:00 GMT",
+            "summary": "Un deuxième vol de rapatriement transportant 162 Belges depuis Dubaï était en route vers l’aéroport de Bruxelles via Larnaca, à Chypre, a confirmé dimanche soir sur X le ministre des Affaires étrangèr"
+        },
+        {
             "source": "7sur7-Belgique",
             "title": "Courtier en jets privés, il aide les ultra-riches à fuir la guerre au Moyen-Orient: “Plus de 100.000 euros par vol”",
             "link": "https://www.7sur7.be/monde/courtier-en-jets-prives-il-aide-les-ultra-riches-a-fuir-la-guerre-au-moyen-orient-plus-de-100-000-euros-par-vol~ab72b8c7/",
@@ -236,6 +271,13 @@
             "link": "https://www.7sur7.be/monde/courtier-en-jets-prives-il-aide-les-ultra-riches-a-fuir-la-guerre-au-moyen-orient-plus-de-100-000-le-vol~ab72b8c7/",
             "published": "Sun, 08 Mar 2026 17:43:00 GMT",
             "summary": "Depuis l’offensive américano-israélienne lancée le 28 février contre l’Iran, le téléphone d’Arshad Bajwa, courtier en jets privés basé à Schilde (Anvers), n’arrête pas de sonner. Il reçoit jusqu’à dix"
+        },
+        {
+            "source": "RTL-info",
+            "title": "Nouvelle alerte jaune au brouillard sur une bonne partie de la Belgique",
+            "link": "https://www.rtl.be/actu/belgique/meteo/nouvelle-alerte-jaune-au-brouillard-sur-une-bonne-partie-de-la-belgique/2026-03-08/article/781992",
+            "published": "Sun, 08 Mar 2026 17:38:08 +0000",
+            "summary": ""
         },
         {
             "source": "7sur7",
@@ -291,11 +333,25 @@
             "category": "Général"
         },
         {
+            "source": "RTL-info",
+            "title": "95 % des habitats naturels de Belgique sont en mauvais état : « On va perdre toute une série d’espèces »",
+            "link": "https://www.rtl.be/actu/regions/namur/95-des-habitats-naturels-de-belgique-sont-en-mauvais-etat-va-perdre-toute-une/2026-03-08/article/781983",
+            "published": "Sun, 08 Mar 2026 15:06:59 +0000",
+            "summary": ""
+        },
+        {
             "source": "France-info",
             "title": "Municipales : La France insoumise prône des alliances au second tour à gauche, sans accord programmatique",
             "link": "https://www.franceinfo.fr/elections/municipales/municipales-la-france-insoumise-prone-des-alliances-au-second-tour-a-gauche-sans-accord-programmatique_7853996.html#xtor=RSS-3-[lestitres]",
             "published": "Sun, 08 Mar 2026 15:05:15 +0100",
             "summary": "Le coordinateur national de LFI, Manuel Bompard, a estimé que ces accords ne déboucheraient pas nécessairement, en cas de victoire, sur une gestion commune des villes."
+        },
+        {
+            "source": "France-info",
+            "title": "Une explosion vise l'ambassade des Etats-Unis en Norvège, la police évoque un possible motif terroriste",
+            "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/une-explosion-vise-l-ambassade-des-etats-unis-en-norvege-la-police-evoque-un-possible-motif-terroriste_7853939.html#xtor=RSS-3-[lestitres]",
+            "published": "Sun, 08 Mar 2026 14:28:47 +0100",
+            "summary": "L'explosion n'a fait aucune victime, seuls des \"dégâts matériels mineurs\" ont été constatés par la police norvégienne."
         },
         {
             "source": "7sur7-Sport",
@@ -378,6 +434,13 @@
             "description": "Un triomphe à domicile pour Bashir Abdi. Sans surprise, le double médaillé olympique a remporté les championnats de Belgique de semi-marathon à Anvers, mais il a aussi amélioré son record de Belgique de plus de 20 secondes.",
             "published": "Sun, 08 Mar 2026 11:59:06 GMT",
             "category": "Général"
+        },
+        {
+            "source": "RTL-info",
+            "title": "« Un seul train est parti », « Les navetteurs peu impactés » : la grève sur le rail provoque des perturbations variables selon les lignes",
+            "link": "https://www.rtl.be/actu/belgique/societe/un-seul-train-est-parti-les-navetteurs-peu-impactes-la-greve-sur-le-rail/2026-03-08/article/781964",
+            "published": "Sun, 08 Mar 2026 11:29:54 +0000",
+            "summary": ""
         },
         {
             "source": "7sur7-Sport",
@@ -490,11 +553,25 @@
             "summary": "L'Assemblée des Experts, organe iranien chargé d'élire le prochain guide suprême pour succéder à l'ayatollah Ali Khamenei, tué au premier jour des frappes israélo-états-uniennes, doit se réunir \"dans "
         },
         {
+            "source": "RTL-info",
+            "title": "Attention si vous prenez la route : l’IRM lance une alerte jaune au brouillard sur plusieurs provinces",
+            "link": "https://www.rtl.be/actu/belgique/meteo/attention-si-vous-prenez-la-route-lirm-lance-une-alerte-jaune-au-brouillard-sur/2026-03-07/article/781943",
+            "published": "Sat, 07 Mar 2026 20:18:48 +0000",
+            "summary": ""
+        },
+        {
             "source": "7sur7-Belgique",
             "title": "Code jaune sur une bonne partie du pays: l’IRM met en garde contre un épais brouillard",
             "link": "https://www.7sur7.be/belgique/code-jaune-sur-une-bonne-partie-du-pays-lirm-met-en-garde-contre-un-epais-brouillard~ab2e8729/",
             "published": "Sat, 07 Mar 2026 20:02:00 GMT",
             "summary": "L’institut royal météorologique (IRM) prévoit un brouillard épais samedi soir et dimanche matin. Le code jaune est en vigueur."
+        },
+        {
+            "source": "RTL-info",
+            "title": "« On n’oublie pas » : 10 ans après les attentats du 22 mars, le témoignage de Patricia Vanderlinden, première entrée dans l’aéroport dévasté",
+            "link": "https://www.rtl.be/actu/belgique/societe/noublie-pas-10-ans-apres-les-attentats-du-22-mars-le-temoignage-de-patricia/2026-03-07/article/781935",
+            "published": "Sat, 07 Mar 2026 18:35:44 +0000",
+            "summary": ""
         },
         {
             "source": "7sur7-Belgique",
@@ -532,6 +609,13 @@
             "summary": "Des tornades ont fait au moins huit morts et plus d’une dizaine de blessés vendredi à travers le centre des États-Unis, ont rapporté les autorités locales. Quatre personnes sont mortes dans l’Oklahoma"
         },
         {
+            "source": "RTL-info",
+            "title": "Tensions place Poelaert à Bruxelles : face-à-face sous haute surveillance entre militants antifascistes et groupe d’extrême droite",
+            "link": "https://www.rtl.be/actu/belgique/societe/tensions-place-poelaert-bruxelles-face-face-sous-haute-surveillance-entre/2026-03-07/article/781923",
+            "published": "Sat, 07 Mar 2026 16:11:04 +0000",
+            "summary": ""
+        },
+        {
             "source": "7sur7-Sport",
             "title": "Un one-man-show et un record: Pogacar (encore) intouchable sur les Strade Bianche, Seixas deuxième",
             "link": "https://www.7sur7.be/cyclisme/un-one-man-show-et-un-record-pogacar-encore-intouchable-sur-les-strade-bianche-seixas-deuxieme~abe1571d/",
@@ -560,6 +644,13 @@
             "summary": "Un Anversois de 22 ans, recherché par la justice, a été arrêté mardi dernier à l’aéroport de Lille-Lesquin, a indiqué samedi la zone de police d’Anvers. C’est la police aux frontières française qui l’"
         },
         {
+            "source": "RTL-info",
+            "title": "La FGTB fustige la réforme des pensions : «une mesure d’économie bête et méchante»",
+            "link": "https://www.rtl.be/actu/belgique/politique/la-fgtb-fustige-la-reforme-des-pensions-une-mesure-deconomie-bete-et-mechante/2026-03-07/article/781915",
+            "published": "Sat, 07 Mar 2026 14:02:53 +0000",
+            "summary": ""
+        },
+        {
             "source": "7sur7 Monde",
             "title": "“Au-dessus des lois”: les États-Unis plus seuls que jamais dans la guerre contre l’Iran",
             "link": "https://www.7sur7.be/monde/au-dessus-des-lois-les-etats-unis-plus-seuls-que-jamais-dans-la-guerre-contre-liran~a4984217/",
@@ -579,6 +670,13 @@
             "link": "https://www.7sur7.be/monde/je-dors-trois-heures-par-nuit-langoisse-dune-iranienne-exilee-sans-nouvelles-de-ses-proches~aafa8a16/",
             "published": "Sat, 07 Mar 2026 13:00:11 GMT",
             "summary": "Depuis maintenant une semaine que les bombes tombent sur l’Iran, Simin Goodarzi vit dans l’angoisse permanente: cette exilée en Californie n’a plus aucune nouvelle de ses proches restés au pays, à cau"
+        },
+        {
+            "source": "RTL-info",
+            "title": "« Le voyage était long, très long » : le rapatriement des Belges du Moyen-Orient bien lancé, un premier avion a atterri à Bruxelles",
+            "link": "https://www.rtl.be/actu/belgique/societe/le-voyage-etait-long-tres-long-le-rapatriement-des-belges-du-moyen-orient-bien/2026-03-07/article/781911",
+            "published": "Sat, 07 Mar 2026 12:41:37 +0000",
+            "summary": ""
         },
         {
             "source": "7sur7-Belgique",
@@ -635,106 +733,6 @@
             "link": "https://www.7sur7.be/tech/lue-veut-sevir-contre-les-armes-fantomes-creees-par-impression-3d-mais-celles-ci-seraient-finalement-tracables~a0a80780/",
             "published": "Sat, 07 Mar 2026 09:00:46 GMT",
             "summary": "Alors que la Commission européenne veut sévir contre l’usage croissant des imprimantes 3D pour créer des armes, celles-ci ne seraient déjà plus aussi intraçables que ne le souhaiteraient criminels et "
-        },
-        {
-            "source": "7sur7 Monde",
-            "title": "“Un réel danger”: comment la chaîne CBS s’est transformée pour “plaire à Trump”",
-            "link": "https://www.7sur7.be/tele/un-reel-danger-comment-la-chaine-cbs-sest-transformee-pour-plaire-a-trump~a5b7fe34/",
-            "published": "Sat, 07 Mar 2026 08:41:00 GMT",
-            "summary": "Chaîne incontournable du paysage audiovisuel américain, CBS est secouée par des changements éditoriaux liés à des pressions d’intérêts économiques visant à plaire à Donald Trump, illustration de l’éro"
-        },
-        {
-            "source": "7sur7-Sport",
-            "title": "Zizou Bergs sèchement battu au 2ᵉ tour, Elise Mertens éliminée d’entrée en double",
-            "link": "https://www.7sur7.be/tennis/zizou-bergs-sechement-battu-au-2-tour-elise-mertens-eliminee-dentree-en-double~af331ba2/",
-            "published": "Sat, 07 Mar 2026 07:37:44 GMT",
-            "summary": "Zizou Bergs a été éliminé au deuxième tour du tournoi de tennis d’Indian Wells, le premier Masters 1.000 de la saison, vendredi aux États-Unis (samedi matin heure belge)."
-        },
-        {
-            "source": "7sur7-Belgique",
-            "title": "Décollage interrompu à 235 km/h: comment un accident a été évité de justesse à Zaventem",
-            "link": "https://www.7sur7.be/belgique/decollage-interrompu-a-235-km-h-comment-un-accident-a-ete-evite-de-justesse-a-zaventem~a63b3114/",
-            "published": "Sat, 07 Mar 2026 07:21:00 GMT",
-            "summary": "Au moment de l’incident survenu le mois dernier à Brussels Airport, impliquant un vol de Scandinavian Airlines (SAS) qui a failli décoller depuis un taxiway, l’effectif des contrôleurs aériens dans la"
-        },
-        {
-            "source": "7sur7-Sport",
-            "title": "“L’ogre” Pogacar lance sa saison sur “ses” chemins des Strade Bianche",
-            "link": "https://www.7sur7.be/cyclisme/logre-pogacar-lance-sa-saison-sur-ses-chemins-des-strade-bianche~a8055a74/",
-            "published": "Sat, 07 Mar 2026 07:06:00 GMT",
-            "summary": "C’est désormais un rituel qui ne présage rien de bon pour la concurrence: l’ogre du cyclisme mondial Tadej Pogacar lance sa saison ce samedi sur les routes et chemins des Strade Bianche où il s’est dé"
-        },
-        {
-            "source": "7sur7-Belgique",
-            "title": "Le trafic ferroviaire fortement perturbé ce week-end à Bruxelles",
-            "link": "https://www.7sur7.be/belgique/le-trafic-ferroviaire-fortement-perturbe-ce-week-end-a-bruxelles~a3bc0780/",
-            "published": "Sat, 07 Mar 2026 06:47:00 GMT",
-            "summary": "En raison d’importants travaux de maintenance sur la jonction Nord-Midi, le trafic ferroviaire à Bruxelles sera fortement perturbé au cours du week-end. Ceci aura également des conséquences pour presq"
-        },
-        {
-            "source": "7sur7-Sport",
-            "title": "Catastrophe pour Verstappen: le Néerlandais sort de piste en qualifications à Melbourne",
-            "link": "https://www.7sur7.be/formule-1/catastrophe-pour-verstappen-le-neerlandais-sort-de-piste-en-qualifications-a-melbourne~va11e5155/",
-            "published": "Sat, 07 Mar 2026 06:31:00 GMT",
-            "summary": "Le quadruple champion du monde néerlandais Max Verstappen (Red Bull) a eu un accident lors de la première partie des qualifications (Q1) du GP d’Australie de F1 samedi et s’élancera depuis la voie des"
-        },
-        {
-            "source": "RTL-info",
-            "title": "« Stop, stop, stop » : un avion tente de décoller hors des pistes à Brussels Airport, un rapport officiel montre que le copilote a évité la catastrophe",
-            "link": "https://www.rtl.be/actu/belgique/faits-divers/stop-stop-stop-un-avion-tente-de-decoller-hors-des-pistes-brussels-airport-un/2026-03-07/article/781883",
-            "published": "Sat, 07 Mar 2026 05:56:38 +0000",
-            "summary": ""
-        },
-        {
-            "source": "RTL-info",
-            "title": "Vous passez par Bruxelles en train ce week-end ? Le trafic sera fortement perturbé, des gares inaccessibles",
-            "link": "https://www.rtl.be/actu/regions/bruxelles/vous-passez-par-bruxelles-en-train-ce-week-end-le-trafic-sera-fortement-perturbe/2026-03-07/article/781882",
-            "published": "Sat, 07 Mar 2026 05:41:50 +0000",
-            "summary": ""
-        },
-        {
-            "source": "RTL-info",
-            "title": "Dominique de Villepin fustige le « pari » de Trump en Iran : « On ne voit pas quelle est la vision du président américain »",
-            "link": "https://www.rtl.be/actu/belgique/politique/dominique-de-villepin-fustige-le-pari-de-trump-en-iran-ne-voit-pas-quelle-est-la/2026-03-07/article/781880",
-            "published": "Sat, 07 Mar 2026 05:00:00 +0000",
-            "summary": ""
-        },
-        {
-            "source": "France-info",
-            "title": "La claque du XV de France reçue en Ecosse, trois médailles françaises aux Jeux paralympiques, Mercedes en flèche... Le récap sport du week-end",
-            "link": "https://www.franceinfo.fr/sports/la-claque-du-xv-de-france-recue-en-ecosse-trois-medailles-francaises-aux-jeux-paralympiques-mercedes-en-fleche-le-recap-sport-du-week-end_7853804.html#xtor=RSS-3-[lestitres]",
-            "published": "Mon, 09 Mar 2026 09:11:28 +0100",
-            "summary": "Vous n'avez pas pu suivre tous les terrains de sport samedi et dimanche, Franceinfo: sport vous offre son récap ici."
-        },
-        {
-            "source": "RTBF Monde",
-            "title": "Direct – Conflit au Moyen-Orient : nouvelles frappes de l’Iran vers Israël, flambée historique du pétrole et du gaz",
-            "link": "https://www.rtbf.be/article/direct-conflit-au-moyen-orient-nouvelles-frappes-de-l-iran-vers-israel-flambee-historique-du-petrole-et-du-gaz-11691301",
-            "published": "Mon, 09 Mar 2026 08:27:24 +0100",
-            "summary": "Le prix du baril de pétrole frise les 120 dollars lundi, son plus haut niveau depuis l'été 2022 à la suite de..."
-        },
-        {
-            "source": "7sur7",
-            "title": "Voici ce que William et Andrew se sont dit lors de leur dernière apparition publique ensemble",
-            "link": "https://www.7sur7.be/monarchies/voici-ce-que-william-et-andrew-se-sont-dit-lors-de-leur-derniere-apparition-publique-ensemble~a0c60bcf/",
-            "published": "Mon, 09 Mar 2026 08:11:46 GMT",
-            "summary": "Dans une nouvelle émission britannique, Nicola Hickling, experte en lecture labiale, a révélé ce que le prince William a dit à son oncle, l’ancien prince Andrew, lors des funérailles de la duchesse de"
-        },
-        {
-            "source": "7sur7",
-            "title": "Une large victoire pour Toumani Camara et Portland",
-            "link": "https://www.7sur7.be/autres-sports/une-large-victoire-pour-toumani-camara-et-portland~a7f83f73/",
-            "description": "Un succès tranquille pour Toumani Camara et les Trail Blazers, qui ont largement dominé les Pacers à Portland (131-111).",
-            "published": "Mon, 09 Mar 2026 08:01:32 GMT",
-            "category": "Général"
-        },
-        {
-            "source": "7sur7-Sport",
-            "title": "Une large victoire pour Toumani Camara et Portland",
-            "link": "https://www.7sur7.be/autres-sports/une-large-victoire-pour-toumani-camara-et-portland~a7f83f73/",
-            "description": "Un succès tranquille pour Toumani Camara et les Trail Blazers, qui ont largement dominé les Pacers à Portland (131-111).",
-            "published": "Mon, 09 Mar 2026 08:01:32 GMT",
-            "category": "Général"
         }
     ]
 }
