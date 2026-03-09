@@ -3,8 +3,11 @@ import json
 import os
 from datetime import datetime
 
-# Configuration des sources
 SOURCES = {
+    "RTBF Info": "https://rss.rtbf.be/article/rss/rtbfinfo_homepage.xml",
+    "RTBF Monde": "https://rss.rtbf.be/article/rss/rtbfinfo_monde.xml",
+    "7sur7": "https://www.7sur7.be/rss.xml",
+    "7sur7 Monde": "https://www.7sur7.be/monde/rss.xml",
     "RTBF": "https://rss.rtbf.be/article/rss/rtbfinfo_homepage.xml",
     "7sur7": "https://www.7sur7.be/rss.xml",
     "Le Soir": "https://www.lesoir.be/rss/81851/extract.xml",
@@ -22,45 +25,60 @@ SOURCES = {
     "7sur7-people": "https://www.7sur7.be/show-biz/rss.xml"
 }
 
-def clean_date(date_str):
-    """Convertit les dates RSS en format ISO lisible."""
-    try:
-        # On tente de parser la date standard des flux RSS
-        dt = datetime.strptime(date_str, '%a, %d %b %Y %H:%M:%S %z')
-        return dt.isoformat()
-    except:
-        return date_str
-
 def fetch_news():
-    full_data = {
-        "last_update": datetime.now().isoformat(),
-        "article_count": 0,
-        "articles": []
-    }
+    # 1. Charger l'ancien fichier s'il existe pour ne pas perdre l'historique
+    if os.path.exists('news.json'):
+        with open('news.json', 'r', encoding='utf-8') as f:
+            try:
+                old_data = json.load(f)
+                articles_archive = old_data.get("articles", [])
+            except:
+                articles_archive = []
+    else:
+        articles_archive = []
 
+    # Créer un set des liens déjà enregistrés pour éviter les doublons
+    known_links = {a['link'] for a in articles_archive}
+    new_articles_count = 0
+
+    # 2. Récupérer les nouvelles entrées
     for name, url in SOURCES.items():
-        print(f"Récupération de : {name}...")
+        print(f"Vérification de : {name}...")
         feed = feedparser.parse(url)
         
-        for entry in feed.entries[:15]:  # On prend les 15 derniers par source
-            article = {
-                "source": name,
-                "title": entry.get("title", "Sans titre"),
-                "link": entry.get("link", ""),
-                "description": entry.get("summary", "").split('<')[0], # Nettoyage HTML basique
-                "published": clean_date(entry.get("published", "")),
-                "category": entry.get("category", "Général")
-            }
-            full_data["articles"].append(article)
+        for entry in feed.entries: # On prend TOUT ce qui est dispo
+            link = entry.get("link", "")
+            
+            # Si l'article n'est pas déjà dans notre archive
+            if link not in known_links:
+                new_article = {
+                    "source": name,
+                    "title": entry.get("title", "Sans titre"),
+                    "link": link,
+                    "published": entry.get("published", datetime.now().isoformat()),
+                    "summary": entry.get("summary", "").split('<')[0][:200] # Limite à 200 car.
+                }
+                articles_archive.append(new_article)
+                known_links.add(link)
+                new_articles_count += 1
 
-    # Tri par date (du plus récent au plus ancien)
-    full_data["articles"].sort(key=lambda x: x['published'], reverse=True)
-    full_data["article_count"] = len(full_data["articles"])
+    # 3. Trier par date et limiter à l'historique récent (ex: les 100 derniers articles)
+    # Note: On garde un historique pour que l'API soit riche
+    articles_archive.sort(key=lambda x: x.get('published', ''), reverse=True)
+    final_list = articles_archive[:100] 
 
-    # Sauvegarde
+    # 4. Sauvegarder
+    output = {
+        "last_update": datetime.now().isoformat(),
+        "new_articles_added": new_articles_count,
+        "total_articles": len(final_list),
+        "articles": final_list
+    }
+
     with open('news.json', 'w', encoding='utf-8') as f:
-        json.dump(full_data, f, ensure_ascii=False, indent=4)
-    print("Fichier news.json généré avec succès.")
+        json.dump(output, f, ensure_ascii=False, indent=4)
+    
+    print(f"Terminé ! {new_articles_count} nouveaux articles ajoutés.")
 
 if __name__ == "__main__":
     fetch_news()
