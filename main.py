@@ -22,7 +22,13 @@ SOURCES = {
     "7sur7-Belgique": "https://www.7sur7.be/belgique/rss.xml",
     "7sur7-Monde": "https://www.7sur7.be/etranger/rss.xml",
     "7sur7-Sport": "https://www.7sur7.be/sport/rss.xml",
-    "7sur7-people": "https://www.7sur7.be/show-biz/rss.xml"
+    "7sur7-people": "https://www.7sur7.be/show-biz/rss.xml",
+    "Frandroid": "https://www.frandroid.com/feed",
+    "Le Soir": "https://www.lesoir.be/rss/81851/tous_les_articles",
+    "Le Soir-Belgique": "https://www.lesoir.be/rss/81862/belgique",
+    "Le Soir-Monde": "https://www.lesoir.be/rss/81863/monde",
+    "Le Soir-Sport": "https://www.lesoir.be/rss/81866/sports",
+    "Le Soir-Culture": "https://www.lesoir.be/rss/81867/culture"
 }
 
 def fetch_news():
