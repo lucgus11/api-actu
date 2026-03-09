@@ -1,8 +1,15 @@
 {
-    "last_update": "2026-03-09T13:02:09.372105",
-    "new_articles_added": 137,
+    "last_update": "2026-03-09T15:58:19.818473",
+    "new_articles_added": 146,
     "total_articles": 100,
     "articles": [
+        {
+            "source": "France-info",
+            "title": "Après le procès en appel de l'assassinat de Samuel Paty, \"on ne peut pas être apaisés\", confie la mère du professeur",
+            "link": "https://www.franceinfo.fr/faits-divers/terrorisme/enseignant-decapite-dans-les-yvelines/apres-le-proces-en-appel-de-l-assassinat-de-samuel-paty-on-ne-peut-pas-etre-apaises-confie-la-mere-du-professeur_7842437.html#xtor=RSS-3-[lestitres]",
+            "published": "Tue, 03 Mar 2026 10:58:12 +0100",
+            "summary": "Bernadette Paty s'est confiée sur RTL mardi matin, au lendemain du verdict du procès en appel."
+        },
         {
             "source": "RTL-info",
             "title": "En Belgique, un travailleur coûte (très) cher à son employeur : combien doit-il débourser pour un salaire de 4.000€ brut ?",
@@ -726,13 +733,6 @@
             "link": "https://www.rtl.be/actu/belgique/societe/mouvement-de-greve-du-personnel-de-la-sncb-la-circulation-des-trains-sera/2026-03-07/article/781894",
             "published": "Sat, 07 Mar 2026 10:47:41 +0000",
             "summary": ""
-        },
-        {
-            "source": "7sur7 Monde",
-            "title": "Dans la prison californienne de San Quentin, un festival de cinéma derrière les barreaux",
-            "link": "https://www.7sur7.be/cinema/dans-la-prison-californienne-de-san-quentin-un-festival-de-cinema-derriere-les-barreaux~a947dca8/",
-            "published": "Sat, 07 Mar 2026 09:25:44 GMT",
-            "summary": "Organisé dans une prison tristement célèbre, abritant certains des criminels les plus violents des États-Unis, le festival de cinéma de San Quentin n’a rien d’un événement californien ordinaire."
         }
     ]
 }
