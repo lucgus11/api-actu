@@ -7,7 +7,19 @@ from datetime import datetime
 SOURCES = {
     "RTBF": "https://rss.rtbf.be/article/rss/rtbfinfo_homepage.xml",
     "7sur7": "https://www.7sur7.be/rss.xml",
-    "Le Soir": "https://www.lesoir.be/rss/81851/extract.xml"
+    "Le Soir": "https://www.lesoir.be/rss/81851/extract.xml",
+    "La Libre": "https://www.lalibre.be/rss/section/actu/belgique/",
+    "RTL-info": "https://feeds.feedburner.com/rtlinfo/belgique",
+    "Sud-info": "https://www.sudinfo.be/rss/2056/extract.xml",
+    "France-info": "https://www.francetvinfo.fr/titres.rss",
+    "RTBF-Belgique": "https://www.rtbf.be/info/rss/belgique.xml",
+    "RTBF-Une": "https://www.rtbf.be/info/rss/actu.xml",
+    "RTBF-Monde": "https://www.rtbf.be/info/rss/monde.xml",
+    "RTBF-sport": "https://www.rtbf.be/sport/rss/sport.xml",
+    "7sur7-Belgique": "https://www.7sur7.be/belgique/rss.xml",
+    "7sur7-Monde": "https://www.7sur7.be/etranger/rss.xml",
+    "7sur7-Sport": "https://www.7sur7.be/sport/rss.xml",
+    "7sur7-people": "https://www.7sur7.be/show-biz/rss.xml"
 }
 
 def clean_date(date_str):
