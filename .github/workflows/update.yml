@@ -1,0 +1,32 @@
+name: Update News API
+
+on:
+  schedule:
+    - cron: '0 */3 * * *' # Se lance toutes les 3 heures
+  workflow_dispatch: # Permet de le lancer manuellement pour tester
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Run scraper
+        run: python main.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "NewsBot"
+          git config --global user.email "bot@github.com"
+          git add news.json
+          git commit -m "Update news data" || exit 0
+          git push
