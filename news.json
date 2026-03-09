@@ -1,6 +1,6 @@
 {
-    "last_update": "2026-03-09T07:49:20.936637",
-    "article_count": 25,
+    "last_update": "2026-03-09T08:09:35.714884",
+    "article_count": 85,
     "articles": [
         {
             "source": "7sur7",
@@ -19,9 +19,25 @@
             "category": "Général"
         },
         {
+            "source": "7sur7-Belgique",
+            "title": "L’ex-bourgmestre d’Yvoir exclu de son groupe politique pour le cumul de son salaire d’échevin et de sa pension",
+            "link": "https://www.7sur7.be/belgique/lex-bourgmestre-dyvoir-exclu-de-son-groupe-politique-pour-le-cumul-de-son-salaire-dechevin-et-de-sa-pension~a63837ec/",
+            "description": "L’ancien bourgmestre d’Yvoir et actuel conseiller communal, Charles Paquet (86 ans), sera exclu de son groupe politique Ensemble pour Yvoir (EPY) le 17 mars, lors du prochain conseil communal. Il a cumulé, durant plusieurs années, une pension de mandataire et un salaire d’échevin, révèle le quotidien l’Avenir.",
+            "published": "Sun, 08 Mar 2026 22:00:00 GMT",
+            "category": "Général"
+        },
+        {
             "source": "7sur7",
             "title": "Grève de 3 jours sur le rail: le point sur les perturbations prévues",
             "link": "https://www.7sur7.be/belgique/greve-de-3-jours-sur-le-rail-le-point-sur-les-perturbations-prevues~a302a58b/",
+            "description": "Une grève de trois jours sur le rail belge a débuté dimanche à 22h et se poursuivra jusqu’à mercredi même heure.",
+            "published": "Sun, 08 Mar 2026 21:19:00 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Belgique",
+            "title": "La grève de 3 jours a débuté sur le rail",
+            "link": "https://www.7sur7.be/belgique/la-greve-de-3-jours-a-debute-sur-le-rail~a302a58b/",
             "description": "Une grève de trois jours sur le rail belge a débuté dimanche à 22h et se poursuivra jusqu’à mercredi même heure.",
             "published": "Sun, 08 Mar 2026 21:19:00 GMT",
             "category": "Général"
@@ -51,7 +67,15 @@
             "category": "Général"
         },
         {
-            "source": "7sur7",
+            "source": "7sur7-Sport",
+            "title": "Saint-Trond renoue avec le succès contre le Cercle Bruges",
+            "link": "https://www.7sur7.be/football-belge/saint-trond-renoue-avec-le-succes-contre-le-cercle-bruges~a957aa1d/",
+            "description": "Une semaine après sa défaite à l’Antwerp, Saint-Trond a retrouvé le chemin de la victoire face au Cercle Bruges (2-1) dimanche en clôture de la 28ᵉ journée de Jupiler Pro League. Les Canaris (57 points) rejoignent le Club Bruges à la deuxième place du général avec trois unités de retard sur le leader, l’Union Saint-Gilloise. Le Cercle (28 points) est 14e.",
+            "published": "Sun, 08 Mar 2026 20:47:49 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Sport",
             "title": "Chaos à Glasgow: envahissement de terrain et affrontement entre supporters après la qualification du Celtic",
             "link": "https://www.7sur7.be/football/chaos-a-glasgow-envahissement-de-terrain-et-affrontement-entre-supporters-apres-la-qualification-du-celtic~a8be0b1f/",
             "description": "Le Celtic a dominé les Rangers au bout du suspense pour valider son ticket pour la finale de la Coupe d’Écosse, mais ce Old Firm a surtout été marqué par les débordements qui ont eu lieu après le coup de sifflet final.",
@@ -59,15 +83,207 @@
             "category": "Général"
         },
         {
-            "source": "7sur7",
-            "title": "Un “bolide” lumineux a parcouru le ciel de Wallonie",
-            "link": "https://www.7sur7.be/sciences/un-bolide-lumineux-a-parcouru-le-ciel-de-wallonie~va89abe59/",
+            "source": "7sur7-Belgique",
+            "title": "Un “bolide” lumineux a parcouru le ciel de Wallonie ce dimanche soir",
+            "link": "https://www.7sur7.be/sciences/un-bolide-lumineux-a-parcouru-le-ciel-de-wallonie-ce-dimanche-soir~a89abe59/",
             "description": "Le phénomène astronomique a été observé par de nombreux Wallons ce dimanche soir, avec, parfois, une certaine angoisse légitime liée à l’actualité au Moyen-Orient.",
             "published": "Sun, 08 Mar 2026 19:56:00 GMT",
             "category": "Général"
         },
         {
+            "source": "7sur7-Sport",
+            "title": "Une victoire chanceuse, mais précieuse: le Standard s'impose à Zulte Waregem et se rapproche du top 6",
+            "link": "https://www.7sur7.be/football/une-victoire-chanceuse-mais-precieuse-le-standard-s-impose-a-zulte-waregem-et-se-rapproche-du-top-6~a914047b/",
+            "description": "Un match très compliqué, mais le Standard se relance complètement dans la course aux playoffs 1. Dominés pendant une grande partie de la rencontre à Zulte Waregem, les Rouches ont fait la différence à quelques minutes du coup de sifflet final grâce à Henry Lawrence. Ils s’imposent 0-1, grimpent à la septième place du classement et se rapprochent à un petit point du top 6.",
+            "published": "Sun, 08 Mar 2026 19:41:00 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Belgique",
+            "title": "Le PS veut bloquer les prix du gaz, du mazout, de l’essence et du diesel",
+            "link": "https://www.7sur7.be/economie/le-ps-veut-bloquer-les-prix-du-gaz-du-mazout-de-lessence-et-du-diesel~ad41ec55/",
+            "description": "Le PS déposera une proposition de loi pour bloquer à leur niveau actuel les prix du gaz, du mazout, de l’essence et du diesel, a annoncé dimanche le président, Paul Magnette, sur le plateau de RTL-TVi.",
+            "published": "Sun, 08 Mar 2026 19:20:00 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Belgique",
+            "title": "Des milliers de personnes ont défilé à Bruxelles pour la Journée de lutte pour les droits des femmes",
+            "link": "https://www.7sur7.be/belgique/des-milliers-de-personnes-ont-defile-a-bruxelles-pour-la-journee-de-lutte-pour-les-droits-des-femmes~af531566/",
+            "description": "Plusieurs milliers de personnes, 8.500 selon la police et 15.000 selon les organisatrices, ont défilé dans les rues du centre de Bruxelles dimanche après-midi, à l’occasion de la journée internationale de lutte pour le droit des femmes. Cette marche est à l’initiative de la “Marche mondiale des femmes”. D’autres associations, parmi lesquelles Amnesty International, le planning familial, le Collecti.e.f 8 maars étaient présentes à la mobilisation.",
+            "published": "Sun, 08 Mar 2026 18:46:38 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Sport",
+            "title": "En pleine crise, l’Ajax mise sur un ancien coach d’OHL",
+            "link": "https://www.7sur7.be/football/en-pleine-crise-lajax-mise-sur-un-ancien-coach-dohl~a780bc68/",
+            "description": "Un ancien entraîneur de Pro League à la tête du club le plus titré des Pays-Bas. Oscar Garcia, passé par OHL, est le nouveau T1 de l’Ajax, où il était arrivé le 10 février dernier pour diriger l’équipe réserve.",
+            "published": "Sun, 08 Mar 2026 18:43:00 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Belgique",
+            "title": "Un deuxième vol de rapatriement atterrira ce soir à Zaventem",
+            "link": "https://www.7sur7.be/monde/un-deuxieme-vol-de-rapatriement-atterrira-ce-soir-a-zaventem~ae497933/",
+            "description": "Un deuxième vol de rapatriement transportant 162 Belges depuis Dubaï est en route vers l’aéroport de Bruxelles via Larnaca, à Chypre, a confirmé dimanche soir sur X le ministre des Affaires étrangères Maxime Prévot (Les Engagés). Ce vol charter de Cyprus Airways devrait atterrir en Belgique vers 19h50.",
+            "published": "Sun, 08 Mar 2026 18:07:00 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Belgique",
+            "title": "Courtier en jets privés, il aide les ultra-riches à fuir la guerre au Moyen-Orient: “Plus de 100.000 euros par vol”",
+            "link": "https://www.7sur7.be/monde/courtier-en-jets-prives-il-aide-les-ultra-riches-a-fuir-la-guerre-au-moyen-orient-plus-de-100-000-euros-par-vol~ab72b8c7/",
+            "description": "Depuis l’offensive américano-israélienne lancée le 28 février contre l’Iran, le téléphone d’Arshad Bajwa, courtier en jets privés basé à Schilde (Anvers), n’arrête pas de sonner. Il reçoit jusqu’à dix demandes par jour: des exilés ou touristes désespérés qui cherchent à quitter le Moyen-Orient par tous les moyens. En raison de la très forte demande et des risques élevés, l’offre se réduit et les prix explosent, parfois à “plus de 100.000 € par vol”, confie-t-il. Mais qui sont ces clients prêts à payer une telle somme?",
+            "published": "Sun, 08 Mar 2026 17:43:00 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Sport",
+            "title": "La course au titre relancée en Ligue 1: Lens croque Metz et revient dans le sillage du PSG",
+            "link": "https://www.7sur7.be/football/la-course-au-titre-relancee-en-ligue-1-lens-croque-metz-et-revient-dans-le-sillage-du-psg~ac25e3ec/",
+            "description": "Deux jours après la défaite du PSG face à Monaco, le RC Lens en profite pour relancer la course au titre en Ligue 1. Les Lensois ont facilement dominé le FC Metz et reviennent à un point des Parisiens.",
+            "published": "Sun, 08 Mar 2026 16:34:14 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Sport",
+            "title": "Les Belges échouent de peu sur la première étape de Paris-Nice, Luke Lamperti fait coup double",
+            "link": "https://www.7sur7.be/cyclisme/les-belges-echouent-de-peu-sur-la-premiere-etape-de-paris-nice-luke-lamperti-fait-coup-double~a4c2c6e09/",
+            "description": "Luke Lamperti crée la surprise à Carrières-sous-Poisson. L’Américain a remporté, au sprint, la première étape de Paris-Nice et endosse le maillot jaune de leader. Vito Braet a échoué de justesse à la deuxième place et un autre Belge, Milan Fretin, prend la quatrième place.",
+            "published": "Sun, 08 Mar 2026 16:00:00 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Belgique",
+            "title": "Une bombe de la Seconde Guerre mondiale désamorcée près d’un camping à Lommel",
+            "link": "https://www.7sur7.be/faits-divers/une-bombe-de-la-seconde-guerre-mondiale-desamorcee-pres-dun-camping-a-lommel~ab868097/",
+            "description": "Un engin explosif de plus d’un mètre de long, une bombe aérienne datant de la Seconde Guerre mondiale, a été découvert samedi soir dans la réserve naturelle de Kattenbos à Lommel, à proximité du camping Blauwe Meer.",
+            "published": "Sun, 08 Mar 2026 15:47:00 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Sport",
+            "title": "Deux Belges battent le record du monde d’un semi-marathon insolite",
+            "link": "https://www.7sur7.be/insolite/deux-belges-battent-le-record-du-monde-dun-semi-marathon-insolite~a0c8c9e7/",
+            "description": "Louis Misplon et Gudrun Hespel ont inscrit dimanche leurs noms dans le Guinness World Records après avoir battu le record du semi-marathon le plus rapide parcouru déguisés en fruit, a annoncé Fairtrade Belgium, à l’origine de cette idée. Les deux athlètes, costumés en banane, ont réalisé cette performance lors de la Bashir’s Run à Gentbrugge, en Flandre-Orientale.",
+            "published": "Sun, 08 Mar 2026 15:15:00 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Sport",
+            "title": "Un Topper animé, mais sans vainqueur: Bruges et Anderlecht dos à dos",
+            "link": "https://www.7sur7.be/football/un-topper-anime-mais-sans-vainqueur-bruges-et-anderlecht-dos-a-dos~a1d2a5c1/",
+            "description": "Pas de vainqueur à l’issue du choc du week-end. Le Sporting d’Anderlecht est passé tout près d’un joli coup sur la pelouse du Jan Breydelstadion, mais le Club de Bruges a arraché le partage en fin de match grâce à Nicolo Tresoldi (2-2).",
+            "published": "Sun, 08 Mar 2026 14:28:00 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Belgique",
+            "title": "Une Tesla prend feu à Grimbergen, la cause de l’incendie inconnue",
+            "link": "https://www.7sur7.be/belgique/une-tesla-prend-feu-a-grimbergen-la-cause-de-lincendie-inconnue~af6360a7/",
+            "description": "Les pompiers sont intervenus samedi soir après qu’une Tesla a pris feu dans la commune de Grimbergen, en Brabant flamand.",
+            "published": "Sun, 08 Mar 2026 13:19:13 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Belgique",
+            "title": "Grève sur le rail: quelles seront les perturbations?",
+            "link": "https://www.7sur7.be/belgique/greve-sur-le-rail-quelles-seront-les-perturbations~a38642df/",
+            "description": "En raison d’un mouvement de grève organisé par le syndicat socialiste CGSP contre certaines décisions du gouvernement, la circulation des trains sera réduite dès ce dimanche 8 mars à 22h00 jusqu’au mercredi 11 mars inclus, indique la SNCB. Un service alternatif est mis en place sur la base des membres du personnel ayant signalé leur intention de travailler.",
+            "published": "Sun, 08 Mar 2026 12:53:00 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Sport",
+            "title": "Troisième titre à la suite: la belle série continue pour Hanne Vandewinkel",
+            "link": "https://www.7sur7.be/autres-sports/troisieme-titre-a-la-suite-la-belle-serie-continue-pour-hanne-vandewinkel~a5ea2554/",
+            "description": "Après les deux titres empochés en Inde en février, Hanne Vandewinkel continue sur sa lancée. La jeune joueuse belge a aligné une 15e victoire consécutif pour décrocher son troisième titre de l’année à Trnava, en Slovaquie.",
+            "published": "Sun, 08 Mar 2026 12:06:02 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Sport",
+            "title": "À la maison, Bashir Abdi améliore son record de Belgique du semi-marathon",
+            "link": "https://www.7sur7.be/autres-sports/a-la-maison-bashir-abdi-ameliore-son-record-de-belgique-du-semi-marathon~afcd735c/",
+            "description": "Un triomphe à domicile pour Bashir Abdi. Sans surprise, le double médaillé olympique a remporté les championnats de Belgique de semi-marathon à Anvers, mais il a aussi amélioré son record de Belgique de plus de 20 secondes.",
+            "published": "Sun, 08 Mar 2026 11:59:06 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Sport",
+            "title": "“Une vilaine faute”: ce tacle de Burgess méritait-il l’exclusion?",
+            "link": "https://www.7sur7.be/football-belge/une-vilaine-faute-ce-tacle-de-burgess-meritait-il-lexclusion~a5db73c9/",
+            "description": "Après avoir ouvert le score pour l’Union contre Genk samedi soir, Christian Burgess a également provoqué un penalty à la 65e minute en taclant le jeune Robin Mirisola, qui en porte encore les stigmates.",
+            "published": "Sun, 08 Mar 2026 11:27:00 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Belgique",
+            "title": "“Cela a été très dur”: les premiers Belges rapatriés accueillis à Zaventem",
+            "link": "https://www.7sur7.be/belgique/cela-a-ete-tres-dur-les-premiers-belges-rapatries-accueillis-a-zaventem~ac6a765b/",
+            "description": "L’émotion était au rendez-vous dimanche matin à l’aéroport de Zaventem lorsque le premier vol de rapatriement de ressortissants belges depuis le Moyen-Orient a atterri. L’avion, parti samedi soir d’Oman, a posé ses roues sur le tarmac belge vers 7h30 dimanche.",
+            "published": "Sun, 08 Mar 2026 11:00:01 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Belgique",
+            "title": "Vos vacances de Pâques vont-elles tomber à l’eau? Le point par destination",
+            "link": "https://www.7sur7.be/voyager/vos-vacances-de-paques-vont-elles-tomber-a-leau-le-point-par-destination~a32c4f3d/",
+            "description": "Un missile intercepté au-dessus du territoire turc et une frappe de drone sur une base britannique à Chypre: la guerre en Iran s’exporte jusque sur le continent européen et se rapproche aussi de destinations touristiques populaires. Un mois avant le début des vacances de Pâques, plusieurs questions se posent. Mon voyage est-il compromis? La sécurité sera-t-elle garantie? Faut-il que j’annule? Nous évaluons les risques par destination.",
+            "published": "Sun, 08 Mar 2026 10:17:00 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Sport",
+            "title": "George Russell remporte le premier Grand Prix de la saison, doublé pour Mercedes",
+            "link": "https://www.7sur7.be/formule-1/george-russell-remporte-le-premier-grand-prix-de-la-saison-double-pour-mercedes~ac98fc03/",
+            "description": "George Russell (Mercedes) a remporté dimanche à Melbourne le 40e Grand Prix d’Australie de Formule 1, devançant son coéquipier Kimi Antonelli et la Ferrari de Charles Leclerc.",
+            "published": "Sun, 08 Mar 2026 06:47:13 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Sport",
+            "title": "Rugby Europe Championship: la Belgique écrase les Pays-Bas et jouera la Suisse pour la 5e place",
+            "link": "https://www.7sur7.be/autres-sports/rugby-europe-championship-la-belgique-ecrase-les-pays-bas-et-jouera-la-suisse-pour-la-5e-place~ad55db11/",
+            "description": "La Belgique a largement dominé les Pays-Bas 38-15 dans son premier match de classement du championnat d’Europe de Rugby (REC) samedi à Liège. Les Diables Noirs ont gagné le droit de disputer le match pour la 5e place contre la Suisse, le 15 mars à Madrid.",
+            "published": "Sat, 07 Mar 2026 21:13:02 GMT",
+            "category": "Général"
+        },
+        {
             "source": "7sur7",
+            "title": "Une large victoire pour Toumani Camara et Portland",
+            "link": "https://www.7sur7.be/autres-sports/une-large-victoire-pour-toumani-camara-et-portland~a7f83f73/",
+            "description": "Un succès tranquille pour Toumani Camara et les Trail Blazers, qui ont largement dominé les Pacers à Portland (131-111).",
+            "published": "Mon, 09 Mar 2026 08:01:32 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Sport",
+            "title": "Une large victoire pour Toumani Camara et Portland",
+            "link": "https://www.7sur7.be/autres-sports/une-large-victoire-pour-toumani-camara-et-portland~a7f83f73/",
+            "description": "Un succès tranquille pour Toumani Camara et les Trail Blazers, qui ont largement dominé les Pacers à Portland (131-111).",
+            "published": "Mon, 09 Mar 2026 08:01:32 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7",
+            "title": "Un touriste belge drogué et dépouillé de 40.000 euros lors d’un rendez-vous galant en Colombie",
+            "link": "https://www.7sur7.be/faits-divers/un-touriste-belge-drogue-et-depouille-de-40-000-euros-lors-dun-rendez-vous-galant-en-colombie~aefb9061/",
+            "description": "Un rendez-vous galant en Colombie a viré au cauchemar pour un touriste belge. L’homme aurait été drogué par une femme rencontrée quelques jours auparavant. À son réveil, le lendemain matin, celle-ci avait disparu, comme plusieurs objets de valeur.",
+            "published": "Mon, 09 Mar 2026 07:53:51 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7",
+            "title": "“Moi, je suis un traître?”: l’explosion de José Mourinho pendant le choc entre Benfica et Porto",
+            "link": "https://www.7sur7.be/football/moi-je-suis-un-traitre-lexplosion-de-jose-mourinho-pendant-le-choc-entre-benfica-et-porto~a45cc131/",
+            "description": "Du spectacle, du suspense et beaucoup de tensions dans le choc entre Benfica et Porto, dimanche soir, à Lisbonne. Un choc marqué notamment par l’explosion de José Mourinho, qui s’est fâché sur son vis-à-vis en fin de match.",
+            "published": "Mon, 09 Mar 2026 07:45:05 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Sport",
             "title": "“Moi, je suis un traître?”: l’explosion de José Mourinho pendant le choc entre Benfica et Porto",
             "link": "https://www.7sur7.be/football/moi-je-suis-un-traitre-lexplosion-de-jose-mourinho-pendant-le-choc-entre-benfica-et-porto~a45cc131/",
             "description": "Du spectacle, du suspense et beaucoup de tensions dans le choc entre Benfica et Porto, dimanche soir, à Lisbonne. Un choc marqué notamment par l’explosion de José Mourinho, qui s’est fâché sur son vis-à-vis en fin de match.",
@@ -83,7 +299,23 @@
             "category": "Général"
         },
         {
+            "source": "7sur7-Belgique",
+            "title": "Nouveauté chez les retraités, région où l’on est le plus heureux: le bonheur des Belges passé à la loupe",
+            "link": "https://www.7sur7.be/belgique/nouveaute-chez-les-retraites-region-ou-lon-est-le-plus-heureux-le-bonheur-des-belges-passe-a-la-loupe~a76c07a8/",
+            "description": "Tout comme il y a un an, le bonheur des Belges est à nouveau en recul, ressort-il de la dernière étude nationale sur le bonheur, menée auprès de 2.300 personnes par l'Université de Gand (UGent) et l'assureur NN et publiée lundi. Les Belges lui attribuent en moyenne une note de 6,53 sur 10.",
+            "published": "Mon, 09 Mar 2026 07:04:05 GMT",
+            "category": "Général"
+        },
+        {
             "source": "7sur7",
+            "title": "“Un acte extrêmement violent d’antisémitisme”: explosion devant une synagogue à Liège",
+            "link": "https://www.7sur7.be/belgique/un-acte-extremement-violent-dantisemitisme-explosion-devant-une-synagogue-a-liege~ae036561/",
+            "description": "Le bourgmestre de Liège Willy Demeyer (PS) parle d'un \"acte extrêmement violent d'antisémitisme contraire à la tradition liégeoise de respect de l'autre\" pour condamner l'explosion qui s'est produite dans la nuit de dimanche à lundi devant la synagogue de Liège, rue Léon Frédéricq.",
+            "published": "Mon, 09 Mar 2026 06:38:00 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Belgique",
             "title": "“Un acte extrêmement violent d’antisémitisme”: explosion devant une synagogue à Liège, pas de blessé",
             "link": "https://www.7sur7.be/belgique/un-acte-extremement-violent-dantisemitisme-explosion-devant-une-synagogue-a-liege-pas-de-blesse~ae036561/",
             "description": "Le bourgmestre de Liège Willy Demeyer (PS) parle d'un \"acte extrêmement violent d'antisémitisme contraire à la tradition liégeoise de respect de l'autre\" pour condamner l'explosion qui s'est produite dans la nuit de dimanche à lundi devant la synagogue de Liège, rue Léon Frédéricq.",
@@ -92,6 +324,14 @@
         },
         {
             "source": "7sur7",
+            "title": "“Une gifle”: un médecin soupçonné d’avoir arnaqué la sécurité sociale pour plus de 5 millions d’euros",
+            "link": "https://www.7sur7.be/belgique/une-gifle-un-medecin-soupconne-davoir-arnaque-la-securite-sociale-pour-plus-de-5-millions-deuros~a483fd0f/",
+            "description": "Un médecin de Waterloo est soupçonné d’avoir délesté la sécurité sociale de plus de cinq millions d’euros au cours des dernières années, écrit lundi Het Laatste Nieuws. Une enquête judiciaire est en cours.",
+            "published": "Mon, 09 Mar 2026 06:22:00 GMT",
+            "category": "Général"
+        },
+        {
+            "source": "7sur7-Belgique",
             "title": "“Une gifle”: un médecin soupçonné d’avoir arnaqué la sécurité sociale pour plus de 5 millions d’euros",
             "link": "https://www.7sur7.be/belgique/une-gifle-un-medecin-soupconne-davoir-arnaque-la-securite-sociale-pour-plus-de-5-millions-deuros~a483fd0f/",
             "description": "Un médecin de Waterloo est soupçonné d’avoir délesté la sécurité sociale de plus de cinq millions d’euros au cours des dernières années, écrit lundi Het Laatste Nieuws. Une enquête judiciaire est en cours.",
@@ -123,6 +363,38 @@
             "category": "Général"
         },
         {
+            "source": "France-info",
+            "title": "Droits des femmes à l'échelle locale : \"C'est le moment de demander aux maires de s'engager\", plaide l'ONG Oxfam France",
+            "link": "https://www.franceinfo.fr/societe/droits-des-femmes/droits-des-femmes-a-l-echelle-locale-c-est-le-moment-de-demander-aux-maires-de-s-engager-plaide-l-ong-oxfam-france_7855574.html#xtor=RSS-3-[lestitres]",
+            "description": "Oxfam a publié un rapport qu'un tiers des plus grandes villes françaises ne dispose pas d’élu en charge de l’égalité de genre et des droits des femmes. Elle invite notamment à se demander si \"les deniers publics de la ville bénéficient autant aux femmes qu'aux hommes\".",
+            "published": "2026-03-09T09:00:02+01:00",
+            "category": "Général"
+        },
+        {
+            "source": "France-info",
+            "title": "Guerre au Moyen-Orient : le recours aux réserves stratégiques de carburant \"est une option envisagée\" par le gouvernement français pour faire face à la flambée des prix",
+            "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-le-recours-aux-reserves-strategiques-de-carburant-est-une-option-envisagee-par-le-gouvernement-francais-pour-faire-face-a-la-flambee-des-prix_7855583.html#xtor=RSS-3-[lestitres]",
+            "description": "",
+            "published": "2026-03-09T08:59:36+01:00",
+            "category": "Général"
+        },
+        {
+            "source": "France-info",
+            "title": "Guerre au Moyen-Orient : le baril de pétrole dépasse la barre symbolique des 100 dollars, de nouvelles frappes en Iran, en Israël, au Liban et à travers le Golfe",
+            "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-le-baril-de-petrole-depasse-la-barre-symbolique-des-100-dollars-l-iran-israel-et-le-liban-cibles-par-de-nouvelles-frappes-dans-la-nuit_7855397.html#xtor=RSS-3-[lestitres]",
+            "description": "Cette flambée du baril est un \"tout petit prix à payer pour la paix et la sécurité des Etats-Unis et du monde\", a assuré le président américain Donald Trump sur son réseau Truth Social.",
+            "published": "2026-03-09T08:41:47+01:00",
+            "category": "Général"
+        },
+        {
+            "source": "France-info",
+            "title": "Nouveau guide suprême nommé, sites pétroliers attaqués, déplacés au Liban... Ce qu'il faut retenir du neuvième jour de guerre au Moyen-Orient",
+            "link": "https://www.franceinfo.fr/monde/iran/frappes-americaines-en-iran/premiere-attaque-contre-des-infrastructures-energetiques-iraniennes-successeur-d-ali-khamenei-choisi-deplaces-au-liban-ce-qu-il-faut-retenir-du-neuvieme-jour-de-guerre-au-moyen-orient_7854344.html#xtor=RSS-3-[lestitres]",
+            "description": "",
+            "published": "2026-03-09T08:38:20+01:00",
+            "category": "Général"
+        },
+        {
             "source": "RTBF",
             "title": "Assises du Hainaut : il est accusé d’avoir porté un coup de couteau fatal dans une rue de Charleroi en juillet 2022",
             "link": "https://www.rtbf.be/article/assises-du-hainaut-il-est-accuse-d-un-coup-de-couteau-fatal-en-juillet-2022-dans-une-rue-de-charleroi-11691238",
@@ -139,6 +411,38 @@
             "category": "SOCIETE"
         },
         {
+            "source": "France-info",
+            "title": "Au Bahreïn, une frappe iranienne provoque un incendie dans un complexe pétrolier",
+            "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/au-bahrein-une-frappe-iranienne-provoque-un-incendie-dans-un-complexe-petrolier_7855517.html#xtor=RSS-3-[lestitres]",
+            "description": "",
+            "published": "2026-03-09T08:26:11+01:00",
+            "category": "Général"
+        },
+        {
+            "source": "France-info",
+            "title": "Guerre au Moyen-Orient : \"15 000 personnes\" rapatriées par des vols commerciaux et \"900\" par le gouvernement, selon Jean-Noël Barrot",
+            "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-15-000-personnes-rapatriees-par-des-vols-commerciaux-et-900-par-le-gouvernement-selon-jean-noel-barrot_7855532.html#xtor=RSS-3-[lestitres]",
+            "description": "",
+            "published": "2026-03-09T08:24:21+01:00",
+            "category": "Général"
+        },
+        {
+            "source": "France-info",
+            "title": "La maison de Rihanna visée par des tirs à Los Angeles, une femme interpellée",
+            "link": "https://www.franceinfo.fr/culture/musique/rihanna/la-maison-de-rihanna-visee-par-des-tirs-a-los-angeles-une-femme-a-ete-interpellee_7855481.html#xtor=RSS-3-[lestitres]",
+            "description": "Au moins une balle a transpercé un mur de la demeure où la chanteuse vit avec son conjoint A$AP Rocky et leurs trois enfants.",
+            "published": "2026-03-09T07:45:31+01:00",
+            "category": "Général"
+        },
+        {
+            "source": "France-info",
+            "title": "La préfecture de la Marne autorise la distribution d'une eau potable présentant des traces de pesticides dans plusieurs communes près de Reims",
+            "link": "https://www.franceinfo.fr/environnement/pollution/qualite-de-l-eau/pollution-eau-potable/la-prefecture-de-la-marne-autorise-la-distribution-d-une-eau-potable-presentant-des-traces-de-pesticides-dans-plusieurs-communes-pres-de-reims_7855496.html#xtor=RSS-3-[lestitres]",
+            "description": "La quantité de chloridazone retrouvée dans l'eau du robinet est bien au-delà de la qualité réglementaire fixée par l'Union européenne. L'Anses assure toutefois qu'elle ne représente pas un danger pour la santé.",
+            "published": "2026-03-09T07:43:32+01:00",
+            "category": "Général"
+        },
+        {
             "source": "RTBF",
             "title": "La maison de Rihanna visée par des tirs à Los Angeles",
             "link": "https://www.rtbf.be/article/la-maison-de-rihanna-visee-par-des-tirs-a-los-angeles-11691309",
@@ -147,12 +451,44 @@
             "category": "MEDIAS"
         },
         {
+            "source": "France-info",
+            "title": "Qui est Mojtaba Khamenei, fils d'Ali Khamenei et nouveau guide suprême de l'Iran ?",
+            "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/qui-est-mojtaba-khamenei-le-fils-du-guide-supreme-tue-en-iran-dont-le-nom-circule-pour-diriger-le-pays_7844948.html#xtor=RSS-3-[lestitres]",
+            "description": "",
+            "published": "2026-03-09T07:20:02+01:00",
+            "category": "Général"
+        },
+        {
+            "source": "RTL-info",
+            "title": "Explosion devant une synagogue à Liège : la rue est fermée, un périmètre de sécurité établi",
+            "link": "https://www.rtl.be/actu/belgique/faits-divers/explosion-devant-une-synagogue-liege-la-rue-est-fermee-un-perimetre-de-securite/2026-03-09/article/782030",
+            "description": "",
+            "published": "2026-03-09T06:47:08+00:00",
+            "category": "Général"
+        },
+        {
+            "source": "France-info",
+            "title": "Un cadre de la mairie de Tremblay-en-France accusé de harcèlement moral et sexuel et d’agression sexuelle",
+            "link": "https://www.franceinfo.fr/enquetes-franceinfo/tremblay-en-france-un-cadre-de-la-mairie-accuse-de-harcelement-moral-et-sexuel-et-d-agression-sexuelle_7850348.html#xtor=RSS-3-[lestitres]",
+            "description": "Deux agentes de la commune de Seine-Saint-Denis ont déposé plainte contre leur directeur de service pour harcèlement moral, harcèlement sexuel et agression sexuelle. Cet homme est toujours en poste malgré des signalements contre lui effectués par six autres femmes depuis 2021.",
+            "published": "2026-03-09T06:34:20+01:00",
+            "category": "Général"
+        },
+        {
             "source": "RTBF",
             "title": "Flambée historique du pétrole, la guerre au Moyen-Orient fait s’envoler les cours de 30% et dépasse les 110 dollars",
             "link": "https://www.rtbf.be/article/flambee-historique-du-petrole-la-guerre-au-moyen-orient-fait-s-envoler-les-cours-de-30-11691295",
             "description": "Vers 03H30 GMT, le baril de WTI, référence du marché américain, s'envolait de 25,30%, à 113,90 dollars, après avoir...",
             "published": "2026-03-09T06:34:04+01:00",
             "category": "ECONOMIE"
+        },
+        {
+            "source": "RTL-info",
+            "title": "« Au moins cinq millions d’euros » : un médecin de Waterloo soupçonné d’avoir utilisé les cartes d’identité de patients vulnérables à Charleroi",
+            "link": "https://www.rtl.be/actu/belgique/societe/au-moins-cinq-millions-deuros-un-medecin-de-waterloo-soupconne-davoir-utilise/2026-03-09/article/782028",
+            "description": "",
+            "published": "2026-03-09T06:28:38+00:00",
+            "category": "Général"
         },
         {
             "source": "RTBF",
@@ -171,12 +507,84 @@
             "category": "REGIONS"
         },
         {
+            "source": "RTL-info",
+            "title": "« J’ai tout de suite appelé les pompiers » : un important incendie (potentiellement criminel) s’est déclaré dans un commerce de Charleroi",
+            "link": "https://www.rtl.be/actu/regions/hainaut/jai-tout-de-suite-appele-les-pompiers-un-important-incendie-potentiellement/2026-03-09/article/782024",
+            "description": "",
+            "published": "2026-03-09T05:54:10+00:00",
+            "category": "Général"
+        },
+        {
+            "source": "France-info",
+            "title": "Municipales 2026 à Lille : succession de Martine Aubry, bataille à gauche… Tout comprendre aux enjeux du scrutin",
+            "link": "https://www.franceinfo.fr/elections/municipales-2026-a-lille-succession-de-martine-aubry-bataille-a-gauche-tout-comprendre-aux-enjeux-du-scrutin_7828823.html#xtor=RSS-3-[lestitres]",
+            "description": "Après presque vingt-quatre années passées à la tête de la ville, la socialiste Martine Aubry a passé la main en 2025 à son premier adjoint Arnaud Deslandes. Le nouveau maire va tenter de conserver son fauteuil, même si d'autres têtes de liste, à gauche, espèrent lui succéder.",
+            "published": "2026-03-09T05:52:28+01:00",
+            "category": "Général"
+        },
+        {
+            "source": "France-info",
+            "title": "Marges d'erreur, coût, commanditaires… Faut-il se méfier des sondages pour les élections municipales ?",
+            "link": "https://www.franceinfo.fr/elections/marges-d-erreur-cout-commanditaires-faut-il-se-mefier-des-sondages-pour-les-elections-municipales_7847651.html#xtor=RSS-3-[lestitres]",
+            "description": "A l'approche du scrutin, les sondages et les critiques qui les accompagnent se multiplient dans certaines villes. Face à une recrudescence de fausses études, la commission des sondages appelle à la vigilance.",
+            "published": "2026-03-09T05:51:08+01:00",
+            "category": "Général"
+        },
+        {
+            "source": "France-info",
+            "title": "\"Ce procès ne va servir à rien\" : après une première semaine chaotique, le procès de Tariq Ramadan pour viols reprend lundi sans l'islamologue suisse",
+            "link": "https://www.franceinfo.fr/societe/justice/tariq-ramadan/ce-proces-ne-va-servir-a-rien-apres-une-premiere-semaine-chaotique-le-proces-de-tariq-ramadan-pour-viols-reprend-lundi-sans-l-islamologue-suisse_7852286.html#xtor=RSS-3-[lestitres]",
+            "description": "L'ex-conférencier star de 63 ans, désormais sous mandat d'arrêt, sera jugé par défaut et à huis clos par la cour criminelle départementale de Paris. La justice estime qu'il n'a fait valoir \"aucune excuse valable\" pour son absence. Ses avocats déplorent un \"mépris grave des droits de la défense\".",
+            "published": "2026-03-09T05:49:20+01:00",
+            "category": "Général"
+        },
+        {
+            "source": "RTL-info",
+            "title": "Lors du passage d’un agent de Vivaqua, Lucas a constaté que son tuyau d’arrivée d’eau était en plomb : est-ce toxique pour la santé ?",
+            "link": "https://www.rtl.be/actu/belgique/societe/lors-du-passage-dun-agent-de-vivaqua-lucas-constate-que-son-tuyau-darrivee-deau/2026-03-09/article/782022",
+            "description": "",
+            "published": "2026-03-09T05:00:00+00:00",
+            "category": "Général"
+        },
+        {
+            "source": "RTL-info",
+            "title": "« Ceux qui viennent pour s’enrichir n’ont pas leur place au PS » : Paul Magnette très clair sur les nouvelles règles du Parti Socialiste",
+            "link": "https://www.rtl.be/actu/belgique/politique/ceux-qui-viennent-pour-senrichir-nont-pas-leur-place-au-ps-paul-magnette-tres/2026-03-09/article/782021",
+            "description": "",
+            "published": "2026-03-09T05:00:00+00:00",
+            "category": "Général"
+        },
+        {
+            "source": "France-info",
+            "title": "Guerre au Moyen-Orient : le Quai d'Orsay promet \"d'autres vols affrétés\" par le gouvernement \"dans les prochains jours\"",
+            "link": "https://www.franceinfo.fr/france/mayotte/guerre-au-moyen-orient-le-quai-d-orsay-promet-d-autres-vols-affretes-par-le-gouvernement-dans-les-prochains-jours_7855313.html#xtor=RSS-3-[lestitres]",
+            "description": "",
+            "published": "2026-03-09T03:20:03+01:00",
+            "category": "Général"
+        },
+        {
             "source": "RTBF",
             "title": "Conflit au Moyen-Orient : l'Iran menace d'un \"pétrole à plus de 200 dollars \" et de cibler les sites pétroliers du Golfe",
             "link": "https://www.rtbf.be/article/direct-conflit-au-moyen-orient-l-iran-se-dit-pret-a-au-moins-six-mois-de-guerre-un-hotel-vise-en-plein-centre-de-beyrouth-11690994",
             "description": "La guerre au Moyen-Orient, entrée dimanche dans son neuvième jour, a aussi donné lieu à de nouvelles attaques aériennes...",
             "published": "2026-03-08T21:11:22+01:00",
             "category": "MONDE"
+        },
+        {
+            "source": "RTL-info",
+            "title": "« Le MR et les Engagés ont tellement menti » : Paul Magnette démonte la réforme du chômage et propose des solutions pour créer de l’emploi",
+            "link": "https://www.rtl.be/actu/belgique/politique/le-mr-et-les-engages-ont-tellement-menti-paul-magnette-demonte-la-reforme-du/2026-03-08/article/782013",
+            "description": "",
+            "published": "2026-03-08T20:01:17+00:00",
+            "category": "Général"
+        },
+        {
+            "source": "RTL-info",
+            "title": "Guerre au Moyen-Orient : quelle position pour le gouvernement belge ? « Il y a la réalité des principes »",
+            "link": "https://www.rtl.be/actu/belgique/politique/guerre-au-moyen-orient-quelle-position-pour-le-gouvernement-belge-il-y-la/2026-03-08/article/782009",
+            "description": "",
+            "published": "2026-03-08T19:02:36+00:00",
+            "category": "Général"
         },
         {
             "source": "RTBF",
@@ -195,12 +603,84 @@
             "category": "REGIONS"
         },
         {
+            "source": "RTL-info",
+            "title": "Nouvelle alerte jaune au brouillard sur une bonne partie de la Belgique",
+            "link": "https://www.rtl.be/actu/belgique/meteo/nouvelle-alerte-jaune-au-brouillard-sur-une-bonne-partie-de-la-belgique/2026-03-08/article/781992",
+            "description": "",
+            "published": "2026-03-08T17:38:08+00:00",
+            "category": "Général"
+        },
+        {
             "source": "RTBF",
             "title": "Le prix de l'essence en hausse : le gouvernement pourrait-il actionner le cliquet inversé ?",
             "link": "https://www.rtbf.be/article/le-prix-de-l-essence-en-hausse-le-gouvernement-pourrait-il-reintroduire-le-cliquet-inverse-11691109",
             "description": "La dernière fois qu'on en avait parlé, le prix du pétrole était à 130 dollars le baril de brent sur les marchés....",
             "published": "2026-03-08T16:19:01+01:00",
             "category": "BELGIQUE"
+        },
+        {
+            "source": "RTL-info",
+            "title": "95 % des habitats naturels de Belgique sont en mauvais état : « On va perdre toute une série d’espèces »",
+            "link": "https://www.rtl.be/actu/regions/namur/95-des-habitats-naturels-de-belgique-sont-en-mauvais-etat-va-perdre-toute-une/2026-03-08/article/781983",
+            "description": "",
+            "published": "2026-03-08T15:06:59+00:00",
+            "category": "Général"
+        },
+        {
+            "source": "France-info",
+            "title": "\"Il pleut du pétrole sur Téhéran\" : après des frappes sur des dépôts pétroliers, des résidus de suie imprègnent la capitale iranienne et ses environs",
+            "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/il-pleut-du-petrole-sur-teheran-apres-des-frappes-sur-des-depots-petrolier-des-residus-de-suies-impregnent-la-capitale-iranienne-et-ses-environs_7853861.html#xtor=RSS-3-[lestitres]",
+            "description": "",
+            "published": "2026-03-08T12:43:00+01:00",
+            "category": "Général"
+        },
+        {
+            "source": "RTL-info",
+            "title": "« Un seul train est parti », « Les navetteurs peu impactés » : la grève sur le rail provoque des perturbations variables selon les lignes",
+            "link": "https://www.rtl.be/actu/belgique/societe/un-seul-train-est-parti-les-navetteurs-peu-impactes-la-greve-sur-le-rail/2026-03-08/article/781964",
+            "description": "",
+            "published": "2026-03-08T11:29:54+00:00",
+            "category": "Général"
+        },
+        {
+            "source": "RTL-info",
+            "title": "Attention si vous prenez la route : l’IRM lance une alerte jaune au brouillard sur plusieurs provinces",
+            "link": "https://www.rtl.be/actu/belgique/meteo/attention-si-vous-prenez-la-route-lirm-lance-une-alerte-jaune-au-brouillard-sur/2026-03-07/article/781943",
+            "description": "",
+            "published": "2026-03-07T20:18:48+00:00",
+            "category": "Général"
+        },
+        {
+            "source": "RTL-info",
+            "title": "« On n’oublie pas » : 10 ans après les attentats du 22 mars, le témoignage de Patricia Vanderlinden, première entrée dans l’aéroport dévasté",
+            "link": "https://www.rtl.be/actu/belgique/societe/noublie-pas-10-ans-apres-les-attentats-du-22-mars-le-temoignage-de-patricia/2026-03-07/article/781935",
+            "description": "",
+            "published": "2026-03-07T18:35:44+00:00",
+            "category": "Général"
+        },
+        {
+            "source": "RTL-info",
+            "title": "Tensions place Poelaert à Bruxelles : face-à-face sous haute surveillance entre militants antifascistes et groupe d’extrême droite",
+            "link": "https://www.rtl.be/actu/belgique/societe/tensions-place-poelaert-bruxelles-face-face-sous-haute-surveillance-entre/2026-03-07/article/781923",
+            "description": "",
+            "published": "2026-03-07T16:11:04+00:00",
+            "category": "Général"
+        },
+        {
+            "source": "RTL-info",
+            "title": "La FGTB fustige la réforme des pensions : «une mesure d’économie bête et méchante»",
+            "link": "https://www.rtl.be/actu/belgique/politique/la-fgtb-fustige-la-reforme-des-pensions-une-mesure-deconomie-bete-et-mechante/2026-03-07/article/781915",
+            "description": "",
+            "published": "2026-03-07T14:02:53+00:00",
+            "category": "Général"
+        },
+        {
+            "source": "RTL-info",
+            "title": "« Le voyage était long, très long » : le rapatriement des Belges du Moyen-Orient bien lancé, un premier avion a atterri à Bruxelles",
+            "link": "https://www.rtl.be/actu/belgique/societe/le-voyage-etait-long-tres-long-le-rapatriement-des-belges-du-moyen-orient-bien/2026-03-07/article/781911",
+            "description": "",
+            "published": "2026-03-07T12:41:37+00:00",
+            "category": "Général"
         }
     ]
 }
