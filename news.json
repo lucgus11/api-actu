@@ -1,6 +1,6 @@
 {
-    "last_update": "2026-03-09T09:51:49.666279",
-    "new_articles_added": 112,
+    "last_update": "2026-03-09T13:02:09.372105",
+    "new_articles_added": 137,
     "total_articles": 100,
     "articles": [
         {
@@ -172,6 +172,13 @@
             "source": "7sur7",
             "title": "Un “bolide” lumineux a parcouru le ciel de Wallonie",
             "link": "https://www.7sur7.be/sciences/un-bolide-lumineux-a-parcouru-le-ciel-de-wallonie~va89abe59/",
+            "published": "Sun, 08 Mar 2026 19:56:00 GMT",
+            "summary": "Le phénomène astronomique a été observé par de nombreux Wallons ce dimanche soir, avec, parfois, une certaine angoisse légitime liée à l’actualité au Moyen-Orient."
+        },
+        {
+            "source": "7sur7-Belgique",
+            "title": "Un “bolide” lumineux a parcouru le ciel de Belgique ce dimanche soir",
+            "link": "https://www.7sur7.be/sciences/un-bolide-lumineux-a-parcouru-le-ciel-de-belgique-ce-dimanche-soir~a89abe59/",
             "published": "Sun, 08 Mar 2026 19:56:00 GMT",
             "summary": "Le phénomène astronomique a été observé par de nombreux Wallons ce dimanche soir, avec, parfois, une certaine angoisse légitime liée à l’actualité au Moyen-Orient."
         },
@@ -726,13 +733,6 @@
             "link": "https://www.7sur7.be/cinema/dans-la-prison-californienne-de-san-quentin-un-festival-de-cinema-derriere-les-barreaux~a947dca8/",
             "published": "Sat, 07 Mar 2026 09:25:44 GMT",
             "summary": "Organisé dans une prison tristement célèbre, abritant certains des criminels les plus violents des États-Unis, le festival de cinéma de San Quentin n’a rien d’un événement californien ordinaire."
-        },
-        {
-            "source": "7sur7 Monde",
-            "title": "L’UE veut sévir contre les armes “fantômes” créées par impression 3D, mais celles-ci seraient finalement traçables",
-            "link": "https://www.7sur7.be/tech/lue-veut-sevir-contre-les-armes-fantomes-creees-par-impression-3d-mais-celles-ci-seraient-finalement-tracables~a0a80780/",
-            "published": "Sat, 07 Mar 2026 09:00:46 GMT",
-            "summary": "Alors que la Commission européenne veut sévir contre l’usage croissant des imprimantes 3D pour créer des armes, celles-ci ne seraient déjà plus aussi intraçables que ne le souhaiteraient criminels et "
         }
     ]
 }
