@@ -1,6 +1,6 @@
 {
-    "last_update": "2026-03-10T21:28:42.852266",
-    "new_articles_added": 132,
+    "last_update": "2026-03-11T01:57:12.600639",
+    "new_articles_added": 125,
     "total_articles": 100,
     "articles": [
         {
@@ -19,10 +19,73 @@
         },
         {
             "source": "France-info",
+            "title": "Les Etats-Unis menacent l'Iran de frappes \"intenses\", nouveaux bombardements israéliens au Liban... Ce qu'il faut retenir du onzième jour du conflit au Moyen-Orient",
+            "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/les-etats-unis-menacent-l-iran-de-frappes-intenses-nouveaux-bombardements-israeliens-au-liban-ce-qu-il-faut-retenir-du-onzieme-jour-du-conflit-au-moyen-orient_7858970.html#xtor=RSS-3-[lestitres]",
+            "published": "Tue, 10 Mar 2026 23:56:44 +0100",
+            "summary": "Le ministre de la Défense des Etats-Unis, Pete Hegseth, a affirmé que mardi constituerait \"le jour le plus intense de frappes\" sur l'Iran."
+        },
+        {
+            "source": "France-info",
+            "title": "Quatre interpellés après des soupçons de projet d’évasion d’un chef présumé de la DZ Mafia à la prison de Vendin-le-Vieil",
+            "link": "https://www.franceinfo.fr/faits-divers/quatre-interpelles-apres-des-soupcons-de-projet-d-evasion-d-un-chef-presume-de-la-dz-mafia-a-la-prison-de-vendin-le-vieil_7859006.html#xtor=RSS-3-[lestitres]",
+            "published": "Tue, 10 Mar 2026 23:17:10 +0100",
+            "summary": "Les enquêteurs ont interpellé quatre suspects, tandis que le cadre présumé de la DZ Mafia et son avocat étaient placés en garde à vue lors d'une opération contre le narcotrafic visant l'organisation c"
+        },
+        {
+            "source": "France-info",
+            "title": "Ligue des champions : la frénésie du Bayern, les quinze minutes lunaires du gardien de Tottenham... Ce qu'il faut retenir des premiers 8es de finale",
+            "link": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/ligue-des-champions-la-frenesie-du-bayern-les-quinze-minutes-lunaires-du-gardien-de-tottenham-ce-qu-il-faut-retenir-des-premiers-8es-de-finale_7858967.html#xtor=RSS-3-[lestitres]",
+            "published": "Tue, 10 Mar 2026 23:16:53 +0100",
+            "summary": "Les quatre premiers huitièmes de finale aller ont souri au Bayern Munich, à Galatasaray et à l'Atlético de Madrid mardi soir."
+        },
+        {
+            "source": "France-info",
+            "title": "La guerre se propage au Liban : Jean-Yves Le Drian, ancien ministre des Armées, dans \"L'Evénement\"",
+            "link": "https://www.franceinfo.fr/replay-magazine/france-2/l-evenement/video-la-france-face-a-la-guerre-jean-yves-le-drian-ancien-ministre-des-armees-dans-l-evenement_7858907.html#xtor=RSS-3-[lestitres]",
+            "published": "Tue, 10 Mar 2026 23:14:50 +0100",
+            "summary": ""
+        },
+        {
+            "source": "7sur7",
+            "title": "Le penalty qui a sauvé le Barça à Newcastle",
+            "link": "https://www.7sur7.be/football/le-penalty-qui-a-sauve-le-barca-a-newcastle~va82ca7b7/",
+            "published": "Tue, 10 Mar 2026 22:36:41 GMT",
+            "summary": "Newcastle était parti pour s’offrir une victoire méritée en huitième de finale aller de la Ligue des champions, mais le Barça a été sauvé par un penalty en toute fin de rencontre."
+        },
+        {
+            "source": "7sur7-Sport",
+            "title": "Le penalty qui a sauvé le Barça à Newcastle",
+            "link": "https://www.7sur7.be/football/le-penalty-qui-a-sauve-le-barca-a-newcastle~a82ca7b7/",
+            "published": "Tue, 10 Mar 2026 22:36:41 GMT",
+            "summary": "Newcastle était parti pour s’offrir une victoire méritée en huitième de finale aller de la Ligue des champions, mais le Barça a été sauvé par un penalty en toute fin de rencontre."
+        },
+        {
+            "source": "7sur7",
+            "title": "Remplacé après deux boulettes et 17 minutes: la soirée cauchemardesque du gardien de Tottenham",
+            "link": "https://www.7sur7.be/football/remplace-apres-deux-boulettes-et-17-minutes-la-soiree-cauchemardesque-du-gardien-de-tottenham~va5ce973c/",
+            "published": "Tue, 10 Mar 2026 22:26:18 GMT",
+            "summary": "Le cauchemar d’Antonin Kinsky à Madrid. Le portier de Tottenham a multiplié les boulettes et a concédé trois buts en un quart d’heure contre l’Atlético, avant de céder sa place à Guglielmo Vicario."
+        },
+        {
+            "source": "7sur7-Sport",
+            "title": "Remplacé après deux boulettes et 17 minutes: la soirée cauchemardesque du gardien de Tottenham",
+            "link": "https://www.7sur7.be/football/remplace-apres-deux-boulettes-et-17-minutes-la-soiree-cauchemardesque-du-gardien-de-tottenham~a5ce973c/",
+            "published": "Tue, 10 Mar 2026 22:26:18 GMT",
+            "summary": "Le cauchemar d’Antonin Kinsky à Madrid. Le portier de Tottenham a multiplié les boulettes et a concédé trois buts en un quart d’heure contre l’Atlético, avant de céder sa place à Guglielmo Vicario."
+        },
+        {
+            "source": "France-info",
             "title": "Plusieurs morts et blessés dans l'incendie d'un autocar en Suisse, selon la police",
             "link": "https://www.franceinfo.fr/faits-divers/plusieurs-morts-et-blesses-dans-l-incendie-d-un-autocar-en-suisse-selon-la-police_7858931.html#xtor=RSS-3-[lestitres]",
             "published": "Tue, 10 Mar 2026 22:13:55 +0100",
             "summary": "Les faits se sont déroulés à Kerzers, dans une petite ville du canton de Fribourg. \"Les causes ne sont pour l'heure pas connues\", ont ajouté les forces de l'ordre."
+        },
+        {
+            "source": "7sur7",
+            "title": "Georges-Louis Bouchez veut présenter des listes MR en Flandre en 2029: “Créer un parti national”",
+            "link": "https://www.7sur7.be/monde/georges-louis-bouchez-veut-presenter-des-listes-mr-en-flandre-en-2029-creer-un-parti-national~ad832f8e/",
+            "published": "Tue, 10 Mar 2026 22:03:03 GMT",
+            "summary": "Le président du MR Georges-Louis Bouchez a confirmé mardi soir, lors d’un débat étudiant bilingue organisé à la VUB, son intention de présenter des listes électorales en Flandre en 2029. Il dit travai"
         },
         {
             "source": "France-info",
@@ -32,11 +95,25 @@
             "summary": ""
         },
         {
+            "source": "7sur7",
+            "title": "Le Bayern dévore l’Atalanta, le Barça frustre Newcastle, l’Atlético croque Tottenham",
+            "link": "https://www.7sur7.be/football-etranger/le-bayern-devore-latalanta-le-barca-frustre-newcastle-latletico-croque-tottenham~va7d42448/",
+            "published": "Tue, 10 Mar 2026 21:54:00 GMT",
+            "summary": "Un mardi soir riche en buts en Ligue des champions. Le Bayern et l’Atlético ont déjà fait de grands pas vers les quarts de finale, Newcastle et le Barça n’ont pas réussi à se départager. À Bergame, le"
+        },
+        {
             "source": "RTBF Info",
             "title": "Incendie d'un autocar en Suisse : plusieurs morts et blessés",
             "link": "https://www.rtbf.be/article/incendie-d-un-autocar-en-suisse-plusieurs-morts-et-blesses-11692414",
             "published": "Tue, 10 Mar 2026 21:42:40 +0100",
             "summary": "L'incendie s'est déclaré vers 18h25 dans un car postal à Chiètres, a annoncé la police du canton de Fribourg sur son..."
+        },
+        {
+            "source": "7sur7",
+            "title": "L’incendie d’un autocar fait au moins six morts en Suisse: la piste d’un “acte volontaire” privilégiée",
+            "link": "https://www.7sur7.be/monde/lincendie-dun-autocar-fait-au-moins-six-morts-en-suisse-la-piste-dun-acte-volontaire-privilegiee~a9da79b4/",
+            "published": "Tue, 10 Mar 2026 21:38:00 GMT",
+            "summary": "Au moins six personnes sont mortes dans l’incendie d’un autocar mardi en début de soirée à Chiètres, en Suisse."
         },
         {
             "source": "France-info",
@@ -109,6 +186,13 @@
             "summary": "\"L'audit conclut à ce stade qu'il ne peut pas y avoir d'assurance raisonnable quant à l'absence d'écriture et d'action..."
         },
         {
+            "source": "RTL-info",
+            "title": "Des odeurs inhabituelles signalées par plusieurs riverains dans deux communes bruxelloises : voici ce qu’il se passe",
+            "link": "https://www.rtl.be/actu/regions/bruxelles/des-odeurs-inhabituelles-signalees-par-plusieurs-riverains-dans-deux-communes/2026-03-10/article/782249",
+            "published": "Tue, 10 Mar 2026 20:26:11 +0000",
+            "summary": ""
+        },
+        {
             "source": "France-info",
             "title": "Guerre au Moyen-Orient : les images satellite, un outil devenu très stratégique",
             "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-les-images-satellite-un-outil-devenu-tres-strategique_7858391.html#xtor=RSS-3-[lestitres]",
@@ -141,6 +225,13 @@
             "title": "Test de la Zendure SolarFlow 2400 AC+ : avons-nous enfin trouvé la batterie solaire parfaite ?",
             "link": "https://www.frandroid.com/survoltes/energie/batteries-et-panneaux-solaires/3008163_test-de-la-zendure-solarflow-2400-ac-avons-nous-enfin-trouve-la-batterie-solaire-parfaite",
             "published": "Tue, 10 Mar 2026 20:00:00 +0000",
+            "summary": ""
+        },
+        {
+            "source": "RTL-info",
+            "title": "Essence : comment expliquer des prix si différents d’une station à l’autre ?",
+            "link": "https://www.rtl.be/actu/belgique/economie/essence-comment-expliquer-des-prix-si-differents-dune-station-lautre/2026-03-10/article/782245",
+            "published": "Tue, 10 Mar 2026 19:55:10 +0000",
             "summary": ""
         },
         {
@@ -235,6 +326,13 @@
             "summary": ""
         },
         {
+            "source": "RTL-info",
+            "title": "Un retour de l’antisémitisme en Belgique ? En réalité, il n’a jamais vraiment disparu... et les chiffres le prouvent",
+            "link": "https://www.rtl.be/actu/belgique/societe/un-retour-de-lantisemitisme-en-belgique-en-realite-il-na-jamais-vraiment-disparu/2026-03-10/article/782236",
+            "published": "Tue, 10 Mar 2026 18:41:22 +0000",
+            "summary": ""
+        },
+        {
             "source": "France-info",
             "title": "Le gouvernement iranien annonce l'arrestation de 30 personnes pour espionnage, dont un étranger",
             "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/le-gouvernement-iranien-annonce-l-arrestation-de-30-personnes-pour-espionnage-dont-un-etranger_7858625.html#xtor=RSS-3-[lestitres]",
@@ -282,6 +380,13 @@
             "link": "https://www.frandroid.com/marques/mercedes-benz/2967999_je-suis-monte-a-bord-du-mercedes-benz-vle-pourquoi-je-pense-que-ce-van-electrique-na-aucun-rival-en-europe",
             "published": "Tue, 10 Mar 2026 18:15:00 +0000",
             "summary": ""
+        },
+        {
+            "source": "France-info",
+            "title": "Gazole, essence... Découvrez si les prix des carburants dans les stations près de chez vous sont plus élevés que la moyenne en France",
+            "link": "https://www.franceinfo.fr/economie/automobile/essence/carte-gazole-essence-decouvrez-si-les-prix-des-carburants-dans-les-stations-pres-de-chez-vous-sont-plus-eleves-que-la-moyenne-en-france_7856207.html#xtor=RSS-3-[lestitres]",
+            "published": "Tue, 10 Mar 2026 18:05:14 +0100",
+            "summary": "Franceinfo a comparé les prix à la pompe dans chaque point de vente à la moyenne nationale, dans un contexte de hausse lié à la guerre au Moyen-Orient. L'analyse des données du ministère de l'Economie"
         },
         {
             "source": "France-info",
@@ -597,111 +702,6 @@
             "link": "https://www.7sur7.be/belgique/un-premier-pas-vers-linterdiction-a-vie-dentree-sur-le-territoire-belge~a261392a/",
             "published": "Tue, 10 Mar 2026 16:04:29 GMT",
             "summary": "La commission de l’Intérieur de la Chambre a approuvé mardi en première lecture le projet de loi qui permettra à l’Office des étrangers d’infliger des interdictions d’entrée sur le territoire à vie. S"
-        },
-        {
-            "source": "Frandroid",
-            "title": "Payer plus cher pour un vieux smartphone : l’ère des bonnes affaires est officiellement terminée chez Oppo et OnePlus",
-            "link": "https://www.frandroid.com/produits-android/smartphone/3007893_payer-plus-cher-pour-un-vieux-smartphone-lere-des-bonnes-affaires-est-officiellement-terminee-chez-oppo-et-oneplus",
-            "published": "Tue, 10 Mar 2026 16:02:30 +0000",
-            "summary": ""
-        },
-        {
-            "source": "Frandroid",
-            "title": "Voici l’Origine Newton[e], un vélo électrique français de moins de 10 kg qui impressionne par sa légèreté",
-            "link": "https://www.frandroid.com/marques/origine/3001855_voici-lorigine-newtone-un-velo-electrique-francais-de-moins-de-10-kg-qui-impressionne-par-sa-legerete",
-            "published": "Tue, 10 Mar 2026 16:00:00 +0000",
-            "summary": ""
-        },
-        {
-            "source": "France-info",
-            "title": "\"Je me suis entraîné avec ChatGPT\" : un biathlète ukrainien médaillé aux Jeux paralympiques d'hiver 2026 a eu recours à l'intelligence artificielle... et il n'est pas le premier",
-            "link": "https://www.franceinfo.fr/jeux-paralympiques/milan-cortina-2026/je-me-suis-entraine-avec-chatgpt-un-biathlete-ukrainien-medaille-aux-jeux-paralympiques-d-hiver-2026-a-eu-recours-a-l-intelligence-artificielle-et-il-n-est-pas-le-premier_7858199.html#xtor=RSS-3-[lestitres]",
-            "published": "Tue, 10 Mar 2026 15:59:55 +0100",
-            "summary": "Maksym Murashkovskyi a terminé second dans l'épreuve individuelle de parabiathlon, dimanche, en ayant remplacé par une IA son entraîneur, mais aussi son psy et son médecin."
-        },
-        {
-            "source": "RTBF Monde",
-            "title": "La menace nucléaire iranienne justifie-t-elle la guerre ? \"Tant que le régime est en place, leur détermination sera intacte\"",
-            "link": "https://www.rtbf.be/article/la-menace-nucleaire-iranienne-justifie-t-elle-la-guerre-tant-que-le-regime-est-en-place-leur-determination-sera-intacte-11692071",
-            "published": "Tue, 10 Mar 2026 15:57:38 +0100",
-            "summary": "\"Donald Trump ne sait pas lui-même pourquoi il est parti en guerre, estime l'ancien officier Guillaume Ancel. En..."
-        },
-        {
-            "source": "7sur7",
-            "title": "Ineos remporte de justesse le chrono par équipes de Paris-Nice, Ayuso enfile le maillot jaune",
-            "link": "https://www.7sur7.be/cyclisme/ineos-remporte-de-justesse-le-chrono-par-equipes-de-paris-nice-ayuso-enfile-le-maillot-jaune~a72f6aab/",
-            "published": "Tue, 10 Mar 2026 15:57:36 GMT",
-            "summary": "Victoire et... déception pour Ineos-Grenadiers à Pouilly-sur-Loire. L’équipe britannique a remporté le contre-la-montre par équipes, mais c’est un coureur de l’équipe Lidl-Trek, deuxième de l’étape à "
-        },
-        {
-            "source": "7sur7 Monde",
-            "title": "L’ambassade de Belgique à Téhéran déplacée en Azerbaïdjan",
-            "link": "https://www.7sur7.be/monde/lambassade-de-belgique-a-teheran-deplacee-en-azerbaidjan~a38dc351/",
-            "published": "Tue, 10 Mar 2026 15:51:00 GMT",
-            "summary": "L’ambassade de Belgique à Téhéran, la capitale iranienne, a été temporairement déplacée en Azerbaïdjan, a annoncé mardi le ministre des Affaires étrangères Maxime Prévot."
-        },
-        {
-            "source": "RTL-info",
-            "title": "« La Belgique est devenue une poubelle pour les islamistes et les radicaux en Europe » : les propos virulents de Denis Ducarme à la Chambre",
-            "link": "https://www.rtl.be/actu/belgique/politique/la-belgique-est-devenue-une-poubelle-pour-les-islamistes-et-les-radicaux-en/2026-03-10/article/782205",
-            "published": "Tue, 10 Mar 2026 15:49:00 +0000",
-            "summary": ""
-        },
-        {
-            "source": "Frandroid",
-            "title": "Pourquoi BYD va continuer à vendre des voitures électriques équipées d’anciennes batteries",
-            "link": "https://www.frandroid.com/marques/byd/3007299_pourquoi-byd-va-continuer-a-vendre-des-voitures-electriques-equipees-danciennes-batteries",
-            "published": "Tue, 10 Mar 2026 15:40:58 +0000",
-            "summary": ""
-        },
-        {
-            "source": "Frandroid",
-            "title": "Comment débuter en impression 3D ? Nos conseils et nos astuces",
-            "link": "https://www.frandroid.com/produits-android/imprimantes-3d/2872781_comment-debuter-en-impression-3d-nos-conseils-et-nos-astuces",
-            "published": "Tue, 10 Mar 2026 15:39:55 +0000",
-            "summary": ""
-        },
-        {
-            "source": "France-info",
-            "title": "Grâce aux fortes pluies de février, la recharge des nappes phréatiques est \"exceptionnelle\"",
-            "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/grace-aux-fortes-pluies-de-fevrier-la-recharge-des-nappes-phreatiques-est-exceptionnelle_7858313.html#xtor=RSS-3-[lestitres]",
-            "published": "Tue, 10 Mar 2026 15:36:33 +0100",
-            "summary": "Ces précipitations sur des sols saturés en eau ont entraîné des débordements de cours d'eau et d'importantes inondations, mais elles ont aussi permis une recharge \"active\" des nappes phréatiques avec "
-        },
-        {
-            "source": "RTBF Info",
-            "title": "Opération anti-DZ Mafia en France : 42 personnes, dont les 3 chefs présumés, en garde à vue",
-            "link": "https://www.rtbf.be/article/operation-anti-dz-mafia-en-france-42-personnes-dont-les-3-chefs-presumes-en-garde-a-vue-11692238",
-            "published": "Tue, 10 Mar 2026 15:35:21 +0100",
-            "summary": "La DZ Mafia est une nébuleuse majeure du narcotrafic de Marseille, deuxième ville de France. selon des sources proches du..."
-        },
-        {
-            "source": "France-info",
-            "title": "\"Ça a des conséquences sur les Américains\" : aux Etats-Unis, début de grogne face à la hausse des prix du carburant",
-            "link": "https://www.franceinfo.fr/economie/automobile/essence/reportage-ca-a-des-consequences-sur-les-americains-aux-etats-unis-debut-de-grogne-face-a-la-hausse-des-prix-du-carburant_7857932.html#xtor=RSS-3-[lestitres]",
-            "published": "Tue, 10 Mar 2026 15:33:30 +0100",
-            "summary": "Si Donald Trump tente de convaincre de la nécessité de la guerre engagée au Moyen-Orient, la hausse des prix du carburant aux Etats-Unis le met en difficulté."
-        },
-        {
-            "source": "Frandroid",
-            "title": "Hausse des prix de la RAM, délais rallongés et pénurie, tout comprendre de la crise de la RAM",
-            "link": "https://www.frandroid.com/produits-android/2912661_hausse-des-prix-delais-rallonges-et-penurie-tout-ce-quil-faut-comprendre-de-la-crise-de-la-ram",
-            "published": "Tue, 10 Mar 2026 15:30:25 +0000",
-            "summary": ""
-        },
-        {
-            "source": "Frandroid",
-            "title": "The Witcher 4 : grâce à Nvidia, les forêts du jeu vont franchir un cap visuel jamais vu",
-            "link": "https://www.frandroid.com/marques/nvidia/3007443_the-witcher-4-grace-a-nvidia-les-forets-du-jeu-vont-franchir-un-cap-visuel-jamais-vu",
-            "published": "Tue, 10 Mar 2026 15:30:00 +0000",
-            "summary": ""
-        },
-        {
-            "source": "RTBF Monde",
-            "title": "Direct – Guerre au Moyen-Orient : aux Emirats arabes unis, l'une des plus grandes raffineries au monde suspend sa production",
-            "link": "https://www.rtbf.be/article/direct-conflit-au-moyen-orient-trump-predit-une-fin-imminente-de-la-guerre-l-iran-se-rallie-derriere-son-nouveau-guide-supreme-11691905",
-            "published": "Tue, 10 Mar 2026 15:27:57 +0100",
-            "summary": "Le Premier ministre israélien Benjamin Netanyahou a affirmé mardi qu'Israël \"brisait les os\" du pouvoir iranien depuis le..."
         }
     ]
 }
