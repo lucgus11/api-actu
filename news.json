@@ -1,6 +1,6 @@
 {
-    "last_update": "2026-03-11T01:57:12.600639",
-    "new_articles_added": 125,
+    "last_update": "2026-03-11T04:42:49.733172",
+    "new_articles_added": 117,
     "total_articles": 100,
     "articles": [
         {
@@ -58,6 +58,13 @@
             "link": "https://www.7sur7.be/football/le-penalty-qui-a-sauve-le-barca-a-newcastle~a82ca7b7/",
             "published": "Tue, 10 Mar 2026 22:36:41 GMT",
             "summary": "Newcastle était parti pour s’offrir une victoire méritée en huitième de finale aller de la Ligue des champions, mais le Barça a été sauvé par un penalty en toute fin de rencontre."
+        },
+        {
+            "source": "RTBF Monde",
+            "title": "Guerre au Moyen-Orient : la marine américaine n'a pas escorté de pétrolier à travers le détroit d'Ormuz (relire notre direct)",
+            "link": "https://www.rtbf.be/article/direct-conflit-au-moyen-orient-trump-predit-une-fin-imminente-de-la-guerre-l-iran-se-rallie-derriere-son-nouveau-guide-supreme-11691905",
+            "published": "Tue, 10 Mar 2026 22:28:16 +0100",
+            "summary": "Le Premier ministre israélien Benjamin Netanyahou a affirmé mardi qu'Israël \"brisait les os\" du pouvoir iranien depuis..."
         },
         {
             "source": "7sur7",
@@ -695,13 +702,6 @@
             "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/une-enquete-de-l-onu-accuse-la-russie-d-avoir-commis-des-crimes-contre-l-humanite-en-deportant-de-force-des-milliers-d-enfants-ukrainiens_7858370.html#xtor=RSS-3-[lestitres]",
             "published": "Tue, 10 Mar 2026 16:04:33 +0100",
             "summary": "Dans leur rapport, les enquêteurs ont constaté que les autorités russes avaient \"déporté et transféré illégalement des enfants\" dès le début de leur offensive en Ukraine et qu'elles avaient \"indûment "
-        },
-        {
-            "source": "7sur7",
-            "title": "Un premier pas vers l’interdiction à vie d’entrée sur le territoire belge",
-            "link": "https://www.7sur7.be/belgique/un-premier-pas-vers-linterdiction-a-vie-dentree-sur-le-territoire-belge~a261392a/",
-            "published": "Tue, 10 Mar 2026 16:04:29 GMT",
-            "summary": "La commission de l’Intérieur de la Chambre a approuvé mardi en première lecture le projet de loi qui permettra à l’Office des étrangers d’infliger des interdictions d’entrée sur le territoire à vie. S"
         }
     ]
 }
