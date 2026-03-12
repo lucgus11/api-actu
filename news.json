@@ -1,6 +1,6 @@
 {
-    "last_update": "2026-03-12T12:59:03.512811",
-    "new_articles_added": 186,
+    "last_update": "2026-03-12T16:03:29.956303",
+    "new_articles_added": 196,
     "total_articles": 100,
     "articles": [
         {
@@ -196,6 +196,13 @@
             "source": "RTL-info",
             "title": "Une vidéo de l’attentat à la synagogue de Liège dévoilée ? Les images sont analysées, un groupe djihadiste serait à l’origine",
             "link": "https://www.rtl.be/actu/regions/liege/une-video-de-lattentat-la-synagogue-de-liege-devoilee-les-images-sont-analysees/2026-03-11/article/782377",
+            "published": "Wed, 11 Mar 2026 20:33:07 +0000",
+            "summary": ""
+        },
+        {
+            "source": "RTL-info",
+            "title": "Vidéo de l’attentat à la synagogue de Liège : du travail d’amateur ? « Il y a une erreur »",
+            "link": "https://www.rtl.be/actu/regions/liege/video-de-lattentat-la-synagogue-de-liege-du-travail-damateur-il-y-une-erreur/2026-03-11/article/782377",
             "published": "Wed, 11 Mar 2026 20:33:07 +0000",
             "summary": ""
         },
@@ -695,13 +702,6 @@
             "link": "https://www.rtbf.be/article/tensions-sur-les-marches-du-petrole-les-membres-de-l-agence-internationale-de-l-energie-debloquent-400-millions-de-barils-des-stocks-strategiques-11692648",
             "published": "Wed, 11 Mar 2026 15:50:24 +0100",
             "summary": "L'évolution des prix du pétrole, repartis à la hausse ce mercredi matin, et la craintes pour l'approvisionnement en..."
-        },
-        {
-            "source": "Frandroid",
-            "title": "À moins de 9 000 euros, cette nouvelle voiture électrique chinoise a tout pour détruire le marché européen",
-            "link": "https://www.frandroid.com/survoltes/voitures-electriques/3009797_a-moins-de-9-000-euros-cette-nouvelle-voiture-electrique-chinoise-a-tout-pour-detruire-le-marche-europeen",
-            "published": "Wed, 11 Mar 2026 15:47:07 +0000",
-            "summary": ""
         }
     ]
 }
