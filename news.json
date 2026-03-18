@@ -1,14 +1,448 @@
 {
-    "last_update": "2026-03-18T09:54:36.440651",
-    "new_articles_added": 184,
+    "last_update": "2026-03-18T13:10:59.477147",
+    "new_articles_added": 161,
     "total_articles": 100,
     "articles": [
+        {
+            "source": "RTBF Info",
+            "title": "Plusieurs blessés à Liège après une collision entre un tram et un bus",
+            "link": "https://www.rtbf.be/article/plusieurs-blesses-a-liege-apres-une-collision-entre-un-tram-et-un-bus-11696311",
+            "published": "Wed, 18 Mar 2026 13:58:25 +0100",
+            "summary": "Il y a une dizaine de blessés légers pris en charge par les ambulances sur place. Un plan d'intervention médicale (PIM) a..."
+        },
+        {
+            "source": "France-info",
+            "title": "Un homme s'immole par le feu devant sa fille et son ex-compagne au Havre",
+            "link": "https://www.franceinfo.fr/faits-divers/un-homme-s-immole-par-le-feu-devant-sa-fille-et-son-ex-compagne-au-havre_7877231.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 18 Mar 2026 13:42:28 +0100",
+            "summary": "L'homme avait l'interdiction d'entrer en contact son ex-compagne après des faits de violences. Son pronostic vital est \"très engagé'."
+        },
+        {
+            "source": "RTBF Monde",
+            "title": "Allemagne : quinze tonnes de bonbons volées dans un camion sur une aire d’autoroute",
+            "link": "https://www.rtbf.be/article/allemagne-quinze-tonnes-de-bonbons-volees-dans-un-camion-sur-une-aire-d-autoroute-11696299",
+            "published": "Wed, 18 Mar 2026 13:35:33 +0100",
+            "summary": "Le chauffeur avait laissé son véhicule sans surveillance pour la journée après l'avoir garé mardi matin vers 07h45 sur..."
+        },
+        {
+            "source": "RTBF Info",
+            "title": "Les caïds, ces managers toxiques promoteurs d’univers de travail pathogènes",
+            "link": "https://www.rtbf.be/article/les-caids-ces-managers-toxiques-promoteurs-d-univers-de-travail-pathogenes-11695084",
+            "published": "Wed, 18 Mar 2026 13:30:00 +0100",
+            "summary": "Malgré la médiatisation d'exemples de management toxique conduisant à un harcèlement avéré, comme chez Michelin,..."
+        },
+        {
+            "source": "France-info",
+            "title": "L'assassinat d'Ali Larijani ne va pas \"modifier quoi que ce soit\", selon un spécialiste",
+            "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/l-assassinat-d-ali-larijani-ne-va-pas-modifier-quoi-que-ce-soit-selon-un-specialiste_7876730.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 18 Mar 2026 13:15:22 +0100",
+            "summary": "Le Conseil suprême de sécurité nationale iranien a confirmé la mort de son chef, Ali Larijani. Selon Frédéric Encel, docteur en géopolitique et maître de conférences à Sciences Po Paris, le renverseme"
+        },
+        {
+            "source": "RTBF Monde",
+            "title": "Une télécabine s’écrase en Suisse à Engelberg en raison de vents violents",
+            "link": "https://www.rtbf.be/article/une-telecabine-s-ecrase-en-suisse-a-engelberg-en-raison-de-vents-violents-11696278",
+            "published": "Wed, 18 Mar 2026 13:12:32 +0100",
+            "summary": "Une télécabine s'est écrasée ce mercredi dans le secteur d'Engelberg, dans le canton d'Obwald, en Suisse. Des..."
+        },
+        {
+            "source": "7sur7",
+            "title": "“Tentative de dépossession injustifiée”: le gouvernement sénégalais réagit à la perte de la CAN et demande une enquête",
+            "link": "https://www.7sur7.be/football-etranger/tentative-de-depossession-injustifiee-le-gouvernement-senegalais-reagit-a-la-perte-de-la-can-et-demande-une-enquete~a73e91de/",
+            "published": "Wed, 18 Mar 2026 13:07:41 GMT",
+            "summary": "Le gouvernement sénégalais a réclamé mercredi l’ouverture d’une enquête internationale pour “soupçons de corruption au sein des instances dirigeantes de la CAF”, la Confédération africaine de football"
+        },
+        {
+            "source": "France-info",
+            "title": "Nan Goldin au Grand Palais, la rock star de la photographie expose ses films crus, tendres et bouleversants",
+            "link": "https://www.franceinfo.fr/culture/arts-expos/photographie/nan-goldin-au-grand-palais-la-rock-star-de-la-photographie-expose-ses-films-crus-tendres-et-bouleversants_7860434.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 18 Mar 2026 13:06:40 +0100",
+            "summary": "Depuis 1980, ses images transpercent le monde de la photographie. Nan Goldin rassemble ses photographies en diaporama et ainsi naissent ses films exposés à Paris."
+        },
+        {
+            "source": "7sur7",
+            "title": "Près d’une cigarette sur deux échappe au fisc: un manque à gagner de 3 milliards pour l’État",
+            "link": "https://www.7sur7.be/belgique/pres-dune-cigarette-sur-deux-echappe-au-fisc-un-manque-a-gagner-de-3-milliards-pour-letat~afd2fb2b/",
+            "published": "Wed, 18 Mar 2026 13:04:00 GMT",
+            "summary": "La consommation de cigarettes de contrebande ou achetées à l’étranger ne cesse d’augmenter en Belgique, ressort-il mercredi d’une étude publiée par Cimabel, la fédération sectorielle des fabricants de"
+        },
+        {
+            "source": "Frandroid",
+            "title": "À moins de 160 euros, ce smartphone de Motorola (pOLED, 120 Hz) devient un excellent choix",
+            "link": "https://www.frandroid.com/bons-plans/3030755_a-moins-de-160-euros-ce-smartphone-de-motorola-poled-120-hz-devient-un-excellent-choix",
+            "published": "Wed, 18 Mar 2026 13:04:00 +0000",
+            "summary": ""
+        },
+        {
+            "source": "France-info",
+            "title": "Au Congo-Brazzaville, Denis Sassou Nguesso réélu pour un cinquième mandat avec près de 95% des voix",
+            "link": "https://www.franceinfo.fr/monde/afrique/congo/au-congo-brazzaville-denis-sassou-nguesso-reelu-pour-un-cinquieme-mandat-avec-pres-de-95-des-voix_7877150.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 18 Mar 2026 13:02:11 +0100",
+            "summary": "Le président sortant de 82 ans prolonge son pouvoir jusqu'en 2031, à l'issue d'un scrutin boycotté par l’opposition."
+        },
+        {
+            "source": "7sur7",
+            "title": "Bruno Retailleau et Les Républicains lâchent Christian Estrosi à Nice",
+            "link": "https://www.7sur7.be/monde/bruno-retailleau-et-les-republicains-lachent-christian-estrosi-a-nice~a1e7a3139/",
+            "published": "Wed, 18 Mar 2026 13:02:00 GMT",
+            "summary": "Le patron de LR Bruno Retailleau a lâché à Nice le sortant Christian Estrosi, en mauvaise posture au second tour dimanche face au favori Eric Ciotti, qui s’est allié au RN, relançant le débat sur “l’u"
+        },
+        {
+            "source": "France-info",
+            "title": "On vous résume la polémique du titre de la Coupe d'Afrique des nations retiré au Sénégal au profit du Maroc",
+            "link": "https://www.franceinfo.fr/sports/foot/can/on-vous-resume-la-polemique-du-titre-de-la-coupe-d-afrique-des-nations-retire-au-senegal-au-profit-du-maroc_7876964.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 18 Mar 2026 13:00:58 +0100",
+            "summary": "Deux mois après la finale disputée à Rabat, la Confédération africaine de football (CAF) a annoncé, mardi soir, que le Maroc était finalement sacré vainqueur de la Coupe d'Afrique des nations 2025."
+        },
+        {
+            "source": "7sur7",
+            "title": "La “Ikea Seconde main Marketplace” bientôt disponible en Belgique",
+            "link": "https://www.7sur7.be/belgique/la-ikea-seconde-main-marketplace-bientot-disponible-en-belgique~a969f671/",
+            "published": "Wed, 18 Mar 2026 12:59:33 GMT",
+            "summary": "La “Ikea Seconde main Marketplace”, plateforme dédiée à la revente de produits de l’enseigne suédoise, sera lancée en Belgique le 29 avril, annonce l’entreprise d’ameublement mercredi."
+        },
+        {
+            "source": "7sur7",
+            "title": "Collision entre un tram et un bus à Liège: plusieurs blessés",
+            "link": "https://www.7sur7.be/belgique/collision-entre-un-tram-et-un-bus-a-liege-plusieurs-blesses~ad65bbfb/",
+            "published": "Wed, 18 Mar 2026 12:56:00 GMT",
+            "summary": "Plusieurs personnes ont été blessées à Liège après le déraillement d’un tram survenu à la suite d’une collision avec un bus ce mercredi après-midi, rapporte La Dernière Heure. Selon la police, l’accid"
+        },
+        {
+            "source": "7sur7",
+            "title": "La mission sauvetage avec un nouveau T1: Cinel viré par le Cercle",
+            "link": "https://www.7sur7.be/football-belge/la-mission-sauvetage-avec-un-nouveau-t1-cinel-vire-par-le-cercle~a211825c/",
+            "published": "Wed, 18 Mar 2026 12:55:08 GMT",
+            "summary": "Le Cercle de Bruges s'est séparé de son entraîneur Onur Cinel, comme cela a été annoncé par le club de Jupiler Pro League sur les réseaux sociaux mercredi. Le technicien allemand de 40 ans avait succé"
+        },
+        {
+            "source": "RTBF Info",
+            "title": "Les Engagés, le PS et le PTB proposent de bloquer les prix des carburants et de l’énergie : bonne idée ou fausse bonne idée ?",
+            "link": "https://www.rtbf.be/article/les-engages-le-ps-et-le-ptb-proposent-de-bloquer-les-prix-des-carburants-et-de-l-energie-bonne-idee-ou-fausse-bonne-idee-11694969",
+            "published": "Wed, 18 Mar 2026 12:47:09 +0100",
+            "summary": "Le diesel à 2,10 euros le litre, l'essence à 1,75 euro, le gaz autour des 50 euros / MWh, les prix de l'énergie..."
+        },
+        {
+            "source": "France-info",
+            "title": "Le président des Républicains, Bruno Retailleau, refuse d'apporter son soutien à Christian Estrosi face à Eric Ciotti au 2d tour des municipales à Nice",
+            "link": "https://www.franceinfo.fr/elections/le-president-des-republicains-bruno-retailleau-refuse-d-apporter-son-soutien-a-christian-estrosi-face-a-eric-ciotti-au-2d-tour-des-municipales-a-nice_7876967.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 18 Mar 2026 12:45:33 +0100",
+            "summary": ""
+        },
+        {
+            "source": "Frandroid",
+            "title": "Intel déploie une techno redoutable pour accélérer le chargement de vos jeux",
+            "link": "https://www.frandroid.com/marques/3031063_intel-deploie-une-techno-redoutable-pour-accelerer-le-chargement-de-vos-jeux",
+            "published": "Wed, 18 Mar 2026 12:45:00 +0000",
+            "summary": ""
+        },
+        {
+            "source": "RTBF Info",
+            "title": "Yvoir : l’ex-bourgmestre Charles Pâquet exclu de son groupe politique, la commune ira en justice pour récupérer une pension indûment perçue",
+            "link": "https://www.rtbf.be/article/yvoir-l-ex-bourgmestre-charles-paquet-exclu-de-son-groupe-politique-la-commune-ira-en-justice-pour-recuperer-une-pension-indument-percue-11696260",
+            "published": "Wed, 18 Mar 2026 12:42:54 +0100",
+            "summary": "Pour rappel entre 2018 et 2022 Charles Pâquet a perçu deux traitements : un salaire pour son poste d'échevin, mais..."
+        },
+        {
+            "source": "RTBF Monde",
+            "title": "Un jour, une carte : après le Brexit, le Polexit ? La Pologne joue avec le feu",
+            "link": "https://www.rtbf.be/article/un-jour-une-carte-apres-le-brexit-le-polexit-la-pologne-joue-avec-le-feu-11696183",
+            "published": "Wed, 18 Mar 2026 12:41:56 +0100",
+            "summary": "Près d'un Polonais sur quatre soutient l'idée d'un Polexit, contraction de \"Pologne\" et \"exit\". C'est ce qui..."
+        },
+        {
+            "source": "France-info",
+            "title": "Le Royaume-Uni fait face à une une épidémie de méningite bactérienne sans précédent",
+            "link": "https://www.franceinfo.fr/sante/maladie/meningite/le-royaume-uni-fait-face-a-une-une-epidemie-de-meningite-bacterienne-sans-precedent_7877036.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 18 Mar 2026 12:37:25 +0100",
+            "summary": "Deux étudiants sont morts et une vingtaine de cas ont été signalés. Le gouvernement parle \"d'incident national\". La majorité des personnes atteintes ont fréquenté une boîte de nuit de Canterbury. Un c"
+        },
+        {
+            "source": "7sur7",
+            "title": "“Une ambition plus forte que jamais”: Lara Fabian choisie comme marraine du Télévie 2026",
+            "link": "https://www.7sur7.be/tele/une-ambition-plus-forte-que-jamais-lara-fabian-choisie-comme-marraine-du-televie-2026~a6d7c3ee/",
+            "published": "Wed, 18 Mar 2026 12:31:06 GMT",
+            "summary": "Lara Fabian endossera le rôle de marraine de l’édition 2026 du Télévie, a annoncé mardi RTL Belgium dans un communiqué. L'opération caritative, organisée au profit de la recherche contre le cancer, pr"
+        },
+        {
+            "source": "France-info",
+            "title": "Cinq nouvelles tombes gauloises découvertes à Dijon",
+            "link": "https://www.franceinfo.fr/france/bourgogne-franche-comte/le-mystere-des-gaulois-assis-cinq-nouvelles-tombes-mises-au-jour-a-dijon-une-decouverte-particulierement-impressionnante_7877147.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 18 Mar 2026 12:30:04 +0100",
+            "summary": "Les scientifiques de l'INRAP ont mis au jour début mars de nouvelles tombes gauloises sur le site de fouilles de l'école Joséphine Baker à Dijon : 5 sépultures gauloises, avec des \"morts assis\" dans d"
+        },
+        {
+            "source": "7sur7",
+            "title": "Pas d’asile en Australie: l’équipe féminine iranienne de foot de retour au pays",
+            "link": "https://www.7sur7.be/football-etranger/pas-dasile-en-australie-lequipe-feminine-iranienne-de-foot-de-retour-au-pays~ad8bd22a/",
+            "published": "Wed, 18 Mar 2026 12:29:11 GMT",
+            "summary": "L’équipe féminine de football d’Iran, dont plusieurs membres avaient demandé l’asile en Australie, a franchi mercredi le poste-frontière turco-iranien de Gürbulak (est), a constaté un correspondant de"
+        },
+        {
+            "source": "7sur7",
+            "title": "Une télécabine se détache et s’écrase dans une station de ski suisse",
+            "link": "https://www.7sur7.be/faits-divers/une-telecabine-se-detache-et-secrase-dans-une-station-de-ski-suisse~va944d62c/",
+            "published": "Wed, 18 Mar 2026 12:29:00 GMT",
+            "summary": "Une cabine d’un téléphérique s’est détachée et est tombée en contrebas dans le domaine skiable d’Engelberg. Cela a été confirmé mercredi par un porte-parole des Titlisbahnen du domaine skiable d’Engel"
+        },
+        {
+            "source": "France-info",
+            "title": "Un saphir extrêmement rare vendu près de 400 000 euros dans une vente aux enchères en Bretagne",
+            "link": "https://www.franceinfo.fr/culture/patrimoine/un-saphir-extremement-rare-vendu-pres-de-400-000-euros-dans-une-vente-aux-encheres-en-bretagne_7877075.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 18 Mar 2026 12:23:40 +0100",
+            "summary": "Originaire du Cachemire, la pierre précieuse avait été divisée en deux lors d'un héritage. L'actuel propriétaire d'une moitié l'a vendue pour rénover son château."
+        },
+        {
+            "source": "7sur7",
+            "title": "L’avertissement de Boris Dilliès: “La politique des cadeaux est terminée”",
+            "link": "https://www.7sur7.be/belgique/lavertissement-de-boris-dillies-la-politique-des-cadeaux-est-terminee~a9ad4119/",
+            "published": "Wed, 18 Mar 2026 12:22:00 GMT",
+            "summary": "Le gouvernement bruxellois a choisi l’urgence de déposer un projet de budget en trois semaines afin d’éviter de fonctionner en douzièmes provisoires jusqu’en juin, a déclaré mercredi le ministre-prési"
+        },
+        {
+            "source": "France-info",
+            "title": "Paris, Marseille, Lyon… Qui sont les candidats au 2d tour des municipales dans les dix plus grandes villes, après les fusions et désistements ?",
+            "link": "https://www.franceinfo.fr/elections/paris-marseille-lyon-qui-sont-les-candidats-au-second-tour-des-municipales-dans-les-dix-plus-grandes-villes-apres-les-fusions-et-desistements_7876694.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 18 Mar 2026 12:21:57 +0100",
+            "summary": "Les intenses tractations de ces derniers jours ont abouti à des accords en vue du second tour de scrutin, dimanche 22 mars. Découvrez quelles listes s'affronteront dans les dix communes les plus peupl"
+        },
+        {
+            "source": "7sur7",
+            "title": "Pourquoi les citoyens ne peuvent pas utiliser Beam, le nouveau “WhatsApp belge”?",
+            "link": "https://www.7sur7.be/belgique/pourquoi-les-citoyens-ne-peuvent-pas-utiliser-beam-le-nouveau-whatsapp-belge~a0bc3631/",
+            "published": "Wed, 18 Mar 2026 12:20:00 GMT",
+            "summary": "La Belgique a créé son propre “WhatsApp”, Beam. L’application n’est toutefois destinée qu’aux fonctionnaires, afin qu’ils puissent chatter entre eux en toute sécurité. Les citoyens en sont exclus, poi"
+        },
+        {
+            "source": "Frandroid",
+            "title": "En pleine pénurie, la Fnac décide de faire passer ce SSD 1 To pour PS5 sous les 100 euros",
+            "link": "https://www.frandroid.com/bons-plans/3030951_en-pleine-penurie-la-fnac-decide-de-faire-passer-ce-ssd-d1-to-de-lexar-sous-les-100-euros",
+            "published": "Wed, 18 Mar 2026 12:18:00 +0000",
+            "summary": ""
+        },
+        {
+            "source": "Frandroid",
+            "title": "Les Google Pixel subissent un bug d’affichage après la mise à jour de mars",
+            "link": "https://www.frandroid.com/marques/google/3031093_les-google-pixel-subissent-un-bug-daffichage-apres-la-mise-a-jour-de-mars",
+            "published": "Wed, 18 Mar 2026 12:17:10 +0000",
+            "summary": ""
+        },
+        {
+            "source": "RTBF Info",
+            "title": "La Ville de Charleroi s'oppose à un projet de centre de regroupement de déchets inertes",
+            "link": "https://www.rtbf.be/article/la-ville-de-charleroi-s-oppose-a-un-projet-de-centre-de-regroupement-de-dechets-inertes-11696235",
+            "published": "Wed, 18 Mar 2026 12:12:26 +0100",
+            "summary": "La décision a été prise mardi lors d'une séance du collège communal. Défendue par l'échevin, elle s'articule autour..."
+        },
+        {
+            "source": "France-info",
+            "title": "\"Je n'ai commis aucun des actes reprochés\", martèle Nicolas Sarkozy à son procès en appel pour le financement libyen de sa campagne présidentielle",
+            "link": "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/je-n-ai-commis-aucun-des-actes-reproches-martele-nicolas-sarkozy-a-son-proces-en-appel-pour-le-financement-libyen-de-sa-campagne-presidentielle_7876901.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 18 Mar 2026 12:11:43 +0100",
+            "summary": "\"Je mobiliserai toutes les forces dont je suis capable pour défendre cette vérité profondément ancrée en moi\", a ajouté l'ex-président de la République, qui a expliqué pourquoi il conteste sa condamna"
+        },
+        {
+            "source": "RTBF Info",
+            "title": "Vous collectionnez via un abonnement : partagez votre expérience !",
+            "link": "https://www.rtbf.be/article/vous-collectionnez-via-un-abonnement-partagez-votre-experience-11695811",
+            "published": "Wed, 18 Mar 2026 12:00:00 +0100",
+            "summary": "Vous avez souscrit à une collection Altaya ? Votre avis nous intéresse ! Satisfaction, coût total, qualité des..."
+        },
+        {
+            "source": "7sur7",
+            "title": "Carmit Bachar écartée du retour des Pussycat Dolls: “Je l’ai appris en même temps que le reste du monde”",
+            "link": "https://www.7sur7.be/musique/carmit-bachar-ecartee-du-retour-des-pussycat-dolls-je-lai-appris-en-meme-temps-que-le-reste-du-monde~aebe8830/",
+            "published": "Wed, 18 Mar 2026 11:56:05 GMT",
+            "summary": "Le grand retour des Pussycat Dolls n’est pas une bonne nouvelle pour tout le monde. Alors que les fans se réjouissent déjà de l’annonce d’une nouvelle tournée mondiale, Carmit Bachar, membre historiqu"
+        },
+        {
+            "source": "7sur7",
+            "title": "“Une immense boule de feu”: un météore provoque une forte déflagration aux États-Unis",
+            "link": "https://www.7sur7.be/monde/une-immense-boule-de-feu-un-meteore-provoque-une-forte-deflagration-aux-etats-unis~aa9ffb10/",
+            "published": "Wed, 18 Mar 2026 11:53:07 GMT",
+            "summary": "Un météore a provoqué une forte déflagration mardi matin dans le nord-est de l’État américain de l’Ohio ainsi que dans certaines parties de la Pennsylvanie."
+        },
+        {
+            "source": "7sur7 Monde",
+            "title": "“Une immense boule de feu”: un météore provoque une forte déflagration aux États-Unis",
+            "link": "https://www.7sur7.be/monde/une-immense-boule-de-feu-un-meteore-provoque-une-forte-deflagration-aux-etats-unis~vaa9ffb10/",
+            "published": "Wed, 18 Mar 2026 11:53:07 GMT",
+            "summary": "Un météore a provoqué une forte déflagration mardi matin dans le nord-est de l’État américain de l’Ohio ainsi que dans certaines parties de la Pennsylvanie."
+        },
+        {
+            "source": "7sur7",
+            "title": "Thunder premier qualifié pour les playoffs à...13 matches de la fin de la saison régulière",
+            "link": "https://www.7sur7.be/autres-sports/thunder-premier-qualifie-pour-les-playoffs-a-13-matches-de-la-fin-de-la-saison-reguliere~a7e4eb18/",
+            "published": "Wed, 18 Mar 2026 11:47:05 GMT",
+            "summary": "Le Thunder d'Ajay Mitchell est devenu mardi la première équipe à se qualifier directement pour les playoffs de NBA, la ligue nord-américaine de basket. En venant à bout d'Orlando (108-113), OKC a remp"
+        },
+        {
+            "source": "RTBF Monde",
+            "title": "Main tendue, fusion, retrait et... Benito : les mots qui résument bien le premier tour des municipales en France",
+            "link": "https://www.rtbf.be/article/main-tendue-fusion-retrait-benito-les-mots-qui-resument-bien-le-premier-tour-des-municipales-en-france-11696175",
+            "published": "Wed, 18 Mar 2026 11:42:31 +0100",
+            "summary": "5 minutes chrono après 20 heures dimanche, Jordan Bardella apparaît à l'image. Pour le second tour, le chef du..."
+        },
+        {
+            "source": "France-info",
+            "title": "Football : \"Ils sont fous\", \"une décision inique\"... Après la perte de leur titre à la CAN 2025 sur tapis vert, les Sénégalais outrés, les Marocains font profil bas",
+            "link": "https://www.franceinfo.fr/sports/foot/can/football-ils-sont-fous-une-decision-inique-apres-la-perte-de-leur-titre-a-la-can-2025-sur-tapis-vert-les-senegalais-outres-les-marocains-font-profil-bas_7876913.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 18 Mar 2026 11:36:06 +0100",
+            "summary": "La Confédération africaine de football a annoncé, mardi soir, avoir annulé la victoire du Sénégal en finale en raison de la sortie du terrain de ses joueurs au cours de la rencontre."
+        },
+        {
+            "source": "7sur7",
+            "title": "Le prix de l’essence augmente encore",
+            "link": "https://www.7sur7.be/economie/le-prix-de-lessence-augmente-encore~a7029b82/",
+            "published": "Wed, 18 Mar 2026 11:32:00 GMT",
+            "summary": "Le prix de l’essence poursuivra sa hausse jeudi, comme depuis le début de la guerre au Moyen-Orient. Selon les données du SPF Économie publiées mercredi, le prix maximal du litre d’essence 95 (E10) au"
+        },
+        {
+            "source": "RTBF Info",
+            "title": "La minute insolite : la Renault 5 aux 12 km au compteur a été vendue plus de 60.000 euros",
+            "link": "https://www.rtbf.be/article/la-minute-insolite-la-renault-5-aux-12-km-au-compteur-a-ete-vendue-plus-de-60-000-euros-11696179",
+            "published": "Wed, 18 Mar 2026 11:30:58 +0100",
+            "summary": "Souvenez-vous. En février dernier, on vous parlait de cette Renault 5, découverte intacte dans un garage situé dans un..."
+        },
+        {
+            "source": "RTBF Info",
+            "title": "Les emprunts aux langues étrangères appauvrissent‑ils les pratiques linguistiques des jeunes ?",
+            "link": "https://www.rtbf.be/article/les-emprunts-aux-langues-etrangeres-appauvrissent-ils-les-pratiques-linguistiques-des-jeunes-11695012",
+            "published": "Wed, 18 Mar 2026 11:30:00 +0100",
+            "summary": "L'idée revient régulièrement dans les débats publics : la langue française serait menacée par l'invasion de mots..."
+        },
+        {
+            "source": "Frandroid",
+            "title": "Pourquoi s’embêter à monter son PC quand cette tour avec RTX 5080 existe déjà et coûte 300 € de moins ?",
+            "link": "https://www.frandroid.com/marques/3030779_pourquoi-sembeter-a-monter-son-pc-quand-cette-tour-avec-rtx-5080-existe-deja-et-coute-300-e-de-moins",
+            "published": "Wed, 18 Mar 2026 11:25:00 +0000",
+            "summary": ""
+        },
+        {
+            "source": "7sur7",
+            "title": "“La VUB aide à tuer des Palestiniens”: des activistes réclament la fin d’un partenariat avec une société d'armement israélienne",
+            "link": "https://www.7sur7.be/belgique/la-vub-aide-a-tuer-des-palestiniens-des-activistes-reclament-la-fin-dun-partenariat-avec-une-societe-d-armement-israelienne~a5565da7/",
+            "published": "Wed, 18 Mar 2026 11:24:57 GMT",
+            "summary": "Des militants ont protesté mercredi matin sur le campus de la Vrije Universiteit Brussel (VUB) contre la collaboration de l’université avec l’entreprise d’armement israélienne OIP-Elbit, ont-ils fait "
+        },
+        {
+            "source": "7sur7",
+            "title": "Après des années au fond d’un tiroir, Meta jette discrètement son grand projet aux oubliettes",
+            "link": "https://www.7sur7.be/tech/apres-des-annees-au-fond-dun-tiroir-meta-jette-discretement-son-grand-projet-aux-oubliettes~aec8bdb29/",
+            "published": "Wed, 18 Mar 2026 11:23:34 GMT",
+            "summary": "C’était la grande annonce qui accompagnait celle du changement de nom de l’entreprise Facebook en Meta. En 2021, Mark Zuckerberg avait annoncé le nouveau grand projet de l’entreprise: le métavers, une"
+        },
+        {
+            "source": "7sur7",
+            "title": "“Le viol peut détruire des vies: le parquet réclame plus de sept ans de prison contre Marius Borg Høiby",
+            "link": "https://www.7sur7.be/monarchies/le-viol-peut-detruire-des-vies-le-parquet-reclame-plus-de-sept-ans-de-prison-contre-marius-borg-hoiby~a8e8e561/",
+            "published": "Wed, 18 Mar 2026 11:21:58 GMT",
+            "summary": "Le parquet norvégien a requis mercredi sept ans et sept mois de prison à l'encontre de Marius Borg Høiby, fils de la princesse héritière Mette-Marit, jugé pour des viols et des violences sur d'ex-comp"
+        },
+        {
+            "source": "France-info",
+            "title": "A Séoul, des touristes en pèlerinage sur les lieux du film oscarisé \"Kpop Demon Hunters\"",
+            "link": "https://www.franceinfo.fr/culture/musique/a-seoul-des-touristes-en-pelerinage-sur-les-lieux-du-film-oscarise-kpop-demons-hunters_7876868.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 18 Mar 2026 11:20:27 +0100",
+            "summary": "Le parc Naksan, qui surplombe la capitale sud-coréenne, est devenu l'un des lieux de pèlerinage des fans du film le plus regardé sur Netflix."
+        },
+        {
+            "source": "7sur7",
+            "title": "Marc Coucke a perdu des millions en investissant dans un constructeur de yachts de luxe",
+            "link": "https://www.7sur7.be/economie/marc-coucke-a-perdu-des-millions-en-investissant-dans-un-constructeur-de-yachts-de-luxe~va69e4d25/",
+            "published": "Wed, 18 Mar 2026 11:18:00 GMT",
+            "summary": "The Italian Sea Group, un constructeur italien de yachts de luxe dont Marc Coucke est le deuxième actionnaire, traverse une période difficile. L’entreprise a demandé à être placée sous la protection d"
+        },
+        {
+            "source": "7sur7-Belgique",
+            "title": "Marc Coucke a perdu des millions en investissant dans un constructeur de yachts de luxe",
+            "link": "https://www.7sur7.be/economie/marc-coucke-a-perdu-des-millions-en-investissant-dans-un-constructeur-de-yachts-de-luxe~a69e4d25/",
+            "published": "Wed, 18 Mar 2026 11:18:00 GMT",
+            "summary": "The Italian Sea Group, un constructeur italien de yachts de luxe dont Marc Coucke est le deuxième actionnaire, traverse une période difficile. L’entreprise a demandé à être placée sous la protection d"
+        },
+        {
+            "source": "RTBF Info",
+            "title": "Une première depuis 2021 : les audiences des Oscars sont en baisse",
+            "link": "https://www.rtbf.be/article/une-premiere-depuis-2021-les-audiences-des-oscars-sont-en-baisse-11696077",
+            "published": "Wed, 18 Mar 2026 11:09:12 +0100",
+            "summary": "Selon les chiffres d'audience publiés mardi, le nombre de téléspectateurs américains ayant suivi la cérémonie des..."
+        },
+        {
+            "source": "7sur7",
+            "title": "Hittler contre Zielenski: l’improbable duel aux municipales françaises",
+            "link": "https://www.7sur7.be/insolite/hittler-contre-zielenski-limprobable-duel-aux-municipales-francaises~a82302a3/",
+            "published": "Wed, 18 Mar 2026 11:06:00 GMT",
+            "summary": "Dans la commune d’Arcis-sur-Aube (Aube), près de Troyes, le second tour des élections municipales françaises opposera Charles Hittler à Antoine Renault-Zielenski. Un duel cocasse qui n’a pas manqué d’"
+        },
+        {
+            "source": "7sur7",
+            "title": "Trump interdit d’assister aux JO? Une nouvelle règle menace les responsables américains",
+            "link": "https://www.7sur7.be/monde/trump-interdit-dassister-aux-jo-une-nouvelle-regle-menace-les-responsables-americains~adfef5fa/",
+            "published": "Wed, 18 Mar 2026 11:06:00 GMT",
+            "summary": "L’Agence mondiale antidopage planche sur l’adoption d’une règle qui exclurait de facto Trump et d’autres responsables américains des grands événements sportifs comme les Jeux olympiques, même s’ils se"
+        },
+        {
+            "source": "France-info",
+            "title": "Avec un chiffre d'affaires en hausse de plus de 3% en 2025, le marché français de la musique se porte bien",
+            "link": "https://www.franceinfo.fr/culture/musique/avec-un-chiffre-d-affaires-en-hausse-de-plus-de-3-en-2025-le-marche-francais-de-la-musique-se-porte-bien_7876979.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 18 Mar 2026 11:03:22 +0100",
+            "summary": "Le Syndicat national de l'édition phonographique dévoile, mercredi, les chiffres de la production française en 2025."
+        },
+        {
+            "source": "7sur7",
+            "title": "L’anti-héros Brahim Díaz apprend en plein match avec le Real que le Maroc remporte finalement la CAN",
+            "link": "https://www.7sur7.be/football-etranger/lanti-heros-brahim-diaz-apprend-en-plein-match-avec-le-real-que-le-maroc-remporte-finalement-la-can~va1ebcfff/",
+            "published": "Wed, 18 Mar 2026 11:02:03 GMT",
+            "summary": "Juste après l’annonce de la victoire finale du Maroc à la Coupe d’Afrique, les caméras se sont braquées sur Brahim Díaz. L’attaquant venait à peine de prendre place sur le banc du Real Madrid, après s"
+        },
+        {
+            "source": "7sur7-Sport",
+            "title": "L’anti-héros Brahim Díaz apprend en plein match avec le Real que le Maroc remporte finalement la CAN",
+            "link": "https://www.7sur7.be/football-etranger/lanti-heros-brahim-diaz-apprend-en-plein-match-avec-le-real-que-le-maroc-remporte-finalement-la-can~a1ebcfff/",
+            "published": "Wed, 18 Mar 2026 11:02:03 GMT",
+            "summary": "Juste après l’annonce de la victoire finale du Maroc à la Coupe d’Afrique, les caméras se sont braquées sur Brahim Díaz. L’attaquant venait à peine de prendre place sur le banc du Real Madrid, après s"
+        },
+        {
+            "source": "Frandroid",
+            "title": "Quels sont les meilleurs smartphones à moins de 400 euros en 2026 ?",
+            "link": "https://www.frandroid.com/guide-dachat/smartphones/290380_smartphone-choisir-a-de-400-euros",
+            "published": "Wed, 18 Mar 2026 10:56:42 +0000",
+            "summary": ""
+        },
+        {
+            "source": "Frandroid",
+            "title": "Pourquoi Rivian a volontairement sacrifié la charge rapide sur son nouveau R2",
+            "link": "https://www.frandroid.com/marques/rivian/3030739_pourquoi-rivian-a-volontairement-sacrifie-la-charge-rapide-sur-son-nouveau-r2",
+            "published": "Wed, 18 Mar 2026 10:56:09 +0000",
+            "summary": ""
+        },
+        {
+            "source": "Frandroid",
+            "title": "Spotify sur Wear OS : cette refonte visuelle majeure change totalement l’expérience sur votre montre connectée",
+            "link": "https://www.frandroid.com/android/applications/3031045_spotify-sur-wear-os-cette-refonte-visuelle-majeure-change-totalement-lexperience-sur-votre-montre-connectee",
+            "published": "Wed, 18 Mar 2026 10:55:00 +0000",
+            "summary": ""
+        },
         {
             "source": "France-info",
             "title": "Le maire LR d'Arcachon, Yves Foulon, insulte et menace son rival de gauche, une enquête est ouverte",
             "link": "https://www.franceinfo.fr/elections/le-maire-lr-d-arcachon-yves-foulon-insulte-et-menace-son-rival-de-gauche-une-enquete-est-ouverte_7875518.html#xtor=RSS-3-[lestitres]",
             "published": "Wed, 18 Mar 2026 10:46:25 +0100",
             "summary": "La scène a été filmée dimanche devant un bureau de vote de la ville, manifestement à l'insu du maire, par un réalisateur indépendant qui tournait un documentaire sur la campagne de Vital Baude, consei"
+        },
+        {
+            "source": "Frandroid",
+            "title": "Meta ferme les portes du Métavers sur ses casques VR",
+            "link": "https://www.frandroid.com/marques/meta/3030837_meta-ferme-les-portes-du-metavers-sur-ses-casques-vr",
+            "published": "Wed, 18 Mar 2026 10:46:21 +0000",
+            "summary": ""
+        },
+        {
+            "source": "Frandroid",
+            "title": "Samsung admet avoir légèrement réduit la qualité d’écran de son Galaxy S26 UItra… pour la meilleure des causes",
+            "link": "https://www.frandroid.com/marques/samsung/3030681_samsung-admet-avoir-legerement-reduit-la-qualite-decran-de-son-galaxy-s26-uitra-pour-la-meilleure-des-causes",
+            "published": "Wed, 18 Mar 2026 10:45:00 +0000",
+            "summary": ""
         },
         {
             "source": "France-info",
@@ -25,11 +459,25 @@
             "summary": "Ex-ministre des Affaires étrangères aujourd'hui envoyé spécial du président français pour le Liban, Jean-Yves Le Drian estime que la demande des Israéliens au gouvernement libanais de désarmer le Hezb"
         },
         {
+            "source": "Frandroid",
+            "title": "La PlayStation 5 Slim coûte environ 100 euros de moins grâce à cette offre",
+            "link": "https://www.frandroid.com/bons-plans/2944425_la-playstation-5-slim-standard-coute-140-euros-de-moins-grace-a-cette-offre-inedite",
+            "published": "Wed, 18 Mar 2026 10:41:25 +0000",
+            "summary": ""
+        },
+        {
             "source": "RTBF Info",
             "title": "Un habitant de Mont-Godinne fabrique 250 pièges à frelons asiatique et mobilise tout son village",
             "link": "https://www.rtbf.be/article/un-habitant-de-mont-godinne-fabrique-250-pieges-a-frelons-asiatique-et-mobilise-tout-son-village-11691718",
             "published": "Wed, 18 Mar 2026 10:41:21 +0100",
             "summary": "Tout a commencé à la conférence sur l'impact des frelons asiatiques dans l'apiculture. Le frelon est installé,..."
+        },
+        {
+            "source": "Frandroid",
+            "title": "Samsung Galaxy S26 est à 399 € chez SFR : comment en profiter ? [Sponso]",
+            "link": "https://www.frandroid.com/actualites-generales/3028035_samsung-galaxy-s26-est-a-399-e-chez-sfr-comment-en-profiter",
+            "published": "Wed, 18 Mar 2026 10:40:23 +0000",
+            "summary": ""
         },
         {
             "source": "France-info",
@@ -43,6 +491,20 @@
             "title": "\"A Toulouse, je ne voterais pas pour La France insoumise\" après l'accord conclu avec la gauche aux municipales, affirme le député PS Jérôme Guedj",
             "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/municipales-2026/alliances-ps-lfi-aux-municipales-on-ne-peut-pas-avoir-ce-double-discours-estime-le-depute-ps-jerome-guedj_7876775.html#xtor=RSS-3-[lestitres]",
             "published": "Wed, 18 Mar 2026 10:37:09 +0100",
+            "summary": ""
+        },
+        {
+            "source": "RTBF Monde",
+            "title": "Epidémie de méningite en Angleterre dans le milieu estudiantin : 20 cas rapportés à l'agence de sécurité sanitaire",
+            "link": "https://www.rtbf.be/article/epidemie-de-meningite-en-angleterre-dans-le-milieu-estudiantin-20-cas-rapportes-a-l-agence-de-securite-sanitaire-11696168",
+            "published": "Wed, 18 Mar 2026 10:35:36 +0100",
+            "summary": "Une épidémie de méningite bactérienne, jugée \"sans précédent\", touche des jeunes adultes dans la région de..."
+        },
+        {
+            "source": "Frandroid",
+            "title": "« Un impératif stratégique » : pourquoi les acteurs des télécoms doivent investir dès maintenant dans la technologie quantique",
+            "link": "https://www.frandroid.com/telecom/3030731_un-imperatif-strategique-pourquoi-les-acteurs-des-telecoms-doivent-investir-des-maintenant-dans-la-technologie-quantique",
+            "published": "Wed, 18 Mar 2026 10:32:30 +0000",
             "summary": ""
         },
         {
@@ -60,11 +522,60 @@
             "summary": "Si le GSM n'est pas fixé sur un support adéquat, son utilisation est une infraction du troisième degré. C'est..."
         },
         {
+            "source": "Frandroid",
+            "title": "« Ce n’est pas un filtre » : pourquoi le DLSS 5 créé un tel malaise chez les joueurs selon cet expert",
+            "link": "https://www.frandroid.com/marques/nvidia/3030309_ce-nest-pas-un-filtre-pourquoi-le-dlss-5-cree-un-tel-malaise-chez-les-joueurs-selon-cet-expert",
+            "published": "Wed, 18 Mar 2026 10:22:49 +0000",
+            "summary": ""
+        },
+        {
             "source": "France-info",
             "title": "Le Sénégal annonce faire appel devant le Tribunal arbitral du sport après le retrait de son titre à la CAN 2025 au profit du Maroc",
             "link": "https://www.franceinfo.fr/sports/foot/can/le-senegal-annonce-faire-appel-devant-le-tribunal-arbitral-du-sport-apres-le-retrait-de-son-titre-a-la-can-2025-au-profit-du-maroc_7876838.html#xtor=RSS-3-[lestitres]",
             "published": "Wed, 18 Mar 2026 10:18:29 +0100",
             "summary": "La finale de la Coupe d'Afrique des nations 2025 avait été marquée par la sortie des joueurs sénégalais du terrain, mécontents d'une décision de l'arbitre de siffler un penalty en faveur du Maroc."
+        },
+        {
+            "source": "7sur7",
+            "title": "“Les voitures sont de plus en plus chères, puissantes, lourdes et ennuyeuses”: l’envers du décor du marché automobile",
+            "link": "https://www.7sur7.be/tech/les-voitures-sont-de-plus-en-plus-cheres-puissantes-lourdes-et-ennuyeuses-lenvers-du-decor-du-marche-automobile~ac42cf86/",
+            "published": "Wed, 18 Mar 2026 10:17:00 GMT",
+            "summary": "À une époque où les tests automobiles sont de plus en plus sponsorisés, il est devenu difficile d’y voir clair avant l’achat d’une voiture neuve. D’autant que ce que les marques veulent vendre corresp"
+        },
+        {
+            "source": "Frandroid",
+            "title": "Pixel Watch : l’IA Gemini et Fitbit révolutionnent enfin votre suivi du sommeil",
+            "link": "https://www.frandroid.com/marques/google/3030857_pixel-watch-lia-gemini-et-fitbit-revolutionnent-enfin-votre-suivi-du-sommeil",
+            "published": "Wed, 18 Mar 2026 10:13:12 +0000",
+            "summary": ""
+        },
+        {
+            "source": "7sur7",
+            "title": "“Cela ne doit pas se reproduire”: le CD&V met en garde après le bypass de Verlinden",
+            "link": "https://www.7sur7.be/belgique/cela-ne-doit-pas-se-reproduire-le-cdetv-met-en-garde-apres-le-bypass-de-verlinden~a5e94ee2/",
+            "published": "Wed, 18 Mar 2026 10:11:07 GMT",
+            "summary": "Le vice-Premier ministre CD&amp;V Vincent Van Peteghem a fait savoir au Premier ministre que la façon dont les ministres Quintin et Francken avaient contourné Annelies Verlinden ne pouvait pas se répé"
+        },
+        {
+            "source": "7sur7",
+            "title": "Pas trop tard pour installer une climatisation? Voici ce qu’il faut savoir",
+            "link": "https://www.7sur7.be/economie/pas-trop-tard-pour-installer-une-climatisation-voici-ce-quil-faut-savoir~a654a12a/",
+            "published": "Wed, 18 Mar 2026 10:00:40 GMT",
+            "summary": "En été, il peut être difficile de supporter la chaleur… sauf si vous disposez d’un climatiseur à la maison. Envisagez-vous d’en installer un? Vous vous demandez à quels points il faut faire attention?"
+        },
+        {
+            "source": "7sur7",
+            "title": "Pas de réseau mobile à l’intérieur, mais à l’extérieur oui? Des experts expliquent comment résoudre le problème",
+            "link": "https://www.7sur7.be/tech/pas-de-reseau-mobile-a-linterieur-mais-a-lexterieur-oui-des-experts-expliquent-comment-resoudre-le-probleme~a11517d6/",
+            "published": "Wed, 18 Mar 2026 09:57:00 GMT",
+            "summary": "Depuis plus de deux ans, Willy et Jeanette doivent sortir sur leur terrasse lorsqu’ils souhaitent passer un coup de fil. S’ils restent à l’intérieur de leur habitation, ces octogénaires n’ont plus de "
+        },
+        {
+            "source": "7sur7",
+            "title": "“On est en train de te prendre pour un débile”: l’enregistrement qui déchire la famille Delon devant la justice",
+            "link": "https://www.7sur7.be/people/on-est-en-train-de-te-prendre-pour-un-debile-lenregistrement-qui-dechire-la-famille-delon-devant-la-justice~a477d240/",
+            "published": "Wed, 18 Mar 2026 09:56:40 GMT",
+            "summary": "Sur fond de guerre de succession, Alain-Fabien Delon, poursuivi par sa sœur Anouchka pour avoir enregistré et publié une conversation privée entre elle et l’acteur, a affirmé mardi devant le tribunal "
         },
         {
             "source": "France-info",
@@ -116,6 +627,20 @@
             "summary": ""
         },
         {
+            "source": "RTL-info",
+            "title": "Cette pratique très courante chez les fumeurs fait perdre plus de 3 milliards d’euros à l’État",
+            "link": "https://www.rtl.be/actu/magazine/sante/cette-pratique-tres-courante-chez-les-fumeurs-fait-perdre-plus-de-3-milliards/2026-03-18/article/782988",
+            "published": "Wed, 18 Mar 2026 09:35:49 +0000",
+            "summary": ""
+        },
+        {
+            "source": "RTL-info",
+            "title": "Un client enfermé dans un Hubo… par erreur : « J’ai même vu le vendeur quitter le parking »",
+            "link": "https://www.rtl.be/actu/belgique/faits-divers/un-client-enferme-dans-un-hubo-par-erreur-jai-meme-vu-le-vendeur-quitter-le/2026-03-18/article/782987",
+            "published": "Wed, 18 Mar 2026 09:31:02 +0000",
+            "summary": ""
+        },
+        {
             "source": "7sur7",
             "title": "Le point sur les conséquences économiques au 19ᵉ jour du conflit",
             "link": "https://www.7sur7.be/economie/le-point-sur-les-consequences-economiques-au-19-jour-du-conflit~a3da3a6c/",
@@ -158,6 +683,13 @@
             "summary": ""
         },
         {
+            "source": "RTL-info",
+            "title": "« Ça vaut la peine de le réutiliser » : hausse du prix de l’or et de l’argent, les clients se tournent vers les bijoux fantaisie, mais il existe une autre option",
+            "link": "https://www.rtl.be/actu/belgique/economie/ca-vaut-la-peine-de-le-reutiliser-hausse-du-prix-de-lor-et-de-largent-les/2026-03-18/article/782986",
+            "published": "Wed, 18 Mar 2026 09:19:09 +0000",
+            "summary": ""
+        },
+        {
             "source": "Frandroid",
             "title": "Acheter une voiture électrique d’occasion ? Cette étude géante sur la durée de vie des batteries va vous rassurer tout de suite",
             "link": "https://www.frandroid.com/survoltes/voitures-electriques/3030663_acheter-une-voiture-electrique-doccasion-cette-etude-geante-sur-la-duree-de-vie-des-batteries-va-vous-rassurer-tout-de-suite",
@@ -170,538 +702,6 @@
             "link": "https://www.7sur7.be/football-etranger/les-senegalais-doivent-ils-rendre-le-trophee-le-maroc-va-t-il-feter-le-titre-tout-ce-quil-faut-savoir~a8ca5024/",
             "published": "Wed, 18 Mar 2026 09:09:00 GMT",
             "summary": "La décision de la Confédération africaine de football de retirer le titre de la Coupe d’Afrique au Sénégal en désignant le Maroc comme vainqueur soulève de nombreuses questions. Comment en est-on arri"
-        },
-        {
-            "source": "7sur7-Sport",
-            "title": "Les Sénégalais doivent-ils rendre le trophée de la CAN? Le Maroc va-t-il fêter le titre? Tout ce qu’il faut savoir",
-            "link": "https://www.7sur7.be/football-etranger/les-senegalais-doivent-ils-rendre-le-trophee-de-la-can-le-maroc-va-t-il-feter-le-titre-tout-ce-quil-faut-savoir~a8ca5024/",
-            "published": "Wed, 18 Mar 2026 09:09:00 GMT",
-            "summary": "La décision de la Confédération africaine de football de retirer le titre de la Coupe d’Afrique au Sénégal en désignant le Maroc comme vainqueur soulève de nombreuses questions. Comment en est-on arri"
-        },
-        {
-            "source": "7sur7",
-            "title": "Un an et demi après le décès tragique de Liam Payne, Kate Cassidy a retrouvé l’amour",
-            "link": "https://www.7sur7.be/people/un-an-et-demi-apres-le-deces-tragique-de-liam-payne-kate-cassidy-a-retrouve-lamour~va3a150f2/",
-            "published": "Wed, 18 Mar 2026 09:03:13 GMT",
-            "summary": "Plus d’un an et demi après la disparition brutale de Liam Payne, décédé à l’âge de 31 ans, Kate Cassidy semble avoir retrouvé le bonheur. La jeune influenceuse de 26 ans, qui partageait la vie de l’an"
-        },
-        {
-            "source": "7sur7",
-            "title": "Les loyers montent en flèche: quelles conséquences pour votre bail en cours?",
-            "link": "https://www.7sur7.be/home/les-loyers-montent-en-fleche-quelles-consequences-pour-votre-bail-en-cours~a2b3407d/",
-            "published": "Wed, 18 Mar 2026 09:00:59 GMT",
-            "summary": "Les loyers montent en flèche, selon le dernier baromètre des loyers de l'organisme immobilier CIB. Mais qu'en est-il si vous louez le même appartement depuis des années ? Votre bailleur peut-il augmen"
-        },
-        {
-            "source": "France-info",
-            "title": "\"Rachida Dati porte désormais la candidature de la droite et de l'extrême droite\", accuse Lamia El Aaraje, porte-parole d'Emmanuel Grégoire",
-            "link": "https://www.franceinfo.fr/elections/municipales/rachida-dati-porte-desormais-la-candidature-de-la-droite-et-de-l-extreme-droite-accuse-lamia-el-aaraje-porte-parole-d-emmanuel-gregoire_7876787.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 18 Mar 2026 09:00:40 +0100",
-            "summary": ""
-        },
-        {
-            "source": "Frandroid",
-            "title": "Dreame ne fait plus que des aspirateurs : son premier TV Mini LED est une belle surprise et perd déjà 300 € de son prix",
-            "link": "https://www.frandroid.com/bons-plans/3029607_dreame-ne-fait-plus-que-des-aspirateurs-son-premier-tv-mini-led-est-une-belle-surprise-et-perd-deja-300-e-de-son-prix",
-            "published": "Wed, 18 Mar 2026 08:55:00 +0000",
-            "summary": ""
-        },
-        {
-            "source": "France-info",
-            "title": "\"Plaider-coupable\", délais réduits... Ce que comporte le projet de loi pour alléger la saturation des tribunaux en matière criminelle",
-            "link": "https://www.franceinfo.fr/societe/justice/plaider-coupable-delais-reduits-ce-que-comporte-le-projet-de-loi-pour-alleger-la-saturation-des-tribunaux-en-matiere-criminelle_7876706.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 18 Mar 2026 08:52:54 +0100",
-            "summary": "Face aux dossiers qui s'accumulent dans les juridictions, Gérald Darmanin, va présenter un texte en Conseil des ministres pour répondre à cette situation d'urgence."
-        },
-        {
-            "source": "Frandroid",
-            "title": "HOTAS, joysticks et palonniers : les meilleurs accessoires pour les simulateurs de vol",
-            "link": "https://www.frandroid.com/guide-dachat/747408_hotas-yokes-et-palonniers-meilleurs-accessoires-simulateur-vol",
-            "published": "Wed, 18 Mar 2026 08:46:00 +0000",
-            "summary": ""
-        },
-        {
-            "source": "France-info",
-            "title": "\"Nous allons très bientôt faire quelque chose concernant Cuba\" : Donald Trump réitère ses menaces contre le gouvernement de l'île",
-            "link": "https://www.franceinfo.fr/monde/cuba/nous-allons-tres-bientot-faire-quelque-chose-concernant-cuba-donald-trump-reitere-ses-menaces-contre-le-gouvernement-de-l-ile_7876724.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 18 Mar 2026 08:39:20 +0100",
-            "summary": "Le chef de la diplomatie américaine, Marco Rubio, a en revanche démenti un article du \"New York Times\" selon lequel des responsables américains ont exhorté Cuba à destituer son président."
-        },
-        {
-            "source": "Frandroid",
-            "title": "« Ils ont complètement tort » : le patron de Nvidia défend son DLSS 5 face aux critiques",
-            "link": "https://www.frandroid.com/marques/nvidia/3030673_ils-ont-completement-tort-le-patron-de-nvidia-defend-son-dlss-5-face-aux-critiques",
-            "published": "Wed, 18 Mar 2026 08:38:38 +0000",
-            "summary": ""
-        },
-        {
-            "source": "Frandroid",
-            "title": "Liux Big : cette nouvelle citadine électrique espagnole promet 270 km d’autonomie face à la Citroën Ami",
-            "link": "https://www.frandroid.com/survoltes/voitures-electriques/3030609_liux-big-cette-nouvelle-citadine-electrique-espagnole-promet-270-km-dautonomie-face-a-la-citroen-ami",
-            "published": "Wed, 18 Mar 2026 08:36:23 +0000",
-            "summary": ""
-        },
-        {
-            "source": "Frandroid",
-            "title": "Voici à quel point les panneaux solaires hybrides (thermiques) peuvent faire baisser vos besoins en chauffage",
-            "link": "https://www.frandroid.com/survoltes/energie/batteries-et-panneaux-solaires/3030209_voici-a-quel-point-les-panneaux-solaires-hybrides-thermiques-peuvent-faire-baisser-vos-besoins-en-chauffage",
-            "published": "Wed, 18 Mar 2026 08:30:03 +0000",
-            "summary": ""
-        },
-        {
-            "source": "7sur7",
-            "title": "Affaire Epstein: la ministre de la Justice américaine convoquée devant une commission parlementaire",
-            "link": "https://www.7sur7.be/monde/affaire-epstein-la-ministre-de-la-justice-americaine-convoquee-devant-une-commission-parlementaire~a10cc239/",
-            "published": "Wed, 18 Mar 2026 08:23:00 GMT",
-            "summary": "La Commission de surveillance de la Chambre des représentants américaine a assigné mardi la ministre de la Justice Pam Bondi à comparaître pour témoigner sur la manière dont le gouvernement a géré les"
-        },
-        {
-            "source": "Frandroid",
-            "title": "Trop chère pour les Allemands, la conduite autonome débarque en Europe grâce aux voitures électrique du chinois Geely",
-            "link": "https://www.frandroid.com/survoltes/3030595_trop-chere-pour-les-allemands-la-conduite-autonome-debarque-en-europe-grace-aux-voitures-electrique-du-chinois-geely",
-            "published": "Wed, 18 Mar 2026 08:16:16 +0000",
-            "summary": ""
-        },
-        {
-            "source": "7sur7",
-            "title": "Les bureaux de vote pour les élections municipales aux Pays-Bas sont ouverts",
-            "link": "https://www.7sur7.be/monde/les-bureaux-de-vote-pour-les-elections-municipales-aux-pays-bas-sont-ouverts~a84ec1c9/",
-            "published": "Wed, 18 Mar 2026 08:07:09 GMT",
-            "summary": "La quasi-totalité des bureaux de vote aux Pays-Bas sont ouverts depuis 07h30 mercredi matin pour les élections municipales. On compte au total 9.964 bureaux. En règle générale, les bureaux de vote fer"
-        },
-        {
-            "source": "France-info",
-            "title": "\"Un sentiment partagé entre joie et incompréhension\" : réactions mitigées au Maroc après le titre de champion d'Afrique attribué deux mois plus tard",
-            "link": "https://www.franceinfo.fr/sports/foot/can/reportage-un-sentiment-partage-entre-joie-et-incomprehension-reactions-mitigees-au-maroc-apres-le-titre-de-champion-d-afrique-attribue-deux-mois-plus-tard_7876718.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 18 Mar 2026 08:06:30 +0100",
-            "summary": "Le jury d'appel de la Confédération africaine de football a retiré, deux mois après une finale chaotique, le titre gagné par le Sénégal en Coupe d'Afrique des nations pour l'attribuer au Maroc. À Casa"
-        },
-        {
-            "source": "Frandroid",
-            "title": "Taillée pour la perf’, la toute récente Huawei Watch GT Runner 2 voit déjà son prix baisser de 30 €",
-            "link": "https://www.frandroid.com/bons-plans/3029601_taillee-pour-la-perf-la-toute-recente-huawei-watch-gt-runner-2-voit-deja-son-prix-baisser-de-30-e",
-            "published": "Wed, 18 Mar 2026 08:06:00 +0000",
-            "summary": ""
-        },
-        {
-            "source": "France-info",
-            "title": "Le RN Laurent Jacobelli appelle à \"éviter partout l'arrivée de La France insoumise\"",
-            "link": "https://www.franceinfo.fr/elections/municipales/le-rn-laurent-jacobelli-appelle-a-eviter-partout-l-arrivee-de-la-france-insoumise_7876739.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 18 Mar 2026 08:02:06 +0100",
-            "summary": "Quitte \"à choisir entre deux maux, il faut choisir le moindre\", déclare Laurent Jacobelli qui incite à voter, par exemple, pour Rachida Dati à Paris."
-        },
-        {
-            "source": "RTBF Info",
-            "title": "Grâce à \"On n’est pas des Pigeons\" vous avez découvert la toxicité des terrains synthétiques",
-            "link": "https://www.rtbf.be/article/grace-a-on-n-est-pas-des-pigeons-vous-avez-decouvert-la-toxicite-des-terrains-synthetiques-11695649",
-            "published": "Wed, 18 Mar 2026 08:00:00 +0100",
-            "summary": "C'était en 2017, un de nos journalistes, Emmanuel, s'intéressait à ces petites billes noires que l'on trouve sur..."
-        },
-        {
-            "source": "Frandroid",
-            "title": "10 000 € de moins : l’énorme baisse de prix qui change tout pour la Livewire One, la moto électrique Harley-Davidson",
-            "link": "https://www.frandroid.com/survoltes/moto/3030613_10-000-e-de-moins-lenorme-baisse-de-prix-qui-change-tout-pour-la-livewire-one-la-moto-electrique-harley-davidson",
-            "published": "Wed, 18 Mar 2026 07:58:37 +0000",
-            "summary": ""
-        },
-        {
-            "source": "France-info",
-            "title": "Guerre au Moyen-Orient : au moins six morts et 24 blessés dans des frappes à Beyrouth, Israël lance de nouveaux ordres d'évacuation dans le sud du Liban",
-            "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-au-moins-six-morts-et-24-blesses-dans-des-frappes-a-beyrouth-israel-lance-de-nouveaux-ordres-d-evacuation-dans-le-sud-du-liban_7876589.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 18 Mar 2026 07:57:09 +0100",
-            "summary": "L'armée israélienne a également annoncé mercredi avoir \"commencé à frapper des cibles terroristes du Hezbollah\" dans la région de Tyr, \"en riposte aux tirs de roquettes vers l'Etat d'Israël\"."
-        },
-        {
-            "source": "7sur7",
-            "title": "“Un manque de respect”: Teyana Taylor sort du silence après son altercation avec un agent de sécurité aux Oscars",
-            "link": "https://www.7sur7.be/people/un-manque-de-respect-teyana-taylor-sort-du-silence-apres-son-altercation-avec-un-agent-de-securite-aux-oscars~vae4b1cc4/",
-            "published": "Wed, 18 Mar 2026 07:52:17 GMT",
-            "summary": "Teyana Taylor a tenu à réagir à l’incident survenu lors de la 98e cérémonie des Oscars. L’actrice de 35 ans, nommée dans la catégorie “Meilleur second rôle féminin” pour sa performance dans “Une batai"
-        },
-        {
-            "source": "RTBF Info",
-            "title": "Diplomatie : à la Maison Blanche, le Premier ministre irlandais tient courtoisement tête à Trump",
-            "link": "https://www.rtbf.be/article/diplomatie-a-la-maison-blanche-le-premier-ministre-irlandais-tient-courtoisement-tete-a-trump-11695991",
-            "published": "Wed, 18 Mar 2026 07:48:13 +0100",
-            "summary": "Le président ukrainien, Volodymyr Zelensky, garde un souvenir cuisant de son entrevue en février 2025 dans le Bureau..."
-        },
-        {
-            "source": "RTBF Monde",
-            "title": "La célèbre tour Burj Khalifa de Dubaï n’a pas été touchée par des attaques iraniennes",
-            "link": "https://www.rtbf.be/article/la-celebre-tour-burj-khalifa-de-dubai-n-a-pas-ete-touchee-par-des-attaques-iraniennes-11694119",
-            "published": "Wed, 18 Mar 2026 07:43:28 +0100",
-            "summary": "Plusieurs vidéos diffusées sur Youtube indiquent que le célèbre Burj Khalifa, a été frappé par des drones ou des..."
-        },
-        {
-            "source": "7sur7",
-            "title": "Pourquoi des avions font un stop à Zaventem après avoir décollé de... Liège",
-            "link": "https://www.7sur7.be/economie/pourquoi-des-avions-font-un-stop-a-zaventem-apres-avoir-decolle-de-liege~a3eb7db6/",
-            "published": "Wed, 18 Mar 2026 07:43:24 GMT",
-            "summary": "Lundi soir, deux avions-cargos qui ont décollé de l’aéroport de Liège pour le Canada ont dû passer par Zaventem pour un réapprovisionnement , a indiqué Brussels Airport, confirmant des informations de"
-        },
-        {
-            "source": "France-info",
-            "title": "\"C'est tout ce qui nous reste parce qu'on ne veut pas d'une mairie de gauche\" : à Paris, ces électeurs de Sarah Knafo vont voter Rachida Dati au 2d tour",
-            "link": "https://www.franceinfo.fr/elections/municipales/c-est-tout-ce-qui-nous-reste-parce-qu-on-ne-veut-pas-une-mairie-de-gauche-a-paris-ces-electeurs-de-sarah-knafo-vont-voter-rachida-dati-au-2d-tour_7876700.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 18 Mar 2026 07:41:21 +0100",
-            "summary": ""
-        },
-        {
-            "source": "7sur7",
-            "title": "“On est chez les fous”: la stupéfaction des joueurs du Sénégal après la CAN perdue sur tapis vert",
-            "link": "https://www.7sur7.be/football-etranger/on-est-chez-les-fous-la-stupefaction-des-joueurs-du-senegal-apres-la-can-perdue-sur-tapis-vert~aca9ad160/",
-            "published": "Wed, 18 Mar 2026 07:40:00 GMT",
-            "summary": "Le jury d’appel de la Confédération africaine de football a retiré, deux mois après une finale chaotique, le titre gagné par le Sénégal en Coupe d’Afrique des nations pour l’attribuer au Maroc. Une dé"
-        },
-        {
-            "source": "7sur7",
-            "title": "Ce que les voitures électriques ont permis d’économiser en pétrole en 2025",
-            "link": "https://www.7sur7.be/ecologie/ce-que-les-voitures-electriques-ont-permis-deconomiser-en-petrole-en-2025~aa8b896b/",
-            "published": "Wed, 18 Mar 2026 07:37:56 GMT",
-            "summary": "Le parc mondial des véhicules électriques a permis d’éviter une consommation de pétrole de 1,7 million de barils par jour en 2025, contre 1,3 million en 2024, selon une étude du think-tank spécialisé "
-        },
-        {
-            "source": "Frandroid",
-            "title": "Apple Watch Series 11, SE 3, Ultra 2… quel est la meilleure Apple Watch à choisir en 2026 ?",
-            "link": "https://www.frandroid.com/guide-dachat/1674555_apple-watch-les-meilleures-montres-connectees-dapple-en-2023",
-            "published": "Wed, 18 Mar 2026 07:37:09 +0000",
-            "summary": ""
-        },
-        {
-            "source": "France-info",
-            "title": "Assassinat de Patrice Lumumba au Congo : la justice belge ordonne le renvoi en procès d'un ex-diplomate pour \"participation à des crimes de guerre\"",
-            "link": "https://www.franceinfo.fr/monde/europe/belgique/assassinat-de-patrice-lumumba-au-congo-la-justice-belge-ordonne-le-renvoi-d-un-ex-diplomate-pour-participation-a-des-crimes-de-guerre_7876688.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 18 Mar 2026 07:36:51 +0100",
-            "summary": "Cet ancien haut fonctionnaire belge, aujourd'hui âgé de 93 ans, conteste les faits reprochés. Un procès pourrait se tenir \"au plus tôt en janvier\" 2027, selon un des conseils de la famille Lumumba."
-        },
-        {
-            "source": "Frandroid",
-            "title": "Spotify lance un mode audio « exclusif » pour les puristes du signal sonore",
-            "link": "https://www.frandroid.com/services/streaming-musical/3030597_spotify-lance-un-mode-audio-exclusif-pour-les-puristes-du-signal-sonore",
-            "published": "Wed, 18 Mar 2026 07:28:02 +0000",
-            "summary": ""
-        },
-        {
-            "source": "France-info",
-            "title": "Le pianiste de jazz, Jacky Terrasson, visé par une plainte pour viol sur mineur",
-            "link": "https://www.franceinfo.fr/societe/harcelement-sexuel/le-pianiste-de-jazz-jacky-terrasson-vise-par-une-plainte-pour-viol-sur-mineur_7876682.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 18 Mar 2026 07:20:57 +0100",
-            "summary": "L'information est révélée par France Culture et France Inter. La plaignante avait 6 ans au moment des faits. Jacky Terrasson nie ces accusations."
-        },
-        {
-            "source": "France-info",
-            "title": "Cocaïne : le prix de \"gros\" en forte baisse, \"du jamais vu\" selon la police",
-            "link": "https://www.franceinfo.fr/societe/drogue/cocaine-le-prix-de-gros-en-forte-baisse-du-jamais-vu-selon-les-enqueteurs_7876670.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 18 Mar 2026 07:19:45 +0100",
-            "summary": "Si les saisies de cette drogue sont de plus en plus importantes en France, les enquêteurs alertent par ailleurs sur une cocaïne de plus en plus pure."
-        },
-        {
-            "source": "7sur7",
-            "title": "Fini WhatsApp: l’État lance son appli anti-espionnage",
-            "link": "https://www.7sur7.be/belgique/fini-whatsapp-letat-lance-son-appli-anti-espionnage~a0bc3631/",
-            "published": "Wed, 18 Mar 2026 07:19:19 GMT",
-            "summary": "Les autorités ont entamé le déploiement de l’application gouvernementale Beam, qui sera utilisée par quelque 750.000 fonctionnaires et militaires pour remplacer les applications de messagerie courante"
-        },
-        {
-            "source": "RTBF Monde",
-            "title": "Direct – Conflit au Moyen-Orient : des frappes israéliennes atteignent le centre de Beyrouth, au moins six morts",
-            "link": "https://www.rtbf.be/article/direct-conlit-au-moyen-orient-l-iran-enterre-son-puissant-chef-de-la-securite-larijani-et-jure-de-le-venger-11696065",
-            "published": "Wed, 18 Mar 2026 07:07:58 +0100",
-            "summary": "Le Conseil suprême de sécurité nationale iranien a confirmé la mort de son chef, pilier du pouvoir iranien, qui avait..."
-        },
-        {
-            "source": "Frandroid",
-            "title": "Élégance, polyvalence et confort : les nouveaux vélos électriques de Riese & Müller placent la barre très haut [Sponso]",
-            "link": "https://www.frandroid.com/survoltes/velo-electrique/2984361_elegance-polyvalence-et-confort-les-nouveaux-velos-electriques-de-riese-muller-placent-la-barre-tres-haut",
-            "published": "Wed, 18 Mar 2026 07:00:00 +0000",
-            "summary": ""
-        },
-        {
-            "source": "France-info",
-            "title": "Entre-deux-tours des municipales 2026 : le candidat sans étiquette à Pau offre son soutien à François Bayrou",
-            "link": "https://www.franceinfo.fr/elections/direct-entre-deux-tours-des-municipales-2026-le-candidat-sans-etiquette-a-pau-offre-son-soutien-a-francois-bayrou_7876643.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 18 Mar 2026 06:56:41 +0100",
-            "summary": ""
-        },
-        {
-            "source": "7sur7",
-            "title": "Interventions policières: la question des troubles mentaux en cause",
-            "link": "https://www.7sur7.be/belgique/interventions-policieres-la-question-des-troubles-mentaux-en-cause~aaf77018/",
-            "published": "Wed, 18 Mar 2026 06:51:00 GMT",
-            "summary": "Au moins un cinquième des 120 personnes décédées depuis 2010 en Belgique à la suite d’une intervention policière souffrait de troubles mentaux, ressort-il mercredi de l’enquête 120xPolice, menée par L"
-        },
-        {
-            "source": "RTBF Info",
-            "title": "Menaces de Trump : le président cubain promet une \"résistance indestructible\" et Rubio dément que les Etats-Unis veulent le renverser",
-            "link": "https://www.rtbf.be/article/menaces-de-trump-le-president-cubain-promet-une-resistance-indestructible-et-rubio-dement-que-les-etats-unis-veulent-le-renverser-11696072",
-            "published": "Wed, 18 Mar 2026 06:47:30 +0100",
-            "summary": "\"Face au pire scénario, Cuba a une certitude : tout agresseur extérieur se heurtera à une résistance indestructible\", a..."
-        },
-        {
-            "source": "France-info",
-            "title": "Dans le Calvados, des colistiers d’un candidat \"sans étiquette\" épinglés pour des contenus sur les réseaux sociaux",
-            "link": "https://www.franceinfo.fr/elections/municipales/dans-le-calvados-des-colistiers-d-un-candidat-sans-etiquette-epingles-pour-des-contenus-sur-les-reseaux-sociaux_7876613.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 18 Mar 2026 06:45:15 +0100",
-            "summary": ""
-        },
-        {
-            "source": "RTL-info",
-            "title": "Les fonctionnaires belges sont-ils vraiment à l’abri de l’espionnage ? Le gouvernement mise sur une nouvelle application sécurisée",
-            "link": "https://www.rtl.be/actu/belgique/politique/les-fonctionnaires-belges-sont-ils-vraiment-labri-de-lespionnage-le-gouvernement/2026-03-18/article/782972",
-            "published": "Wed, 18 Mar 2026 06:44:54 +0000",
-            "summary": ""
-        },
-        {
-            "source": "RTBF Monde",
-            "title": "Cette vidéo d’un pilote de chasse américain \"évitant des missiles sol-air iraniens\" est issue d’un jeu vidéo",
-            "link": "https://www.rtbf.be/article/cette-video-d-un-pilote-de-chasse-americain-evitant-des-missiles-sol-air-iraniens-est-issue-d-un-jeu-video-11695072",
-            "published": "Wed, 18 Mar 2026 06:34:00 +0100",
-            "summary": "Publiée le 1er mars 2026, la vidéo d'un pilote d'un avion de combat américain virevoltant entre des missiles sol-air..."
-        },
-        {
-            "source": "RTBF Monde",
-            "title": "\"Si les États membres nous fournissent les fonds nécessaires pour maintenir la paix, l'ONU pourra le faire\", assure son secrétaire général adjoint",
-            "link": "https://www.rtbf.be/article/si-les-etats-membres-nous-fournissent-les-fonds-necessaires-pour-maintenir-la-paix-l-onu-pourra-le-faire-assure-son-secretaire-general-adjoint-11695679",
-            "published": "Wed, 18 Mar 2026 06:30:42 +0100",
-            "summary": "Il y a quelques jours, le chef de l'ONU, Antonio Guterres pressait la communauté internationale d'arrêter la guerre..."
-        },
-        {
-            "source": "Frandroid",
-            "title": "OpenAI dévoile GPT -5.4 Mini et Nano pour des échanges plus rapides avec l’IA",
-            "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/openai-chatgpt/3030589_openai-devoile-gpt-5-4-mini-et-nano-pour-des-echanges-plus-rapides-avec-lia",
-            "published": "Wed, 18 Mar 2026 06:27:37 +0000",
-            "summary": ""
-        },
-        {
-            "source": "Frandroid",
-            "title": "Ce forfait YouPrice mise sur le réseau d’Orange et 250 Go pour moins de 10 euros",
-            "link": "https://www.frandroid.com/bons-plans/3028681_ce-forfait-youprice-mise-sur-le-reseau-dorange-et-250-go-pour-moins-de-10-euros",
-            "published": "Wed, 18 Mar 2026 06:23:00 +0000",
-            "summary": ""
-        },
-        {
-            "source": "7sur7",
-            "title": "Pourquoi les émissions de gaz à effet de serre sont reparties à la hausse en Belgique en 2024",
-            "link": "https://www.7sur7.be/belgique/pourquoi-les-emissions-de-gaz-a-effet-de-serre-sont-reparties-a-la-hausse-en-belgique-en-2024~a43d9e64/",
-            "published": "Wed, 18 Mar 2026 06:19:00 GMT",
-            "summary": "Les émissions de gaz à effet de serre de la Belgique ont légèrement augmenté en 2024, une première depuis l’année 2021 due à certains secteurs industriels en Flandre, ressort-il de l’inventaire belge "
-        },
-        {
-            "source": "France-info",
-            "title": "Emmanuel Macron en déplacement près de Nantes pour dévoiler le nom du futur porte-avions géant",
-            "link": "https://www.franceinfo.fr/france/pays-de-la-loire/on-vous-explique-ce-qu-emmanuel-macron-vient-faire-a-naval-group-nantes-indret-ce-mercredi-18-mars_7876595.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 18 Mar 2026 06:15:06 +0100",
-            "summary": "Le chef de l'État fait le déplacement ce mercredi 18 mars sur le site Naval Group de Nantes-Indret. Emmanuel Macron visitera le site sur lequel a débuté la construction du porte-avions de nouvelle gén"
-        },
-        {
-            "source": "RTL-info",
-            "title": "Pénurie de carburant inédite à l’aéroport de Liège : les avions décollent, mais atterrissent immédiatement… à Zaventem",
-            "link": "https://www.rtl.be/actu/belgique/societe/penurie-de-carburant-inedite-laeroport-de-liege-les-avions-decollent-mais/2026-03-18/article/782969",
-            "published": "Wed, 18 Mar 2026 06:10:42 +0000",
-            "summary": ""
-        },
-        {
-            "source": "France-info",
-            "title": "\"Les Précieuses ridicules\" de Molière revues et corrigées par des lycéens et leur professeure dans le documentaire \"Précieus(e)s\"",
-            "link": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/les-precieuses-ridicules-de-moliere-revues-et-corrigees-par-des-lyceens-et-leur-professeure-dans-le-documentaire-precieus-e-s_7847216.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 18 Mar 2026 06:10:02 +0100",
-            "summary": "La réalisatrice Fanny Guiard-Norel s'est immergée dans l'atelier théâtre d'un lycée et fait le portrait intime d'une enseignante que le travail conduit avec ses élèves sur cette pièce amène à s'interr"
-        },
-        {
-            "source": "7sur7",
-            "title": "Le Maroc sacré champion d’Afrique sur tapis vert: le Sénégal dénonce une décision “sans précédent” et fait appel",
-            "link": "https://www.7sur7.be/football/le-maroc-sacre-champion-dafrique-sur-tapis-vert-le-senegal-denonce-une-decision-sans-precedent-et-fait-appel~ac44890e/",
-            "published": "Wed, 18 Mar 2026 06:10:00 GMT",
-            "summary": "Une décision improbable. Deux mois après la finale mouvementée de la CAN, la Confédération Africaine de Football inflige un forfait au Sénégal et le Maroc est donc officiellement sacré champion d’Afri"
-        },
-        {
-            "source": "France-info",
-            "title": "Pollution de l'air, marées noires, sols contaminés... Pourquoi la guerre au Moyen-Orient fait craindre une crise environnementale et sanitaire majeure",
-            "link": "https://www.franceinfo.fr/environnement/pollution-de-l-air-marees-noires-sols-contamines-pourquoi-la-guerre-au-moyen-orient-fait-craindre-une-crise-environnementale-et-sanitaire-majeure_7863269.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 18 Mar 2026 06:07:36 +0100",
-            "summary": "Au-delà d'un lourd bilan humain et de graves conséquences économiques, le conflit entre les Etats-Unis, Israël et l'Iran présente déjà un lourd coût climatique et environnemental."
-        },
-        {
-            "source": "France-info",
-            "title": "\"On n'est pas à l'abri d'une guerre\" : des jeunes confient pourquoi ils candidatent au service militaire volontaire",
-            "link": "https://www.franceinfo.fr/societe/armee-securite-defense/temoignages-on-n-est-pas-a-l-abri-d-une-guerre-des-jeunes-confient-pourquoi-ils-candidatent-au-service-militaire-volontaire_7811615.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 18 Mar 2026 06:05:06 +0100",
-            "summary": "La campagne de recrutement a débuté mi-janvier. Ce nouveau service national est présenté par l'exécutif comme un moyen de renforcer le lien armée-nation et de répondre aux besoins face à l'accumulatio"
-        },
-        {
-            "source": "RTL-info",
-            "title": "120 morts lors d’interventions policières depuis 2010, 24 d’entre eux souffraient de troubles mentaux",
-            "link": "https://www.rtl.be/actu/belgique/120-morts-lors-dinterventions-policieres-depuis-2010-24-dentre-eux-souffraient/2026-03-18/article/782968",
-            "published": "Wed, 18 Mar 2026 06:02:39 +0000",
-            "summary": ""
-        },
-        {
-            "source": "7sur7",
-            "title": "“Du soleil, beaucoup de soleil”: un temps radieux au menu",
-            "link": "https://www.7sur7.be/belgique/du-soleil-beaucoup-de-soleil-un-temps-radieux-au-menu~a96f2254/",
-            "published": "Wed, 18 Mar 2026 06:00:16 GMT",
-            "summary": "David Dehenauw, météorologue à l’IRM, prévoit un mercredi radieux avec 16 degrés. Mercredi matin, il y aura encore un peu de nuages bas surtout dans le nord, “mais cela ne représentera quasiment rien”"
-        },
-        {
-            "source": "France-info",
-            "title": "Ligue des champions : après sa démonstration de force contre Chelsea, le PSG fait de nouveau peur à l'Europe",
-            "link": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/ligue-des-champions-apres-sa-demonstration-de-force-contre-chelsea-le-psg-fait-de-nouveau-peur-a-l-europe_7875626.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 18 Mar 2026 06:00:01 +0100",
-            "summary": "En corrigeant les Blues, huit mois après la défaite en finale du Mondial des clubs, les Parisiens ont envoyé un message à la concurrence."
-        },
-        {
-            "source": "RTBF Info",
-            "title": "Glutton a un nouveau CEO: \"Il faut continuer à innover. L'ADN de Glutton, c'est d'avoir des gens qui ont eu la bonne idée au bon moment\"",
-            "link": "https://www.rtbf.be/article/glutton-a-un-nouveau-ceo-il-faut-continuer-a-innover-l-adn-de-glutton-c-est-d-avoir-des-gens-qui-ont-eu-la-bonne-idee-au-bon-moment-11695892",
-            "published": "Wed, 18 Mar 2026 06:00:00 +0100",
-            "summary": "Avec son profil de financier reconverti dans les ressources humaines, Jean-Christophe Wavreille, 41 ans, a plusieurs cordes..."
-        },
-        {
-            "source": "France-info",
-            "title": "\"On ne souhaite pas jouer Marseille à la roulette russe\" : on vous raconte les coulisses de l'entre-deux-tours des municipales dans la cité phocéenne",
-            "link": "https://www.franceinfo.fr/elections/recit-on-ne-souhaite-pas-jouer-marseille-a-la-roulette-russe-on-vous-raconte-les-coulisses-de-l-entre-deux-tours-des-municipales-dans-la-cite-phoceenne_7874990.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 18 Mar 2026 05:57:55 +0100",
-            "summary": ""
-        },
-        {
-            "source": "France-info",
-            "title": "\"C'est du pur réalisme politique\" : pourquoi socialistes et insoumis s'allient au second tour des municipales (malgré leurs différends)",
-            "link": "https://www.franceinfo.fr/elections/c-est-du-pur-realisme-politique-pourquoi-socialistes-et-insoumis-s-allient-au-second-tour-des-municipales-malgre-leurs-differends_7874609.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 18 Mar 2026 05:56:53 +0100",
-            "summary": "En dépit des tensions récurrentes entre les deux partis, de nombreux accords ont été conclus localement pour l'emporter face à la droite ou l'extrême droite. \"Il y a des alliances là où il y a des pos"
-        },
-        {
-            "source": "Frandroid",
-            "title": "Nintendo Switch 2, Sony WH-1000XM6, DJI Osmo Pocket 3… voici les 7 deals Tech à ne pas rater pour l’anniversaire d’AliExpress",
-            "link": "https://www.frandroid.com/bons-plans/3030069_nintendo-switch-2-sony-wh-1000xm6-dji-osmo-pocket-3-voici-les-7-deals-tech-a-ne-pas-rater-pour-lanniversaire-daliexpress",
-            "published": "Wed, 18 Mar 2026 05:46:00 +0000",
-            "summary": ""
-        },
-        {
-            "source": "7sur7",
-            "title": "Pas d’inquiétude pour Thibaut Courtois: “Il est sorti par précaution”",
-            "link": "https://www.7sur7.be/football-etranger/pas-dinquietude-pour-thibaut-courtois-il-est-sorti-par-precaution~aa3c1b2e/",
-            "published": "Wed, 18 Mar 2026 05:43:00 GMT",
-            "summary": "Alvaro Arbeloa, l’entraîneur du Real Madrid, s’est voulu rassurant quant à l’état de santé de Thibaut Courtois, sorti sur blessure “par précaution” lors du huitième de finale retour de la Ligue des Ch"
-        },
-        {
-            "source": "7sur7",
-            "title": "Face aux menaces de Trump, le président cubain promet une “résistance indestructible”",
-            "link": "https://www.7sur7.be/monde/face-aux-menaces-de-trump-le-president-cubain-promet-une-resistance-indestructible~a026adef/",
-            "published": "Wed, 18 Mar 2026 05:33:00 GMT",
-            "summary": "Le président cubain, Miguel Diaz-Canel, a promis mardi une “résistance indestructible” face aux menaces de Donald Trump de s’emparer de l’île communiste. “Face au pire scénario, Cuba a une certitude: "
-        },
-        {
-            "source": "7sur7",
-            "title": "“La vague de répercussions mondiales ne fait que commencer”, prévient l’Iran - Des frappes iraniennes font deux morts à Tel Aviv",
-            "link": "https://www.7sur7.be/monde/la-vague-de-repercussions-mondiales-ne-fait-que-commencer-previent-liran-des-frappes-iraniennes-font-deux-morts-a-tel-aviv~a069546f/",
-            "published": "Wed, 18 Mar 2026 05:24:00 GMT",
-            "summary": "🔴 Suivez les dernières informations en direct"
-        },
-        {
-            "source": "7sur7",
-            "title": "“La vague de répercussions mondiales ne fait que commencer\" - Des frappes iraniennes font deux morts à Tel Aviv",
-            "link": "https://www.7sur7.be/monde/la-vague-de-repercussions-mondiales-ne-fait-que-commencer-des-frappes-iraniennes-font-deux-morts-a-tel-aviv~a069546f/",
-            "published": "Wed, 18 Mar 2026 05:24:00 GMT",
-            "summary": "🔴 Suivez les dernières informations en direct"
-        },
-        {
-            "source": "RTL-info",
-            "title": "Alex, 26 ans et agent pénitentiaire, a été sauvagement agressé par un détenu : « Il s’est jeté sur moi, couteau à la main »",
-            "link": "https://www.rtl.be/actu/belgique/faits-divers/alex-26-ans-et-agent-penitentiaire-ete-sauvagement-agresse-par-un-detenu-il-sest/2026-03-18/article/782966",
-            "published": "Wed, 18 Mar 2026 05:00:00 +0000",
-            "summary": ""
-        },
-        {
-            "source": "RTL-info",
-            "title": "2,50€ par manne de linge : l’entreprise de titres-services peut-elle réclamer des suppléments à Magali ? Oui, mais…",
-            "link": "https://www.rtl.be/actu/vos-temoignages/250eu-par-manne-de-linge-lentreprise-de-titres-services-peut-elle-reclamer-des/2026-03-18/article/782963",
-            "published": "Wed, 18 Mar 2026 05:00:00 +0000",
-            "summary": ""
-        },
-        {
-            "source": "RTL-info",
-            "title": "« Se préparer au pire, c’est notre boulot » : dix ans après les attentats, Bouba revient sur l’arrestation de Salah Abdeslam",
-            "link": "https://www.rtl.be/actu/belgique/22-mars-10-ans/se-preparer-au-pire-cest-notre-boulot-dix-ans-apres-les-attentats-bouba-revient/2026-03-18/article/782961",
-            "published": "Wed, 18 Mar 2026 05:00:00 +0000",
-            "summary": ""
-        },
-        {
-            "source": "France-info",
-            "title": "\"Ceux qui font des alliances avec LFI, ce n'est pas technique, c'est politique, et ils perdent leur âme en le faisant\", fustige Gérald Darmanin",
-            "link": "https://www.franceinfo.fr/replay-magazine/franceinfo/municipales-2026/ceux-qui-font-des-alliances-avec-lfi-ce-n-est-pas-technique-c-est-politique-et-ils-perdent-leur-ame-en-le-faisant-fustige-gerald-darmanin_7876067.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 18 Mar 2026 00:15:19 +0100",
-            "summary": ""
-        },
-        {
-            "source": "France-info",
-            "title": "Guerre au Moyen-Orient : mort d'Ali Larijani, hommage à Arnaud Frion... Ce qu'il faut retenir de la journée du 18e jour du conflit",
-            "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-mort-d-ali-larijani-hommage-a-arnaud-frion-ce-qu-il-faut-retenir-de-la-journee-du-18e-jour-du-conflit_7875617.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 18 Mar 2026 00:04:09 +0100",
-            "summary": "Le Conseil suprême de sécurité nationale iranien a confirmé mardi la mort de son chef, Ali Larijani, un pilier du pouvoir, qu'Israël avait annoncé plus tôt avoir tué."
-        },
-        {
-            "source": "France-info",
-            "title": "Ligue des champions : le Real écrase Manchester City avec un triplé de Valverde, Arsenal s'en sort bien, la magie Bodø/Glimt continue... Ce qu'il faut retenir des huitièmes de finale mercredi",
-            "link": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/ligue-des-champions-le-real-ecrase-manchester-city-avec-un-triple-de-valverde-arsenal-s-en-sort-bien-la-magie-bod-glimt-continue-ce-qu-il-faut-retenir-des-huitiemes-de-finale-mercredi_7861391.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 11 Mar 2026 23:48:37 +0100",
-            "summary": "Les Merengues ont livré une grande prestation à Santiago Bernabeu, mercredi, et ont pris une grosse option pour la qualification. Tout reste à faire pour Arsenal, tenu en échec à Leverkusen."
-        },
-        {
-            "source": "France-info",
-            "title": "Frappes israéliennes \"à grande échelle\" sur Beyrouth, réserves stratégiques de pétrole, déclarations de Donald Trump... Ce qu'il faut retenir du douzième jour du conflit au Moyen-Orient",
-            "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/frappes-israeliennes-a-grande-echelle-sur-beyrouth-reserves-strategiques-de-petrole-declarations-de-donald-trump-ce-qu-il-faut-retenir-du-douzieme-jour-du-conflit-au-moyen-orient_7861373.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 11 Mar 2026 23:47:21 +0100",
-            "summary": "Le président américain a assuré mercredi qu'il \"ne restait pratiquement rien à frapper\" en Iran. Le régime iranien a de son côté revendiqué une opération de frappes conjointe avec le Hezbollah sur Isr"
-        },
-        {
-            "source": "France-info",
-            "title": "Hausse des prix des carburants : \"Si la situation perdure, il faudra envisager des mesures d'aides directes aux entreprises\", alerte l'Organisation des transporteurs routiers",
-            "link": "https://www.franceinfo.fr/economie/automobile/essence/hausse-des-prix-des-carburants-si-la-situation-perdure-il-faudra-envisager-des-mesures-d-aides-directes-aux-entreprises-alerte-l-organisation-des-transporteurs-routiers_7861415.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 11 Mar 2026 23:06:25 +0100",
-            "summary": "La guerre au Moyen-Orient a entrainé une hausse des prix des carburants en France. Jean-Marc Rivera appelle l'État à venir en aide aux entreprises de transports qui sont à \"80% des TPE et PME\"."
-        },
-        {
-            "source": "RTBF Info",
-            "title": "Mouscron : la présidente du CPAS Kathy Valcke est décédée",
-            "link": "https://www.rtbf.be/article/mouscron-la-presidente-du-cpas-kathy-valcke-est-decedee-11692829",
-            "published": "Wed, 11 Mar 2026 23:03:20 +0100",
-            "summary": "C'est No Télé, la télévision de proximité de Wallonie picarde, qui a annoncé la nouvelle de son décès ce mercredi..."
-        },
-        {
-            "source": "France-info",
-            "title": "En Charente, deux collégiens de 14 ans seront jugés pour avoir harcelé un camarade qui avait tenté de se suicider à Angoulême",
-            "link": "https://www.franceinfo.fr/faits-divers/justice-proces/en-charente-deux-collegiens-de-14-ans-seront-juges-pour-avoir-harcele-un-camarade-qui-avait-tente-de-se-suicider-a-angouleme_7861400.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 11 Mar 2026 22:57:55 +0100",
-            "summary": "Les deux suspects ont été interpellés lundi et placés en garde à vue. Ils ont reconnu l'intégralité des faits."
-        },
-        {
-            "source": "France-info",
-            "title": "Ligue des champions : déchaîné, le PSG corrige Chelsea et prend une belle option avant le huitième de finale retour",
-            "link": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/ligue-des-champions-dechaine-le-psg-corrige-chelsea-et-prend-une-belle-option-avant-le-huitieme-de-finale-retour_7860974.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 11 Mar 2026 22:57:00 +0100",
-            "summary": "Les Parisiens se sont imposés avec la manière au terme d'un match spectaculaire, mercredi."
-        },
-        {
-            "source": "France-info",
-            "title": "Est-ce le bon moment pour acheter vos billets de train pour l'été ?",
-            "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/les-billets-de-la-sncf-pour-les-vacances-d-ete-sont-d-ores-et-deja-disponible_7861406.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 11 Mar 2026 22:53:38 +0100",
-            "summary": "En cette période de hausse des carburants, le meilleur moyen pour se déplacer reste le train. La SNCF a ouvert mercredi 11 mars la vente des billets pour les vacances d’été. Les premiers servis sont c"
-        },
-        {
-            "source": "RTBF Info",
-            "title": "Cour d'assises du Hainaut : Faysel Amzaourou a été condamné à douze ans de réclusion criminelle pour meurtre",
-            "link": "https://www.rtbf.be/article/cour-d-assises-du-hainaut-faysel-amzaourou-condamne-a-12-ans-de-reclusion-criminelle-pour-meurtre-11693049",
-            "published": "Wed, 11 Mar 2026 22:50:58 +0100",
-            "summary": "Plus tôt, l'avocate générale avait requis une peine de dix-huit ans, demandant au collège de ne pas descendre sous..."
-        },
-        {
-            "source": "7sur7",
-            "title": "Blessé à la hanche, Zizou Bergs déclare forfait pour le Challenger de Phoenix",
-            "link": "https://www.7sur7.be/tennis/blesse-a-la-hanche-zizou-bergs-declare-forfait-pour-le-challenger-de-phoenix~a5e7f2cd/",
-            "published": "Wed, 11 Mar 2026 22:44:20 GMT",
-            "summary": "Zizou Bergs ne jouera finalement pas le Challenger de Phoenix. Touché à la hanche, le Limbourgeois a déclaré forfait, mais il espère être retapé pour le Masters 1000 de Miami."
         }
     ]
 }
