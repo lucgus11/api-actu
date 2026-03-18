@@ -1,8 +1,15 @@
 {
-    "last_update": "2026-03-17T21:37:54.871773",
-    "new_articles_added": 203,
+    "last_update": "2026-03-18T02:08:08.700546",
+    "new_articles_added": 201,
     "total_articles": 100,
     "articles": [
+        {
+            "source": "France-info",
+            "title": "Guerre au Moyen-Orient : mort d'Ali Larijani, hommage à Arnaud Frion... Ce qu'il faut retenir de la journée du 18e jour du conflit",
+            "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-mort-d-ali-larijani-hommage-a-arnaud-frion-ce-qu-il-faut-retenir-de-la-journee-du-18e-jour-du-conflit_7875617.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 18 Mar 2026 00:04:09 +0100",
+            "summary": "Le Conseil suprême de sécurité nationale iranien a confirmé mardi la mort de son chef, Ali Larijani, un pilier du pouvoir, qu'Israël avait annoncé plus tôt avoir tué."
+        },
         {
             "source": "France-info",
             "title": "Ligue des champions : le Real écrase Manchester City avec un triplé de Valverde, Arsenal s'en sort bien, la magie Bodø/Glimt continue... Ce qu'il faut retenir des huitièmes de finale mercredi",
@@ -695,13 +702,6 @@
             "link": "https://www.franceinfo.fr/culture/patrimoine/chateau-de-versailles/au-chateau-de-versailles-deux-fontaines-en-restauration-complete-pendant-un-an_7860728.html#xtor=RSS-3-[lestitres]",
             "published": "Wed, 11 Mar 2026 16:02:48 +0100",
             "summary": "Les chantiers doivent démarrer à la fin mars."
-        },
-        {
-            "source": "RTBF Monde",
-            "title": "Tensions sur les marchés du pétrole : les membres de l’Agence internationale de l’énergie débloquent 400 millions de barils des stocks stratégiques",
-            "link": "https://www.rtbf.be/article/tensions-sur-les-marches-du-petrole-les-membres-de-l-agence-internationale-de-l-energie-debloquent-400-millions-de-barils-des-stocks-strategiques-11692648",
-            "published": "Wed, 11 Mar 2026 15:50:24 +0100",
-            "summary": "L'évolution des prix du pétrole, repartis à la hausse ce mercredi matin, et la craintes pour l'approvisionnement en..."
         }
     ]
 }
