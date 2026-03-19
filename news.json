@@ -1,6 +1,6 @@
 {
-    "last_update": "2026-03-19T09:42:46.057148",
-    "new_articles_added": 171,
+    "last_update": "2026-03-19T13:03:49.301094",
+    "new_articles_added": 191,
     "total_articles": 100,
     "articles": [
         {
@@ -168,6 +168,13 @@
             "source": "RTL-info",
             "title": "Fin de la réussite à 50 % : la Fédération Wallonie-Bruxelles relève la note de réussite des épreuves externes",
             "link": "https://www.rtl.be/actu/belgique/societe/fin-de-la-reussite-50-la-federation-wallonie-bruxelles-releve-la-note-de/2026-03-18/article/783074",
+            "published": "Wed, 18 Mar 2026 20:16:05 +0000",
+            "summary": ""
+        },
+        {
+            "source": "RTL-info",
+            "title": "Avoir 50 % ne sera plus suffisant : la Fédération Wallonie-Bruxelles relève le seuil de réussite pour le CEB, le CE1D et le CESS",
+            "link": "https://www.rtl.be/actu/belgique/societe/avoir-50-ne-sera-plus-suffisant-la-federation-wallonie-bruxelles-releve-le-seuil/2026-03-18/article/783074",
             "published": "Wed, 18 Mar 2026 20:16:05 +0000",
             "summary": ""
         },
@@ -695,13 +702,6 @@
             "link": "https://www.7sur7.be/cyclisme/un-final-explosif-et-jasper-philipsen-debloque-son-compteur-a-nokere~a14dd175/",
             "published": "Wed, 18 Mar 2026 16:16:00 GMT",
             "summary": "Quelques heures après Lotte Kopecky, Jasper Philipsen a aussi décroché sa première victoire de la saison à Nokere. Le sprinteur belge a avalé le pauvre Alec Segaert, qui était sorti à 13 km de l’arriv"
-        },
-        {
-            "source": "7sur7 Monde",
-            "title": "Incendie, toilettes défectueuses, etc.: le plus grand porte-avions du monde est à la peine en pleine guerre au Moyen-Orient",
-            "link": "https://www.7sur7.be/monde/incendie-toilettes-defectueuses-etc-le-plus-grand-porte-avions-du-monde-est-a-la-peine-en-pleine-guerre-au-moyen-orient~afc3f8ba/",
-            "published": "Wed, 18 Mar 2026 16:14:36 GMT",
-            "summary": "Le porte-avions américain USS Gerald R. Ford enchaîne les incidents, à tel point que ses 600 militaires doivent désormais dormir à même le sol ou sur des tables, rapporte le New York Times. Selon des "
         }
     ]
 }
