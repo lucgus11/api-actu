@@ -1,6 +1,6 @@
 {
-    "last_update": "2026-03-19T02:08:49.446234",
-    "new_articles_added": 130,
+    "last_update": "2026-03-19T04:54:11.712698",
+    "new_articles_added": 124,
     "total_articles": 100,
     "articles": [
         {
@@ -30,6 +30,13 @@
             "link": "https://www.franceinfo.fr/elections/l-union-des-droites-est-ineluctable-elle-avance-assure-eric-ciotti-candidat-a-la-mairie-de-nice_7877999.html#xtor=RSS-3-[lestitres]",
             "published": "Wed, 18 Mar 2026 23:07:54 +0100",
             "summary": ""
+        },
+        {
+            "source": "RTBF Monde",
+            "title": "Guerre au Moyen-Orient : L’Iran menace Washington d’anéantir des infrastructures énergétiques en cas de nouvelle attaque contre les siennes (revoir notre direct)",
+            "link": "https://www.rtbf.be/article/direct-conlit-au-moyen-orient-l-iran-enterre-son-puissant-chef-de-la-securite-larijani-et-jure-de-le-venger-11696065",
+            "published": "Wed, 18 Mar 2026 22:58:55 +0100",
+            "summary": "\"Nous envisageons de cibler les infrastructures de carburant, d'énergie et de gaz\" des pays à partir desquels les..."
         },
         {
             "source": "France-info",
@@ -695,13 +702,6 @@
             "link": "https://www.7sur7.be/monde/incendie-toilettes-defectueuses-etc-le-plus-grand-porte-avions-du-monde-est-a-la-peine-en-pleine-guerre-au-moyen-orient~afc3f8ba/",
             "published": "Wed, 18 Mar 2026 16:14:36 GMT",
             "summary": "Le porte-avions américain USS Gerald R. Ford enchaîne les incidents, à tel point que ses 600 militaires doivent désormais dormir à même le sol ou sur des tables, rapporte le New York Times. Selon des "
-        },
-        {
-            "source": "7sur7",
-            "title": "Des étudiants dénoncent la hausse du minerval devant le gouvernement de la FWB",
-            "link": "https://www.7sur7.be/belgique/des-etudiants-denoncent-la-hausse-du-minerval-devant-le-gouvernement-de-la-fwb~a0e7578a/",
-            "published": "Wed, 18 Mar 2026 16:12:04 GMT",
-            "summary": "Un cercueil représentant la mort fictive de l’accessibilité aux études, c’est ainsi que les étudiants ont voulu démontrer mercredi leur mécontentement face à la mesure de la hausse du minerval dans l’"
         }
     ]
 }
