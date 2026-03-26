@@ -1,6 +1,6 @@
 {
-    "last_update": "2026-03-26T02:13:46.204107",
-    "new_articles_added": 122,
+    "last_update": "2026-03-26T05:06:12.746376",
+    "new_articles_added": 125,
     "total_articles": 100,
     "articles": [
         {
@@ -163,6 +163,13 @@
             "link": "https://www.rtbf.be/article/nous-sommes-une-mafia-en-ligne-immersion-chez-les-escrocs-du-net-en-afrique-11661553",
             "published": "Wed, 25 Mar 2026 20:30:00 +0100",
             "summary": "Ils refusent d'être filmés chez eux. L'entretien se tient dans un lieu loué, les brouteurs sont masqués et nous..."
+        },
+        {
+            "source": "RTBF Monde",
+            "title": "Guerre au Moyen-Orient :  les États-Unis ont détruit \"deux tiers\" des capacités de production de missiles iraniens",
+            "link": "https://www.rtbf.be/article/direct-guerre-au-moyen-orient-l-iran-affirme-que-les-navires-non-hostiles-peuvent-emprunter-le-detroit-d-ormuz-11699807",
+            "published": "Wed, 25 Mar 2026 20:29:36 +0100",
+            "summary": "Donald Trump a proposé un plan de paix à l'Iran et s'est montré optimiste sur les chances de parvenir à un accord,..."
         },
         {
             "source": "France-info",
@@ -694,13 +701,6 @@
             "title": "LG casse le prix de ce pack vidéoprojecteur 4K avec barre de son, pour un vrai home cinéma",
             "link": "https://www.frandroid.com/bons-plans/3039847_lg-casse-le-prix-de-ce-pack-videoprojecteur-4k-avec-barre-de-son-pour-un-vrai-home-cinema",
             "published": "Wed, 25 Mar 2026 15:28:00 +0000",
-            "summary": ""
-        },
-        {
-            "source": "Frandroid",
-            "title": "Votre ordinateur ou smartphone peut-il faire tourner une IA ? Ce site vous donne la réponse en un clic",
-            "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3040031_votre-ordinateur-ou-smartphone-peut-il-faire-tourner-une-ia-ce-site-vous-donne-la-reponse-en-un-clic",
-            "published": "Wed, 25 Mar 2026 15:26:08 +0000",
             "summary": ""
         }
     ]
