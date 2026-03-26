@@ -1,8 +1,57 @@
 {
-    "last_update": "2026-03-25T21:38:51.107679",
-    "new_articles_added": 125,
+    "last_update": "2026-03-26T02:13:46.204107",
+    "new_articles_added": 122,
     "total_articles": 100,
     "articles": [
+        {
+            "source": "France-info",
+            "title": "La Banque de France abaisse ses prévisions de croissance en raison de la guerre au Moyen-Orient",
+            "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/la-banque-de-france-abaisse-ses-previsions-de-croissance-en-raison-de-la-guerre-au-moyen-orient_7894649.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 25 Mar 2026 23:58:38 +0100",
+            "summary": "Elle prévoit une croissance du produit intérieur brut (PIB) de 0,9% en 2026 ainsi qu'une inflation à 1,7%, après 0,9% en 2025."
+        },
+        {
+            "source": "France-info",
+            "title": "Il n'y aura pas de \"récession\" malgré la guerre au Moyen-Orient, anticipe le gouverneur de la Banque de France",
+            "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/face-aux-consequences-de-la-guerre-au-moyen-orient-il-n-y-aura-pas-de-recession-prevoit-le-gouverneur-de-la-banque-de-france_7894157.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 25 Mar 2026 23:41:44 +0100",
+            "summary": "François Villeroy de Galhau, gouverneur de la Banque de France, était l'linvité du journal de 20 heures sur France 2, mercredi 25 mars."
+        },
+        {
+            "source": "France-info",
+            "title": "Guerre au Moyen-Orient : l'Iran rejette le plan américain, Israël élargit sa \"zone tampon\" au Liban, le Hezbollah refuse de négocier... Ce qu'il faut retenir de la journée du mercredi 25 mars",
+            "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-l-iran-rejette-le-plan-americain-israel-elargit-sa-zone-tampon-au-liban-le-hezbollah-refuse-de-negocier-ce-qu-il-faut-retenir-de-la-journee-du-mercredi-25-mars_7894184.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 25 Mar 2026 23:36:54 +0100",
+            "summary": "L'Iran, qui a rejeté le plan américain pour mettre fin au conflit, a continué à frapper plusieurs pays du Golfe."
+        },
+        {
+            "source": "France-info",
+            "title": "Quatre morts dans une frappe américaine contre un bateau de narcotrafiquants présumés dans les Caraïbes",
+            "link": "https://www.franceinfo.fr/monde/usa/quatre-morts-dans-une-frappe-americaine-contre-un-bateau-de-narcotrafiquants-presumes-dans-les-caraibes_7894163.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 25 Mar 2026 23:00:53 +0100",
+            "summary": "Au moins 163 personnes ont été tuées depuis septembre 2025 et le début de la campagne militaire américaine contre des trafiquants de drogue présumés dans les eaux du Pacifique et des Caraïbes."
+        },
+        {
+            "source": "France-info",
+            "title": "Les diocèses de Savoie et l'enseignement catholique saisissent la justice après le témoignage de violences physiques et sexuelles d'un ancien élève d'un collège",
+            "link": "https://www.franceinfo.fr/societe/religion/pedophilie-de-l-eglise/les-dioceses-de-savoie-et-l-enseignement-catholique-saisissent-la-justice-apres-le-temoignage-de-violences-physiques-et-sexuelles-d-un-ancien-eleve-d-un-college_7894160.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 25 Mar 2026 22:52:24 +0100",
+            "summary": "Les trois personnes mises en cause sont aujourd'hui décédées, mais le directeur du collège Saint-François de Sales à Chambéry a saisi le procureur de la République \"afin d'aider à la manifestation de "
+        },
+        {
+            "source": "France-info",
+            "title": "Gérard Larcher veut un \"candidat unique\" de la droite et du centre d'ici novembre pour la présidentielle 2027",
+            "link": "https://www.franceinfo.fr/elections/presidentielle/gerard-larcher-veut-un-candidat-unique-de-la-droite-et-du-centre-d-ici-novembre-pour-la-presidentielle-2027_7894043.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 25 Mar 2026 22:27:05 +0100",
+            "summary": "Le président du Sénat estime \"qu'il y aura une pression forte des électeurs, des élus, des parlementaires pour que les candidats s'entendent\"."
+        },
+        {
+            "source": "RTBF Monde",
+            "title": "Donald Trump absent de la grand-messe des conservateurs pour la première fois en dix ans",
+            "link": "https://www.rtbf.be/article/donald-trump-absent-de-la-grand-messe-des-conservateurs-pour-la-premiere-fois-en-dix-ans-11700383",
+            "published": "Wed, 25 Mar 2026 22:23:50 +0100",
+            "summary": "Le président américain ne pourra pas se rendre à cette conférence qui a lieu de mercredi à samedi en banlieue de..."
+        },
         {
             "source": "France-info",
             "title": "Mort de Loana : \"C'était une femme très intelligente et très sensible\", salue Alexia Laroche-Joubert, productrice de \"Loft Story\"",
@@ -25,6 +74,13 @@
             "summary": "Un rapport de l'Anses révèle l'ampleur de l'imprégnation des Français en cadmium, un métal toxique migrant des sols vers les aliments. Deux membres de l'agence sanitaire vous expliquent leurs découver"
         },
         {
+            "source": "7sur7",
+            "title": "“J’ai encore besoin de temps pour digérer tout ça”: Sammy Mahdi se confie sur la perte de son chien",
+            "link": "https://www.7sur7.be/belgique/jai-encore-besoin-de-temps-pour-digerer-tout-ca-sammy-mahdi-se-confie-sur-la-perte-de-son-chien~a99a474b/",
+            "published": "Wed, 25 Mar 2026 22:07:58 GMT",
+            "summary": "Le président du CD&amp;V, Sammy Mahdi, a longuement évoqué la perte inattendue de son chien Pamuk alors qu’il était invité sur le plateau de l’émission flamande “De tafel van Gert”. Après neuf ans de "
+        },
+        {
             "source": "RTBF Monde",
             "title": "\"QR le débat\" : vivra-t-on une crise de l’énergie historique ? Suivez notre direct sur La Une et Auvio",
             "link": "https://www.rtbf.be/article/qr-le-debat-vivra-t-on-une-crise-de-l-energie-historique-votez-et-commentez-11699384",
@@ -37,6 +93,13 @@
             "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/enquete-francetv-on-vous-raconte-les-dessous-de-la-conference-de-presse-de-lfi-reservee-aux-nouveaux-medias_7894067.html#xtor=RSS-3-[lestitres]",
             "published": "Wed, 25 Mar 2026 21:45:23 +0100",
             "summary": "Jean-Luc Mélenchon a tenu mardi une nouvelle conférence de presse qui était réservée aux influenceurs plutôt qu'aux journalistes. L'Oeil du 20 heures vous raconte les coulisses de l'opération."
+        },
+        {
+            "source": "7sur7",
+            "title": "Le siège de l’Autorité douanière européenne ira à Lille, et non à Liège",
+            "link": "https://www.7sur7.be/monde/le-siege-de-lautorite-douaniere-europeenne-ira-a-lille-et-non-a-liege~ac8cbde3/",
+            "published": "Wed, 25 Mar 2026 21:40:27 GMT",
+            "summary": "La ville de Lille a été désignée mercredi pour accueillir le siège de la future Autorité douanière européenne, devançant huit autres candidates dont Liège. Cette victoire marque une revanche symboliqu"
         },
         {
             "source": "France-info",
@@ -116,6 +179,13 @@
             "summary": "Tariq Ramadan a été condamné pour viols à une peine de réclusion criminelle, assortie d’une interdiction définitive de poser le pied sur le territoire français."
         },
         {
+            "source": "RTL-info",
+            "title": "Pour certains, les factures d’électricité et de gaz ont augmenté de 45 euros : faut-il changer de contrat d’énergie ?",
+            "link": "https://www.rtl.be/actu/belgique/economie/pour-certains-les-factures-delectricite-et-de-gaz-ont-augmente-de-45-euros-faut/2026-03-25/article/783788",
+            "published": "Wed, 25 Mar 2026 19:48:44 +0000",
+            "summary": ""
+        },
+        {
             "source": "7sur7",
             "title": "Interdiction des pesticides près des captages d’eau: la proposition d’Ecolo rejetée",
             "link": "https://www.7sur7.be/belgique/interdiction-des-pesticides-pres-des-captages-deau-la-proposition-decolo-rejetee~a2e4871e/",
@@ -128,6 +198,13 @@
             "link": "https://www.franceinfo.fr/faits-divers/une-cavale-jusqu-au-portugal-deux-enfants-sains-et-saufs-deux-femmes-tuees-ce-que-l-on-sait-de-l-affaire-des-disparitions-en-aveyron_7893839.html#xtor=RSS-3-[lestitres]",
             "published": "Wed, 25 Mar 2026 19:44:19 +0100",
             "summary": "Cédric P., ancien policier déjà condamné, a été arrêté mardi au Portugal avec ses deux enfants sains et saufs. Son ex-femme et sa nouvelle conjointe ont été retrouvées mortes."
+        },
+        {
+            "source": "RTL-info",
+            "title": "Veerle Hegge a dû se faire hospitaliser pendant 6 mois pour lutter contre l’anorexie, « c’était dur à accepter, car je travaille à temps plein et j’ai 4 enfants »",
+            "link": "https://www.rtl.be/actu/belgique/societe/veerle-hegge-du-se-faire-hospitaliser-pendant-6-mois-pour-lutter-contre/2026-03-25/article/783787",
+            "published": "Wed, 25 Mar 2026 19:44:11 +0000",
+            "summary": ""
         },
         {
             "source": "France-info",
@@ -294,6 +371,13 @@
             "source": "RTL-info",
             "title": "Veerle Hegge, discrète Première dame du pays, a lutté contre l’anorexie dans l’ombre",
             "link": "https://www.rtl.be/actu/belgique/societe/veerle-hegge-discrete-premiere-dame-du-pays-lutte-contre-lanorexie-dans-lombre/2026-03-25/article/783768",
+            "published": "Wed, 25 Mar 2026 18:08:07 +0000",
+            "summary": ""
+        },
+        {
+            "source": "RTL-info",
+            "title": "Qui est Veerle Hegge, la discrète Première dame du pays qui lutte contre l’anorexie ?",
+            "link": "https://www.rtl.be/actu/belgique/societe/qui-est-veerle-hegge-la-discrete-premiere-dame-du-pays-qui-lutte-contre/2026-03-25/article/783768",
             "published": "Wed, 25 Mar 2026 18:08:07 +0000",
             "summary": ""
         },
@@ -618,90 +702,6 @@
             "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/3040031_votre-ordinateur-ou-smartphone-peut-il-faire-tourner-une-ia-ce-site-vous-donne-la-reponse-en-un-clic",
             "published": "Wed, 25 Mar 2026 15:26:08 +0000",
             "summary": ""
-        },
-        {
-            "source": "RTL-info",
-            "title": "Colis suspect à la gare de Bruxelles-Midi : la police lance un appel à témoins pour identifier le propriétaire du sac abandonné",
-            "link": "https://www.rtl.be/actu/regions/bruxelles/colis-suspect-la-gare-de-bruxelles-midi-la-police-lance-un-appel-temoins-pour/2026-03-25/article/783753",
-            "published": "Wed, 25 Mar 2026 15:18:48 +0000",
-            "summary": ""
-        },
-        {
-            "source": "Frandroid",
-            "title": "Débit doublé pour 1 € de plus : cette offre fibre de SFR à 22,99 € sort du lot [Sponso]",
-            "link": "https://www.frandroid.com/telecom/forfait-internet/3039009_debit-double-pour-1-e-de-plus-cette-offre-fibre-de-sfr-a-2299-e-sort-du-lot",
-            "published": "Wed, 25 Mar 2026 15:18:47 +0000",
-            "summary": ""
-        },
-        {
-            "source": "RTBF Monde",
-            "title": "Direct – Guerre au Moyen-Orient : \"l'Iran cessera la guerre quand il l'aura choisi\"",
-            "link": "https://www.rtbf.be/article/direct-guerre-au-moyen-orient-l-iran-affirme-que-les-navires-non-hostiles-peuvent-emprunter-le-detroit-d-ormuz-11699807",
-            "published": "Wed, 25 Mar 2026 15:14:43 +0100",
-            "summary": "Donald Trump a proposé un plan de paix à l'Iran et s'est montré optimiste sur les chances de parvenir à un accord,..."
-        },
-        {
-            "source": "7sur7",
-            "title": "Chaos à Bruxelles-Midi: la police lance un avis de recherche pour un colis suspect",
-            "link": "https://www.7sur7.be/faits-divers/chaos-a-bruxelles-midi-la-police-lance-un-avis-de-recherche-pour-un-colis-suspect~a1e54bc8/",
-            "published": "Wed, 25 Mar 2026 15:14:08 GMT",
-            "summary": "La police et le parquet de Bruxelles sont à la recherche de témoins qui pourraient fournir une description du propriétaire du colis suspect retrouvé lundi soir à Bruxelles-Midi, dans un train en prove"
-        },
-        {
-            "source": "7sur7",
-            "title": "En pleine guerre, le Pentagone dope sa production de missiles",
-            "link": "https://www.7sur7.be/monde/en-pleine-guerre-le-pentagone-dope-sa-production-de-missiles~a21a88f2/",
-            "published": "Wed, 25 Mar 2026 15:11:51 GMT",
-            "summary": "Le ministère américain de la Défense a annoncé mercredi la signature d’accords avec des industriels de la défense pour placer la production de missiles “sur le pied de guerre”. Cette décision intervie"
-        },
-        {
-            "source": "Frandroid",
-            "title": "Pixel Watch : comment les nouvelles « fiches de contact » vont transformer vos appels",
-            "link": "https://www.frandroid.com/android/applications/3039215_pixel-watch-comment-les-nouvelles-fiches-de-contact-vont-transformer-vos-appels",
-            "published": "Wed, 25 Mar 2026 15:07:10 +0000",
-            "summary": ""
-        },
-        {
-            "source": "France-info",
-            "title": "Interrogations et stupéfaction à Hourtin après l'incendie d’un supermarché dont s'accuse une adolescente de 12 ans",
-            "link": "https://www.franceinfo.fr/faits-divers/interrogations-et-stupefaction-a-hourtin-apres-l-incendie-d-un-supermarche-dont-s-accuse-une-adolescente-de-12-ans_7893539.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 15:05:16 +0100",
-            "summary": "Un supermarché Carrefour Market a été volontairement incendié le 8 mars. Confondue par la vidéosurveillance, l’adolescente a reconnu les faits et a parlé, selon le procureur, de \"son attrait pour le f"
-        },
-        {
-            "source": "7sur7",
-            "title": "Axel Laurance remporte la première étape de la Semaine Internationale Coppi-Bartali",
-            "link": "https://www.7sur7.be/cyclisme/axel-laurance-remporte-la-premiere-etape-de-la-semaine-internationale-coppi-bartali~a9b8d896/",
-            "published": "Wed, 25 Mar 2026 15:03:00 GMT",
-            "summary": "Victoire française à Barolo. Axel Laurance, ancien champion du monde Espoirs, a remporté la première étape de la Semaine Internationale Coppi-Bartali devant le Suisse Mauro Schmid et l’Italien Diego U"
-        },
-        {
-            "source": "7sur7",
-            "title": "“Il a été projeté à travers le bar”: la star d’Internet “Ibiza Final Boss” agressée à Ryton",
-            "link": "https://www.7sur7.be/people/il-a-ete-projete-a-travers-le-bar-la-star-dinternet-ibiza-final-boss-agressee-a-ryton~ae9fc80d/",
-            "published": "Wed, 25 Mar 2026 15:00:00 GMT",
-            "summary": "Victime d’une agression, le Britannique Jack Kay fait de nouveau les gros titres. Celui que l’on surnomme “Ibiza Final Boss” a été pris à partie par quatre hommes dans un pub à Ryton, d’après les médi"
-        },
-        {
-            "source": "France-info",
-            "title": "\"Anemone\" : Daniel Day-Lewis fait son grand retour au cinéma dans un film un peu trop esthétisant, réalisé par son fils",
-            "link": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/anemone-daniel-day-lewis-fait-son-grand-retour-au-cinema-dans-un-film-un-peu-trop-esthetisant-realise-par-son-fils_7892900.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 14:56:51 +0100",
-            "summary": "Ronan Day-Lewis, peintre et cinéaste, a convaincu son père de sortir de sa retraite pour le placer au cœur de son premier long métrage, le portrait d'une famille déchirée dont ils cosignent le scénari"
-        },
-        {
-            "source": "France-info",
-            "title": "Attentat d'Arras : l'enquête sur l'assassinat de Dominique Bernard est terminée",
-            "link": "https://www.franceinfo.fr/faits-divers/attaque-au-couteau-dans-un-lycee-a-arras/attentat-d-arras-l-enquete-sur-l-assassinat-de-dominique-bernard-est-terminee_7893512.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 14:55:22 +0100",
-            "summary": "Trois personnes sont mises en examen, un ancien élève du professeur de lettres tué devant son lycée, son frère et son cousin. Le parquet national antiterroriste va désormais examiner les éléments rend"
-        },
-        {
-            "source": "France-info",
-            "title": "\"On n'en est pas là en France, heureusement\" : Roland Lescure \"regrette\" ses propos sur un \"choc pétrolier\"",
-            "link": "https://www.franceinfo.fr/economie/automobile/essence/on-n-en-est-pas-la-en-france-heureusement-roland-lescure-regrette-ses-propos-sur-un-choc-petrolier_7893449.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 14:53:08 +0100",
-            "summary": "Le ministre de l'Economie a justifié que cette expression s'appliquait \"à la situation internationale et en aucun cas à la situation française\"."
         }
     ]
 }
