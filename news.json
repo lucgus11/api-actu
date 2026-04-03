@@ -1,5 +1,5 @@
 {
-    "last_update": "2026-04-02T21:37:14.662333",
+    "last_update": "2026-04-03T02:13:16.581598",
     "new_articles_added": 202,
     "total_articles": 100,
     "articles": [
@@ -404,6 +404,13 @@
         },
         {
             "source": "France-info",
+            "title": "Comptabilité, plaintes, sanctions : l’Ordre des médecins contraint de se réformer, son président tente de rassurer, \"les réformes sont déjà en cours\"",
+            "link": "https://www.franceinfo.fr/france/bretagne/comptabilite-plaintes-sanctions-l-ordre-des-medecins-contraint-de-se-reformer-son-president-tente-de-rassurer-les-reformes-sont-deja-en-cours_7893854.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 25 Mar 2026 17:55:05 +0100",
+            "summary": "Pointé du doigt par un rapport de l’Inspection générale des finances pour des irrégularités de gestion et des failles disciplinaires, l’Ordre des médecins assure avoir déjà engagé plusieurs réformes. "
+        },
+        {
+            "source": "France-info",
             "title": "Le Français Dorian Godon encore vainqueur lors de la 3e étape du Tour de Catalogne à l'issue d'un final fou où Remco Evenepoel a chuté alors qu'il menait",
             "link": "https://www.franceinfo.fr/sports/cyclisme/le-francais-dorian-godon-encore-vainqueur-lors-de-la-3e-etape-du-tour-de-catalogne-a-l-issue-d-un-final-fou-ou-remco-evenepoel-a-chute-alors-qu-il-menait_7893794.html#xtor=RSS-3-[lestitres]",
             "published": "Wed, 25 Mar 2026 17:51:34 +0100",
@@ -695,13 +702,6 @@
             "link": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/quels-sont-les-navires-non-hostiles-que-l-iran-autorise-a-passer-par-le-detroit-d-ormuz_7893260.html#xtor=RSS-3-[lestitres]",
             "published": "Wed, 25 Mar 2026 15:30:50 +0100",
             "summary": "Cette voie maritime stratégique, quasiment fermée depuis le début des frappes américano-israéliennes fin février, est partiellement ouverte depuis dimanche par le régime iranien. Téhéran exclut toutef"
-        },
-        {
-            "source": "Frandroid",
-            "title": "LG casse le prix de ce pack vidéoprojecteur 4K avec barre de son, pour un vrai home cinéma",
-            "link": "https://www.frandroid.com/bons-plans/3039847_lg-casse-le-prix-de-ce-pack-videoprojecteur-4k-avec-barre-de-son-pour-un-vrai-home-cinema",
-            "published": "Wed, 25 Mar 2026 15:28:00 +0000",
-            "summary": ""
         }
     ]
 }
