@@ -1,14 +1,133 @@
 {
-    "last_update": "2026-04-29T05:54:23.456004",
-    "new_articles_added": 195,
+    "last_update": "2026-04-29T08:16:57.232026",
+    "new_articles_added": 178,
     "total_articles": 100,
     "articles": [
+        {
+            "source": "France-info",
+            "title": "\"Je regrette d'être tombée dedans\" : ces lycéennes racontent comment elles sont devenues \"scotchées\" à la cigarette électronique",
+            "link": "https://www.franceinfo.fr/sante/drogue-addictions/cigarette-electronique/temoignages-je-regrette-d-etre-tombee-dedans-ces-lyceennes-racontent-comment-elles-sont-devenues-accro-a-la-cigarette-electronique_7970564.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 09:50:39 +0200",
+            "summary": "Les adolescents consomment moins de cigarettes traditionnelles et toujours plus de modèles électroniques, révèle une étude de l'Observatoire français des drogues et des tendances addictives, publiée m"
+        },
+        {
+            "source": "France-info",
+            "title": "Guerre au Moyen-Orient : les ventes de carburants en France ont fortement baissé en avril",
+            "link": "https://www.franceinfo.fr/economie/automobile/essence/guerre-au-moyen-orient-les-ventes-de-carburants-en-france-ont-fortement-baisse-en-avril_7971704.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 09:43:10 +0200",
+            "summary": "D'après le dernier relevé national de la consommation de carburant, entre le 11 et le 20 avril, la consommation de gazole était en baisse de 18,55% et celle des supercarburants de 14,5%."
+        },
+        {
+            "source": "RTBF Monde",
+            "title": "L’accord UE-Mercosur représente une \"défaite démocratique\", assène l’eurodéputée Saskia Bricmont",
+            "link": "https://www.rtbf.be/article/l-accord-ue-mercosur-represente-une-defaite-democratique-assene-l-eurodeputee-saskia-bricmont-11716813",
+            "published": "Wed, 29 Apr 2026 09:32:58 +0200",
+            "summary": "L'accord de libre-échange commercial entre l'Union européenne (UE) et les pays sud-américains du Mercosur (Argentine,..."
+        },
+        {
+            "source": "France-info",
+            "title": "Christophe Béchu confirme des \"discussions\" entre Édouard Philippe et Gabriel Attal pour 2027 : \"Tout le monde a conscience qu'il ne pourra pas y avoir pléthore de candidats sur la ligne d'arrivée\"",
+            "link": "https://www.franceinfo.fr/elections/presidentielle/christophe-bechu-confirme-des-discussions-entre-edouard-philippe-et-gabriel-attal-pour-2027-tout-le-monde-a-conscience-dans-le-bloc-central-qu-il-ne-pourra-pas-y-avoir-plethore-de-candidats-sur-la-ligne-d-arrivee_7971662.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 09:32:45 +0200",
+            "summary": "Invité des \"4 Vérités\" ce mercredi 29 avril, le secrétaire général d'Horizons reconnaît qu'Édouard Philippe s'est bien entretenu avec Gabriel Attal au sujet de la présidentielle de 2027, mais nie qu'u"
+        },
+        {
+            "source": "France-info",
+            "title": "\"Un match que l'on voit une fois dans sa vie\" : les supporters français et allemands encore émerveillés après le choc PSG - Bayern",
+            "link": "https://www.franceinfo.fr/sports/foot/psg/reportage-un-match-que-l-on-voit-une-fois-dans-sa-vie-les-supporters-francais-et-allemands-encore-emerveilles-apres-le-choc-psg-bayern_7971551.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 09:30:37 +0200",
+            "summary": "Le PSG s'est imposé 5 à 4 face au Bayern Munich lors de cette demi-finale aller en Ligue des Champions. Les supporters des deux camps restent confiants pour la qualification et n'oublieront jamais cet"
+        },
+        {
+            "source": "France-info",
+            "title": "Les bénéfices trimestriels de TotalEnergies bondissent de près de 50% sur un an, dans un contexte de hausse des prix du pétrole",
+            "link": "https://www.franceinfo.fr/environnement/energie/energies-fossiles/totalenergies/les-benefices-trimestriels-de-totalenergies-bondissent-de-pres-de-50-sur-un-an-dans-un-contexte-de-hausse-des-prix-du-petrole_7971695.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 09:17:15 +0200",
+            "summary": "Le géant des hydrocarbures a publié ses résultats, mercredi, près de deux mois après le début de la guerre au Moyen-Orient et la fermeture du détroit d'Ormuz."
+        },
+        {
+            "source": "RTBF Info",
+            "title": "Renaissance inespérée de la brasserie de Brunehaut : un an après la faillite, elle va s’ouvrir davantage au public",
+            "link": "https://www.rtbf.be/article/renaissance-inesperee-de-la-brasserie-de-brunehaut-un-an-apres-la-faillite-elle-va-s-ouvrir-davantage-au-public-11708734",
+            "published": "Wed, 29 Apr 2026 08:55:01 +0200",
+            "summary": "C'est une brasserie de 130 ans d'existence qui va rouvrir ses portes et reprendre sa production. La brasserie de..."
+        },
+        {
+            "source": "France-info",
+            "title": "Violences sexuelles : \"Il faut que les moyens soient mis\" pour que le site Cocoland \"soit immédiatement fermé\", selon la Fondation des femmes",
+            "link": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/violences-sexuelles-il-faut-que-les-moyens-soient-mis-pour-que-le-site-cocoland-soit-immediatement-ferme-selon-la-fondation-des-femmes_7971665.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 08:45:01 +0200",
+            "summary": "La plateforme avait notamment fait scandale dans le cadre de l'affaire des viols de Mazan. Elle a refait surface mi-avril sous un autre nom : Cocoland."
+        },
+        {
+            "source": "France-info",
+            "title": "Victor Wembanyama et les Spurs écartent Portland pour passer au 2e tour des play-offs NBA",
+            "link": "https://www.franceinfo.fr/sports/basket/victor-wembanyama-et-les-spurs-ecartent-portland-pour-passer-au-2e-tour-des-play-offs-nba_7971626.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 08:33:30 +0200",
+            "summary": "Ils ont dominé les Trail Blazers (114-95), mardi, afin de remporter la série 4-1. Au repos vendredi puis revenu dimanche dans l'Oregon pour un succès, le géant français est resté discret en attaque, m"
+        },
+        {
+            "source": "7sur7",
+            "title": "Fin de parcours en play-offs: Portland et Toumani Camara chutent face aux Spurs",
+            "link": "https://www.7sur7.be/autres-sports/fin-de-parcours-en-play-offs-portland-et-toumani-camara-chutent-face-aux-spurs~aaa2238d/",
+            "published": "Wed, 29 Apr 2026 08:11:37 GMT",
+            "summary": "Les Portland Trail Blazers ont définitivement chuté face aux San Antonio Spurs après cinq matchs au premier tour des play-offs de la NBA, la ligue nord-américaine de basket. Toumani Camara et les sien"
+        },
+        {
+            "source": "Frandroid",
+            "title": "Des pièces chinoises Leapmotor dans des voitures électriques européennes ? Stellantis n’exclurait pas cette option",
+            "link": "https://www.frandroid.com/marques/leapmotor/3082249_des-pieces-chinoises-leapmotor-dans-des-voitures-electriques-europeennes-stellantis-nexclurait-pas-cette-option",
+            "published": "Wed, 29 Apr 2026 08:10:05 +0000",
+            "summary": ""
+        },
+        {
+            "source": "RTBF Info",
+            "title": "L’essor du marché des voitures électriques d’occasion : à quoi faut-il être vigilant ?",
+            "link": "https://www.rtbf.be/article/l-essor-du-marche-des-voitures-electriques-d-occasion-a-quoi-faut-il-etre-vigilant-11714038",
+            "published": "Wed, 29 Apr 2026 08:00:46 +0200",
+            "summary": "Cette croissance s'inscrit dans un contexte plus large où le marché de l'occasion électrique se développe..."
+        },
+        {
+            "source": "Frandroid",
+            "title": "À ce prix-là, le Samsung Galaxy A56 est plus intéressant que le nouveau A57",
+            "link": "https://www.frandroid.com/bons-plans/3080617_a-ce-prix-la-le-samsung-galaxy-a56-est-plus-interessant-que-le-nouveau-a57",
+            "published": "Wed, 29 Apr 2026 08:00:00 +0000",
+            "summary": ""
+        },
+        {
+            "source": "Frandroid",
+            "title": "Bénéfices en chute libre de 55 % : que se passe-t-il chez BYD ?",
+            "link": "https://www.frandroid.com/marques/byd/3082215_benefices-en-chute-libre-de-55-que-se-passe-t-il-chez-byd",
+            "published": "Wed, 29 Apr 2026 07:58:04 +0000",
+            "summary": ""
+        },
+        {
+            "source": "7sur7",
+            "title": "Bruxelles accuse Meta de laisser les moins de 13 ans accéder à Instagram et Facebook",
+            "link": "https://www.7sur7.be/tech/bruxelles-accuse-meta-de-laisser-les-moins-de-13-ans-acceder-a-instagram-et-facebook~a8b8fb26/",
+            "published": "Wed, 29 Apr 2026 07:57:44 GMT",
+            "summary": "Bruxelles a accusé mercredi le groupe américain Meta d'avoir enfreint le règlement européen sur les services numériques (DSA) en laissant de nombreux mineurs de moins de 13 ans accéder à ses réseaux s"
+        },
+        {
+            "source": "7sur7",
+            "title": "Voici l’hymne des Diables pour la Coupe du monde, signé Roméo Elvis et Sylvie Kreusch",
+            "link": "https://www.7sur7.be/diables-rouges/voici-lhymne-des-diables-pour-la-coupe-du-monde-signe-romeo-elvis-et-sylvie-kreusch~ad65a310/",
+            "published": "Wed, 29 Apr 2026 07:55:37 GMT",
+            "summary": "La chanteuse flamande Sylvie Kreusch et le rappeur francophone Roméo Elvis signent ensemble “Kiss the grass”, le nouvel hymne des Diables rouges pour la Coupe du monde cet été, fait savoir mercredi l’"
+        },
         {
             "source": "France-info",
             "title": "La destruction des forêts tropicales ralentit, mais demeure inquiétante",
             "link": "https://www.franceinfo.fr/environnement/crise-climatique/forets/la-destruction-des-forets-tropicales-ralentit-mais-demeure-inquietante_7971605.html#xtor=RSS-3-[lestitres]",
             "published": "Wed, 29 Apr 2026 07:49:15 +0200",
             "summary": "Les régions tropicales ont perdu l'an dernier 4,3 millions d'hectares de forêt primaire, une superficie équivalente à celle du Danemark, selon les données collectées par satellite et analysées par Glo"
+        },
+        {
+            "source": "France-info",
+            "title": "\"Ce n'est pas la quantité, mais la qualité des relations qui compte\" : comment continuer à entretenir le lien avec nos aînés de plus en plus nombreux",
+            "link": "https://www.franceinfo.fr/societe/reportage-ce-n-est-pas-la-quantite-mais-la-qualite-des-relations-qui-compte-comment-continuer-a-entretenir-le-lien-avec-nos-aines-de-plus-en-plus-nombreux_7969961.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 07:48:57 +0200",
+            "summary": "La journée européenne de solidarité intergénérationnelle se tient ce mercredi. L'objectif est de favoriser les relations entre les personnes âgées et les plus jeunes. En France, cela pourrait tenir du"
         },
         {
             "source": "France-info",
@@ -19,10 +138,66 @@
         },
         {
             "source": "France-info",
+            "title": "Tourisme : les réservations en hausse de 15% en mai avec des séjours \"plus courts, plus accessibles et faciles à organiser\"",
+            "link": "https://www.franceinfo.fr/economie/tourisme/tourisme-les-reservations-en-hausse-de-15-en-mai-avec-des-sejours-plus-courts-plus-accessibles-et-faciles-a-organiser_7971623.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 07:45:56 +0200",
+            "summary": "Le week-end de l'Ascension est pour l'instant le plus demandé avec 20% des séjours, selon l'étude de Particulier à Particulier. Les séjours à l'étranger sont plus rares en raison de la guerre au Moyen"
+        },
+        {
+            "source": "Frandroid",
+            "title": "Des réacteurs de fusée sur une voiture électrique ? La folle invention de Dreame pour battre tous les records",
+            "link": "https://www.frandroid.com/marques/dreame/3082165_des-reacteurs-de-fusee-sur-une-voiture-electrique-la-folle-invention-de-dreame-pour-battre-tous-les-records",
+            "published": "Wed, 29 Apr 2026 07:45:10 +0000",
+            "summary": ""
+        },
+        {
+            "source": "RTBF Monde",
+            "title": "Israël finance des crimes de guerre sur le plateau du Golan en Syrie, dénonce l’ONG HRW",
+            "link": "https://www.rtbf.be/article/israel-finance-des-crimes-de-guerre-sur-le-plateau-du-golan-en-syrie-denonce-l-ong-hrw-11716814",
+            "published": "Wed, 29 Apr 2026 07:45:00 +0200",
+            "summary": "D'après ce plan, les autorités israéliennes entendent implanter 3000 nouvelles familles de colons israéliens d'ici..."
+        },
+        {
+            "source": "Frandroid",
+            "title": "Xiaomi Pad 8 : cette récente tablette pensée pour la productivité voit son prix chuter sous les 500 € en pleins French Days",
+            "link": "https://www.frandroid.com/bons-plans/3081031_xiaomi-pad-8-cette-recente-tablette-pensee-pour-la-productivite-voit-son-prix-chuter-sous-les-500-e-en-pleins-french-days",
+            "published": "Wed, 29 Apr 2026 07:45:00 +0000",
+            "summary": ""
+        },
+        {
+            "source": "France-info",
             "title": "Ligue des champions : \"Le meilleur match que j'aie vu au stade\"... PSG-Bayern, un sommet de football qui restera dans l'histoire",
             "link": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/ligue-des-champions-le-meilleur-match-que-j-ai-vu-au-stade-psg-bayern-un-sommet-de-football-qui-restera-dans-l-histoire_7970591.html#xtor=RSS-3-[lestitres]",
             "published": "Wed, 29 Apr 2026 07:39:34 +0200",
             "summary": "Après le feu d'artifice exceptionnel proposé par les deux équipes lors de la victoire 5-4 du PSG, mardi en demi-finale aller, l'émerveillement a été partagé à la fois par les acteurs et les observateu"
+        },
+        {
+            "source": "Frandroid",
+            "title": "Procès OpenAI : Elon Musk réclame 150 milliards et la tête de Sam Altman",
+            "link": "https://www.frandroid.com/marques/openai/3082257_proces-openai-elon-musk-reclame-150-milliards-et-la-tete-de-sam-altman",
+            "published": "Wed, 29 Apr 2026 07:35:37 +0000",
+            "summary": ""
+        },
+        {
+            "source": "Frandroid",
+            "title": "Le Samsung Galaxy A17 profite des French Days pour s’offrir une belle promotion de 85 euros",
+            "link": "https://www.frandroid.com/bons-plans/3080351_le-samsung-galaxy-a17-profite-des-french-days-pour-soffrir-une-belle-promotion-de-85-euros",
+            "published": "Wed, 29 Apr 2026 07:30:00 +0000",
+            "summary": ""
+        },
+        {
+            "source": "7sur7",
+            "title": "“Une catastrophe”: pourquoi Vincent Kompany “n’a pas du tout apprécié” PSG-Bayern",
+            "link": "https://www.7sur7.be/football/une-catastrophe-pourquoi-vincent-kompany-na-pas-du-tout-apprecie-psg-bayern~a4c95384/",
+            "published": "Wed, 29 Apr 2026 07:25:30 GMT",
+            "summary": "Vincent Kompany, s’est dit “fier” après la défaite du Bayern Munich, 5-4 contre le Paris Saint-Germain en demi-finale aller de la Ligue des champions, mardi soir. Obligé de suivre ce match fou depuis "
+        },
+        {
+            "source": "France-info",
+            "title": "L'association APF France handicap annonce attaquer l'État en justice pour \"inaction\" en matière d'accessibilité",
+            "link": "https://www.franceinfo.fr/sante/handicap/l-association-apf-france-handicap-annonce-attaquer-l-etat-en-justice-pour-inaction-en-matiere-d-accessibilite_7971602.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 07:25:26 +0200",
+            "summary": "Le tribunal administratif a été saisi contre les six préfectures de la région Centre-Val de Loire. L'association leur reproche aux pouvoirs publics de ne pas tout mettre en œuvre pour contraindre à re"
         },
         {
             "source": "France-info",
@@ -39,6 +214,34 @@
             "summary": "Comme lors du week-end de Pâques, les virements interbancaires seront bloqués exceptionnellement le vendredi 1er mai en raison de la fermeture du système européen. Mais les autres ponts ne seront pas "
         },
         {
+            "source": "7sur7",
+            "title": "1,5 million de personnes âgées entre 20 et 64 ans ne travaillent pas: “Dès qu’on reprend, on perd tous les avantages”",
+            "link": "https://www.7sur7.be/belgique/1-5-million-de-personnes-agees-entre-20-et-64-ans-ne-travaillent-pas-des-quon-reprend-on-perd-tous-les-avantages~abf9e57a/",
+            "published": "Wed, 29 Apr 2026 07:18:00 GMT",
+            "summary": "Pas moins de dix pays de l’Union européenne ont atteint un taux d’emploi de 80% au cours de la dernière décennie. Mais pas la Belgique, sérieusement à la traîne. “Seuls quatre pays font encore moins b"
+        },
+        {
+            "source": "Frandroid",
+            "title": "Pour les French Days 2026, l’analyseur de sommeil Withings se retrouve en promo à -20% pour surveiller vos nuits",
+            "link": "https://www.frandroid.com/bons-plans/3080529_pour-les-french-days-2026-lanalyseur-de-sommeil-withings-se-retrouve-en-promo-a-20-pour-surveiller-vos-nuits",
+            "published": "Wed, 29 Apr 2026 07:15:00 +0000",
+            "summary": ""
+        },
+        {
+            "source": "7sur7",
+            "title": "“Il se passait de sales choses en coulisses”: Lisa Kudrow raconte l’ambiance toxique derrière “Friends”",
+            "link": "https://www.7sur7.be/tele/il-se-passait-de-sales-choses-en-coulisses-lisa-kudrow-raconte-lambiance-toxique-derriere-friends~a38252be/",
+            "published": "Wed, 29 Apr 2026 07:14:03 GMT",
+            "summary": "À l’occasion du retour de sa série “The Comeback”, Lisa Kudrow s’est confiée au Times sur les années “Friends”. Si l’amitié entre les six acteurs était réelle, l’ambiance en coulisses était loin d’êtr"
+        },
+        {
+            "source": "7sur7",
+            "title": "“Une décision difficile”: la Nouvelle-Zélande renonce à une statue après des pressions de Tokyo",
+            "link": "https://www.7sur7.be/monde/une-decision-difficile-la-nouvelle-zelande-renonce-a-une-statue-apres-des-pressions-de-tokyo~af90d899/",
+            "published": "Wed, 29 Apr 2026 07:08:45 GMT",
+            "summary": "Les autorités néo-zélandaises ont rejeté mercredi un projet de statue commémorative des “femmes de réconfort”, réduites en esclavage par le Japon avant et pendant la Seconde Guerre mondiale, après que"
+        },
+        {
             "source": "RTBF Monde",
             "title": "L’eau, arme de domination et crime de guerre d’Israël contre les Palestiniens",
             "link": "https://www.rtbf.be/article/l-eau-arme-de-domination-et-crime-de-guerre-d-israel-contre-les-palestiniens-11716449",
@@ -46,11 +249,32 @@
             "summary": "\"Ce que l'on constate, c'est que les autorités israéliennes continuent de détruire les conditions mêmes de la vie..."
         },
         {
+            "source": "France-info",
+            "title": "Le vapotage en forte hausse chez les lycéens, selon l'Observatoire français des drogues et des tendances addictives",
+            "link": "https://www.franceinfo.fr/sante/drogue-addictions/cigarette-electronique/le-vapotage-en-forte-hausse-chez-les-lyceens-selon-l-observatoire-francais-des-drogues-et-des-tendances-addictives_7970474.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 07:00:03 +0200",
+            "summary": "La part de vapoteurs quotidiens a plus que doublé, en passant de 2,8% en 2018 à 6,8% en 2024, révèle notamment une étude publiée mercredi."
+        },
+        {
             "source": "RTBF Info",
             "title": "Créé pour remplacer Unia, l’Institut flamand des droits humains embarrasse la N-VA",
             "link": "https://www.rtbf.be/article/cree-pour-remplacer-unia-l-institut-flamand-des-droits-humains-embarrasse-la-n-va-11716604",
             "published": "Wed, 29 Apr 2026 07:00:00 +0200",
             "summary": "Ces dernières semaines, le VMRI, Vlaams Mensenrechteninstituut, l'institut flamand des droits humains, s'est retrouvé..."
+        },
+        {
+            "source": "Frandroid",
+            "title": "Gemini en France devient plus puissant pour mieux vous connaître et vous faire lâcher ChatGPT",
+            "link": "https://www.frandroid.com/culture-tech/intelligence-artificielle/google-gemini/3080845_gemini-en-france-devient-plus-puissant-pour-mieux-vous-connaitre-et-lacher-chatgpt",
+            "published": "Wed, 29 Apr 2026 07:00:00 +0000",
+            "summary": ""
+        },
+        {
+            "source": "Frandroid",
+            "title": "MacBook Air 13 M5 : l’ultraportable ultime chute sous les 1 000 €, les French Days démarrent en beauté",
+            "link": "https://www.frandroid.com/bons-plans/3079787_macbook-air-13-m5-lultraportable-ultime-chute-sous-les-1-000-e-les-french-days-demarrent-en-beaute",
+            "published": "Wed, 29 Apr 2026 06:58:00 +0000",
+            "summary": ""
         },
         {
             "source": "RTBF Monde",
@@ -74,11 +298,39 @@
             "summary": "Selon la Fédération européenne des associations de consommateurs, les personnes concernées pourraient payé 300 euros supplémentaires par an. 35% des ménages français se chauffent encore au gaz."
         },
         {
+            "source": "7sur7",
+            "title": "“Le match du siècle”, “phénoménal”, “du jamais vu”: la presse en extase après PSG-Bayern",
+            "link": "https://www.7sur7.be/football/le-match-du-siecle-phenomenal-du-jamais-vu-la-presse-en-extase-apres-psg-bayern~abf1417a/",
+            "published": "Wed, 29 Apr 2026 06:52:00 GMT",
+            "summary": "Pincez-nous, on y croit toujours pas. Après le feu d’artifice entre le PSG et le Bayern (5-4), le monde du football s’est réveillé ce mercredi avec la sensation d’avoir vécu un rêve éveillé. De Thierr"
+        },
+        {
+            "source": "Frandroid",
+            "title": "« Votre téléphone va cesser de vous appartenir » : la communauté du libre tire la sonnette d’alarme face au verrouillage d’Android",
+            "link": "https://www.frandroid.com/marques/google/3082217_votre-telephone-va-cesser-de-vous-appartenir-la-communaute-du-libre-tire-la-sonnette-dalarme-face-au-verrouillage-dandroid",
+            "published": "Wed, 29 Apr 2026 06:46:15 +0000",
+            "summary": ""
+        },
+        {
+            "source": "Frandroid",
+            "title": "La Nintendo Switch 2 profite des French Days pour s’afficher à un excellent prix sur Amazon",
+            "link": "https://www.frandroid.com/bons-plans/3010101_la-nintendo-switch-2-profite-des-french-days-pour-chuter-sous-les-400-euros",
+            "published": "Wed, 29 Apr 2026 06:43:00 +0000",
+            "summary": ""
+        },
+        {
             "source": "RTBF Monde",
             "title": "Attaques au Mali : \"La situation est maîtrisée\", affirme le chef de la junte Assimi Goïta",
             "link": "https://www.rtbf.be/article/attaques-au-mali-la-situation-est-maitrisee-affirme-le-chef-de-la-junte-assimi-goita-11716767",
             "published": "Wed, 29 Apr 2026 06:40:40 +0200",
             "summary": "M. Goïta, qui s'exprimait pour la première fois depuis ces attaques, a toutefois reconnu une situation d'\"extrême..."
+        },
+        {
+            "source": "7sur7",
+            "title": "La diplomate américaine Julie Davis va quitter Kiev: Washington fait une mise au point importante",
+            "link": "https://www.7sur7.be/monde/la-diplomate-americaine-julie-davis-va-quitter-kiev-washington-fait-une-mise-au-point-importante~a3c0391e/",
+            "published": "Wed, 29 Apr 2026 06:33:03 GMT",
+            "summary": "La chargée d'affaires américaine en Ukraine, nommée il y a moins d'un an, va quitter ses fonctions, a annoncé mardi le département d’État, alors que le président Donald Trump fait pression sur Kiev en"
         },
         {
             "source": "France-info",
@@ -88,11 +340,46 @@
             "summary": "Dimanche, le prix du mégawattheure a chuté à -480 euros dimanche. Pourtant, ce phénomène ne profite pas aux consommateurs. Explications."
         },
         {
+            "source": "Frandroid",
+            "title": "Le lumineux Xiaomi Redmi Note 15 5G passe sous la barre symbolique des 200 €, merci les French Days",
+            "link": "https://www.frandroid.com/bons-plans/3080651_le-lumineux-xiaomi-redmi-note-15-5g-passe-sous-la-barre-symbolique-des-200-e-merci-les-french-days",
+            "published": "Wed, 29 Apr 2026 06:30:00 +0000",
+            "summary": ""
+        },
+        {
+            "source": "Frandroid",
+            "title": "Il y a de belles affaires chez Cdiscount pour le début des French Days : les 6 offres qui valent le coup",
+            "link": "https://www.frandroid.com/bons-plans/3079779_il-y-a-de-belles-affaires-chez-cdiscount-pour-le-debut-des-french-days-les-6-offres-qui-valent-le-coup",
+            "published": "Wed, 29 Apr 2026 06:27:21 +0000",
+            "summary": ""
+        },
+        {
+            "source": "Frandroid",
+            "title": "Pour les French Days, la Fnac brade le prix des AirPods 3 et les passe sous les 100 euros",
+            "link": "https://www.frandroid.com/bons-plans/3080939_pour-les-french-days-la-fnac-brade-le-prix-des-airpods-3-et-les-passe-sous-les-100-euros",
+            "published": "Wed, 29 Apr 2026 06:15:00 +0000",
+            "summary": ""
+        },
+        {
             "source": "RTBF Monde",
             "title": "Direct – Guerre au Moyen-Orient : le transport maritime dans le détroit d’Ormuz pratiquement au point mort, selon l’Onu",
             "link": "https://www.rtbf.be/article/direct-guerre-au-moyen-orient-le-transport-maritime-dans-le-detroit-d-ormuz-pratiquement-au-point-mort-selon-l-onu-11716800",
             "published": "Wed, 29 Apr 2026 06:13:49 +0200",
             "summary": "Une nouvelle publication du tableau de bord de l'Onu Commerce et Développement (CNUCED) surveille les prix de..."
+        },
+        {
+            "source": "7sur7",
+            "title": "L’Europe s’est réchauffée deux fois plus vite que le reste du monde",
+            "link": "https://www.7sur7.be/ecologie/leurope-sest-rechauffee-deux-fois-plus-vite-que-le-reste-du-monde~aeebd26b/",
+            "published": "Wed, 29 Apr 2026 06:05:06 GMT",
+            "summary": "L'Europe a connu de nombreuses situations climatiques extrêmes l'an dernier, montre un rapport publié mercredi. Le continent se réchauffe plus vite qu'ailleurs dans le monde."
+        },
+        {
+            "source": "7sur7 Monde",
+            "title": "“Les vagues de chaleur deviennent de plus en plus graves”: l’Europe s’est réchauffée deux fois plus vite que le reste du monde",
+            "link": "https://www.7sur7.be/ecologie/les-vagues-de-chaleur-deviennent-de-plus-en-plus-graves-leurope-sest-rechauffee-deux-fois-plus-vite-que-le-reste-du-monde~aeebd26b/",
+            "published": "Wed, 29 Apr 2026 06:05:06 GMT",
+            "summary": "L'Europe a connu de nombreuses situations climatiques extrêmes l'an dernier, montre un rapport publié mercredi. Le continent se réchauffe plus vite qu'ailleurs dans le monde."
         },
         {
             "source": "RTBF Info",
@@ -172,6 +459,13 @@
             "summary": "Une juge fédérale du New Jersey a condamné mardi le laboratoire américain Purdue Pharma, considéré comme à l'origine de la crise des opioïdes aux États-Unis, avant l'entrée en vigueur de son plan de f"
         },
         {
+            "source": "RTL-info",
+            "title": "Doit-on craindre une pénurie de gaz chez nous l’hiver prochain ? La Belgique est le pays européen le plus à la traine",
+            "link": "https://www.rtl.be/actu/belgique/societe/doit-craindre-une-penurie-de-gaz-chez-nous-lhiver-prochain-la-belgique-est-le/2026-04-29/article/787190",
+            "published": "Wed, 29 Apr 2026 04:54:04 +0000",
+            "summary": ""
+        },
+        {
             "source": "7sur7",
             "title": "Inculpé de “menace contre la vie” de Trump, l’ex-directeur du FBI réagit: “Je n’ai toujours pas peur”",
             "link": "https://www.7sur7.be/monde/inculpe-de-menace-contre-la-vie-de-trump-lex-directeur-du-fbi-reagit-je-nai-toujours-pas-peur~a911839b/",
@@ -193,6 +487,13 @@
             "summary": "L'Ukraine s'apprête à exporter des armes alors que le pays en produit plus que nécessaire, a annoncé le président ukrainien Volodymyr Zelensky mardi soir."
         },
         {
+            "source": "RTL-info",
+            "title": "Réforme des pensions : plusieurs amendements adoptés, en quoi consistent les ajustements qui viennent d’être apportés ?",
+            "link": "https://www.rtl.be/actu/belgique/info-trafic/reforme-des-pensions-plusieurs-amendements-adoptes-en-quoi-consistent-les/2026-04-29/article/787188",
+            "published": "Wed, 29 Apr 2026 04:28:44 +0000",
+            "summary": ""
+        },
+        {
             "source": "7sur7",
             "title": "“Sans nous, vous parleriez français”: Charles III enchaîne les blagues face à Trump",
             "link": "https://www.7sur7.be/monde/sans-nous-vous-parleriez-francais-charles-iii-enchaine-les-blagues-face-a-trump~va980cb66/",
@@ -205,6 +506,20 @@
             "link": "https://www.7sur7.be/monde/sans-nous-vous-parleriez-francais-charles-iii-enchaine-les-blagues-face-a-trump~a980cb66/",
             "published": "Wed, 29 Apr 2026 04:17:44 GMT",
             "summary": "Le roi Charles III a rendu la monnaie de sa pièce à Donald Trump mardi lors d'un dîner d'État à la Maison Blanche, affirmant avec humour que les Américains parleraient français si les Britanniques n'a"
+        },
+        {
+            "source": "RTL-info",
+            "title": "« On va devoir répercuter la hausse à nos clients » : le prix de ce matériau essentiel à la rénovation de nos routes bondit de plus de 50 %",
+            "link": "https://www.rtl.be/actu/belgique/economie/va-devoir-repercuter-la-hausse-nos-clients-le-prix-de-ce-materiau-essentiel-la/2026-04-29/article/787186",
+            "published": "Wed, 29 Apr 2026 04:00:00 +0000",
+            "summary": ""
+        },
+        {
+            "source": "RTL-info",
+            "title": "« Il faut faire attention » : Raphaël grimpe sur les toits pour gagner sa vie grâce à son métier en pénurie",
+            "link": "https://www.rtl.be/actu/belgique/societe/il-faut-faire-attention-raphael-grimpe-sur-les-toits-pour-gagner-sa-vie-grace/2026-04-29/article/787184",
+            "published": "Wed, 29 Apr 2026 04:00:00 +0000",
+            "summary": ""
         },
         {
             "source": "France-info",
@@ -387,321 +702,6 @@
             "link": "https://www.7sur7.be/monde/tariq-ramadan-condamne-en-son-absence-a-18-ans-de-reclusion-criminelle-pour-viols~a7b1fd13/",
             "published": "Wed, 25 Mar 2026 19:53:00 GMT",
             "summary": "Tariq Ramadan a été condamné pour viols à une peine de réclusion criminelle, assortie d’une interdiction définitive de poser le pied sur le territoire français."
-        },
-        {
-            "source": "RTL-info",
-            "title": "Pour certains, les factures d’électricité et de gaz ont augmenté de 45 euros : faut-il changer de contrat d’énergie ?",
-            "link": "https://www.rtl.be/actu/belgique/economie/pour-certains-les-factures-delectricite-et-de-gaz-ont-augmente-de-45-euros-faut/2026-03-25/article/783788",
-            "published": "Wed, 25 Mar 2026 19:48:44 +0000",
-            "summary": ""
-        },
-        {
-            "source": "7sur7",
-            "title": "Interdiction des pesticides près des captages d’eau: la proposition d’Ecolo rejetée",
-            "link": "https://www.7sur7.be/belgique/interdiction-des-pesticides-pres-des-captages-deau-la-proposition-decolo-rejetee~a2e4871e/",
-            "published": "Wed, 25 Mar 2026 19:47:58 GMT",
-            "summary": "Pour la deuxième fois en quinze jours, la proposition de décret d’Ecolo visant à interdire l’usage de pesticides à proximité des captages d’eau potable a été rejetée par la majorité MR-Engagés, ce mer"
-        },
-        {
-            "source": "France-info",
-            "title": "Une cavale jusqu'au Portugal, deux enfants sains et saufs, deux femmes tuées… Ce que l'on sait de l'affaire des disparitions en Aveyron",
-            "link": "https://www.franceinfo.fr/faits-divers/une-cavale-jusqu-au-portugal-deux-enfants-sains-et-saufs-deux-femmes-tuees-ce-que-l-on-sait-de-l-affaire-des-disparitions-en-aveyron_7893839.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 19:44:19 +0100",
-            "summary": "Cédric P., ancien policier déjà condamné, a été arrêté mardi au Portugal avec ses deux enfants sains et saufs. Son ex-femme et sa nouvelle conjointe ont été retrouvées mortes."
-        },
-        {
-            "source": "RTL-info",
-            "title": "Veerle Hegge a dû se faire hospitaliser pendant 6 mois pour lutter contre l’anorexie, « c’était dur à accepter, car je travaille à temps plein et j’ai 4 enfants »",
-            "link": "https://www.rtl.be/actu/belgique/societe/veerle-hegge-du-se-faire-hospitaliser-pendant-6-mois-pour-lutter-contre/2026-03-25/article/783787",
-            "published": "Wed, 25 Mar 2026 19:44:11 +0000",
-            "summary": ""
-        },
-        {
-            "source": "France-info",
-            "title": "Ligue 1 : \"Notre idée a toujours été de défendre le football français\"... Luis Campos défend la demande de report formulée par le PSG malgré la colère du RC Lens",
-            "link": "https://www.franceinfo.fr/sports/foot/ligue-1/ligue-1-notre-idee-a-toujours-ete-de-defendre-le-football-francais-luis-campos-defend-la-demande-de-report-formulee-par-le-psg-malgre-la-colere-du-rc-lens_7893959.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 19:42:31 +0100",
-            "summary": "À la veille de la décision de la Ligue, le conseiller sportif du club parisien maintient que le report de son choc contre Lens, prévu entre ses deux quarts de finale de Ligue des champions contre Live"
-        },
-        {
-            "source": "7sur7",
-            "title": "Les livreurs d’Uber Eats doivent être salariés, soutient l’auditoriat du travail",
-            "link": "https://www.7sur7.be/belgique/les-livreurs-duber-eats-doivent-etre-salaries-soutient-lauditoriat-du-travail~afaf9eed/",
-            "published": "Wed, 25 Mar 2026 19:40:00 GMT",
-            "summary": "L’auditorat du travail soutient la CRT dans son initiative visant à ce que les livreurs d’Uber Eats soient salariés. Le jugement sur le fond du dossier est prévu le 20 mai."
-        },
-        {
-            "source": "RTBF Monde",
-            "title": "Archéologie : un squelette qui pourrait bien être celui du célèbre d’Artagnan découvert dans une église de Maastricht",
-            "link": "https://www.rtbf.be/article/archeologie-un-squelette-qui-pourrait-bien-etre-celui-du-celebre-d-artagnan-decouvert-dans-une-eglise-de-maastricht-11700038",
-            "published": "Wed, 25 Mar 2026 19:36:11 +0100",
-            "summary": "Le squelette a été retrouvé dans la nef d'une église contemporaine dont les racines remontent au moins au XIIIe siècle,..."
-        },
-        {
-            "source": "7sur7",
-            "title": "Le décret-programme adopté au Parlement wallon malgré les critiques de l’opposition",
-            "link": "https://www.7sur7.be/belgique/le-decret-programme-adopte-au-parlement-wallon-malgre-les-critiques-de-lopposition~a1c8e597/",
-            "published": "Wed, 25 Mar 2026 19:31:06 GMT",
-            "summary": "Le décret-programme amendé du gouvernement wallon, incluant des mesures sur l’emploi, la formation et les allocations familiales, a été adopté mercredi en séance plénière du Parlement régional. L’oppo"
-        },
-        {
-            "source": "France-info",
-            "title": "Instagram et YouTube, jugés responsables d'avoir alimenté la dépression d'une adolescente américaine, condamnés à une amende d'au moins trois millions de dollars",
-            "link": "https://www.franceinfo.fr/internet/reseaux-sociaux/instagram-et-youtube-juges-responsables-d-avoir-alimente-la-depression-d-une-adolescente-americaine-condamnes-a-une-amende-d-au-moins-trois-millions-de-dollars_7893986.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 19:30:29 +0100",
-            "summary": "Ce verdict inédit crée un précédent majeur pour des milliers de plaignants aux Etats-Unis qui accusent les grandes plateformes d'être responsables d'une épidémie d'addiction aux réseaux sociaux."
-        },
-        {
-            "source": "7sur7",
-            "title": "Bernard Quintin échoue à atténuer le conflit avec les syndicats policiers: “Aucun signe de volonté de rétablir la confiance”",
-            "link": "https://www.7sur7.be/belgique/bernard-quintin-echoue-a-attenuer-le-conflit-avec-les-syndicats-policiers-aucun-signe-de-volonte-de-retablir-la-confiance~a0ab9041/",
-            "published": "Wed, 25 Mar 2026 19:21:38 GMT",
-            "summary": "Les syndicats policiers ont confirmé mercredi le maintien de leurs mouvements prévus les 24 avril et 1er mai, après une rencontre infructueuse avec Bernard Quintin."
-        },
-        {
-            "source": "RTBF Monde",
-            "title": "Guerre au Moyen-Orient : l'Iran menace de cibler le stratégique détroit de Bab-el-Mandeb, clé de la mer Rouge, en cas d'invasion américaine",
-            "link": "https://www.rtbf.be/article/guerre-au-moyen-orient-l-iran-menace-de-cibler-le-strategique-detroit-de-bab-el-mandeb-cle-de-la-mer-rouge-en-cas-d-invasion-americaine-11700313",
-            "published": "Wed, 25 Mar 2026 19:15:01 +0100",
-            "summary": "Passage obligé vers le canal de Suez, \"le détroit de Bab el-Mandeb compte parmi les détroits les plus stratégiques au..."
-        },
-        {
-            "source": "France-info",
-            "title": "Le RN est \"pratiquement\" sûr d'avoir les 500 parrainages pour l'élection présidentielle 2027, assure Jordan Bardella",
-            "link": "https://www.franceinfo.fr/elections/presidentielle/le-rn-est-pratiquement-sur-d-avoir-les-500-parrainages-pour-l-election-presidentielle-2027-assure-jordan-bardella_7893881.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 19:08:04 +0100",
-            "summary": "\"Le RN a grandi, et cette dimension, à la fois électorale et politique, nous permet de dormir plus tranquillement quant à ce type de considération administrative\", a dit le président du Rassemblement "
-        },
-        {
-            "source": "France-info",
-            "title": "\"Ganito\", l'évadé de Villepinte, a séjourné aux Pays-Bas durant sa cavale avant d'être arrêté dans le sud de la France",
-            "link": "https://www.franceinfo.fr/faits-divers/ganito-l-evade-de-villepinte-a-sejourne-aux-pays-bas-durant-sa-cavale-avant-d-etre-arrete-dans-le-sud-de-la-france_7893938.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 19:07:05 +0100",
-            "summary": "Ilyas Kherbouch a été interpellé le 20 mars avec sa compagne, une ancienne surveillante pénitentiaire. Les deux ont été mis en examen pour évasion en bande organisée et corruption active d'une personn"
-        },
-        {
-            "source": "RTBF Info",
-            "title": "Les Commissions délibératives avec des citoyens bruxellois ont-elles été écoutées ensuite par les politiques ?",
-            "link": "https://www.rtbf.be/article/les-commissions-deliberatives-avec-des-citoyens-bruxellois-ont-elles-ete-ecoutees-ensuite-par-les-politiques-11700258",
-            "published": "Wed, 25 Mar 2026 19:02:39 +0100",
-            "summary": "A l'issue de la toute première de ces Commissions délibératives citoyennes, en juin 2021, les Bruxellois qui y ont..."
-        },
-        {
-            "source": "France-info",
-            "title": "Le gouvernement va bientôt abaisser les limites maximales de cadmium dans les engrais",
-            "link": "https://www.franceinfo.fr/sante/alimentation/le-gouvernement-va-bientot-abaisser-les-limites-maximales-de-cadmium-dans-les-engrais_7893884.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 18:57:45 +0100",
-            "summary": "L'Anses a alerté mercredi sur une \"imprégnation forte et croissante\" de la population française en cadmium, un métal lourd présent dans les sols qui contamine l'organisme principalement à travers l'al"
-        },
-        {
-            "source": "France-info",
-            "title": "INFO FRANCETV. L'ancienne Miss France Alexandra Rosenfeld a porté plainte pour violences contre son ex-compagnon, le chef Jean Imbert",
-            "link": "https://www.franceinfo.fr/societe/violences-faites-aux-femmes/info-francetv-l-ancienne-miss-france-alexandra-rosenfeld-a-porte-plainte-pour-violences-contre-son-ex-compagnon-le-chef-jean-imbert_7893500.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 18:54:06 +0100",
-            "summary": "Il s'agit de la troisième plainte visant le chef étoilé. L'ancienne Miss France l'accuse notamment de lui avoir asséné un coup de tête lors d'un tournage d'une émission, le 13 octobre 2013. \"Complémen"
-        },
-        {
-            "source": "7sur7",
-            "title": "Loana, icône de “Loft Story”, a été retrouvée morte à Nice",
-            "link": "https://www.7sur7.be/people/loana-icone-de-loft-story-a-ete-retrouvee-morte-a-nice~a3ae66e8/",
-            "published": "Wed, 25 Mar 2026 18:54:00 GMT",
-            "summary": "La star de téléréalité Loana Petrucciani, première gagnante de 'Loft Story', est décédée à l’âge de 48 ans, annoncent plusieurs médias français."
-        },
-        {
-            "source": "RTBF Monde",
-            "title": "Addiction aux réseaux sociaux : un jury reconnaît la responsabilité d’Instagram et YouTube, une première aux Etats-Unis",
-            "link": "https://www.rtbf.be/article/addiction-aux-reseaux-sociaux-un-jury-reconnait-la-responsabilite-d-instagram-et-youtube-une-premiere-aux-etats-unis-11700299",
-            "published": "Wed, 25 Mar 2026 18:51:42 +0100",
-            "summary": "Meta et Google ont été reconnus coupables de négligence sur l'addiction des jeunes aux réseaux sociaux, selon le..."
-        },
-        {
-            "source": "RTBF Info",
-            "title": "Anderlecht: un nouveau centre de santé ramène les soins primaires au quartier du Peterbos",
-            "link": "https://www.rtbf.be/article/anderlecht-un-nouveau-centre-de-sante-ramene-les-soins-primaires-au-quartier-du-peterbos-11700306",
-            "published": "Wed, 25 Mar 2026 18:46:43 +0100",
-            "summary": "La création de ce tout nouveau centre de santé dans le quartier défavorisé de Peterbos est le fruit d'une initiative..."
-        },
-        {
-            "source": "7sur7",
-            "title": "La traite des esclaves africains proclamée “plus grave crime contre l’humanité” à l’ONU",
-            "link": "https://www.7sur7.be/monde/la-traite-des-esclaves-africains-proclamee-plus-grave-crime-contre-lhumanite-a-lonu~a60b2c53/",
-            "published": "Wed, 25 Mar 2026 18:43:38 GMT",
-            "summary": "L’Assemblée générale de l’ONU a proclamé mercredi que la traite des esclaves africains constitue le “crime le plus grave contre l’humanité”, malgré les réserves des États-Unis et des Européens. Portée"
-        },
-        {
-            "source": "France-info",
-            "title": "Le chanteur Gims placé en garde à vue dans le cadre d'une enquête ouverte pour blanchiment d'argent en bande organisée",
-            "link": "https://www.franceinfo.fr/faits-divers/le-chanteur-gims-place-en-garde-a-vue-dans-le-cadre-d-une-enquete-ouverte-pour-blanchiment-d-argent-en-bande-organisee_7893845.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 18:40:20 +0100",
-            "summary": "De source proche du dossier, l'artiste a été interpellé mercredi à l'aéroport Paris-Charles-de-Gaulle."
-        },
-        {
-            "source": "7sur7",
-            "title": "Le personnel de visit.brussels lance une pétition contre les coupes budgétaires: “Quelque 100 emplois sont en jeu”",
-            "link": "https://www.7sur7.be/belgique/le-personnel-de-visit-brussels-lance-une-petition-contre-les-coupes-budgetaires-quelque-100-emplois-sont-en-jeu~a3f9e5a57/",
-            "published": "Wed, 25 Mar 2026 18:33:49 GMT",
-            "summary": "Une pétition signée par le personnel de visit.brussels a été mise en ligne mercredi pour dénoncer les restrictions budgétaires envisagées par la Région bruxelloise à l’encontre de l’agence. Les signat"
-        },
-        {
-            "source": "RTBF Info",
-            "title": "Ces aliments qui vous empoisonnent (presque) sans le dire",
-            "link": "https://www.rtbf.be/article/ces-aliments-qui-vous-empoisonnent-presque-sans-le-dire-11699677",
-            "published": "Wed, 25 Mar 2026 18:28:04 +0100",
-            "summary": "Ils sont partout, souvent invisibles et pourtant bien présents : métaux lourds, pesticides, résidus industriels... À..."
-        },
-        {
-            "source": "7sur7",
-            "title": "Bientôt une caserne militaire à Ghlin? La Ville de Mons n’a reçu aucune information officielle",
-            "link": "https://www.7sur7.be/belgique/bientot-une-caserne-militaire-a-ghlin-la-ville-de-mons-na-recu-aucune-information-officielle~a575e9b2/",
-            "published": "Wed, 25 Mar 2026 18:24:00 GMT",
-            "summary": "Malgré des articles de presse évoquant un possible investissement de la Défense sur l’ancien site de la Protection civile à Ghlin pour y stationner 500 militaires et des batteries anti-aériennes, le b"
-        },
-        {
-            "source": "RTBF Monde",
-            "title": "Climat : L’Inde annonce une production électrique non fossile portée à 60% pour 2035",
-            "link": "https://www.rtbf.be/article/climat-l-inde-annonce-une-production-electrique-non-fossile-portee-a-60-pour-2035-11700168",
-            "published": "Wed, 25 Mar 2026 18:21:01 +0100",
-            "summary": "Le pays le plus peuplé de la planète (près de 1,5 milliard d'habitants) prévoit également d'ici à 2035 une..."
-        },
-        {
-            "source": "RTBF Info",
-            "title": "Namur : les locataires du quartier Saint-Nicolas dénoncent une prolifération de souris et de rats",
-            "link": "https://www.rtbf.be/article/namur-les-locataires-du-quartier-saint-nicolas-denoncent-une-proliferation-de-souris-et-de-rats-11700246",
-            "published": "Wed, 25 Mar 2026 18:16:49 +0100",
-            "summary": "En empruntant la rue Ponty nous croisons Martine, venue participer à l'action visant à dénoncer la prolifération des..."
-        },
-        {
-            "source": "RTBF Monde",
-            "title": "France : le rappeur Gims en garde à vue dans une affaire de blanchiment en bande organisée",
-            "link": "https://www.rtbf.be/article/le-rappeur-gims-en-garde-a-vue-dans-une-affaire-de-blanchiment-en-bande-organisee-11700279",
-            "published": "Wed, 25 Mar 2026 18:09:13 +0100",
-            "summary": "L'artiste congolais de 39 ans est entendu dans le cadre d'une \"commission rogatoire de juges d'instruction\", suivie..."
-        },
-        {
-            "source": "RTL-info",
-            "title": "Veerle Hegge, discrète Première dame du pays, a lutté contre l’anorexie dans l’ombre",
-            "link": "https://www.rtl.be/actu/belgique/societe/veerle-hegge-discrete-premiere-dame-du-pays-lutte-contre-lanorexie-dans-lombre/2026-03-25/article/783768",
-            "published": "Wed, 25 Mar 2026 18:08:07 +0000",
-            "summary": ""
-        },
-        {
-            "source": "RTL-info",
-            "title": "Qui est Veerle Hegge, la discrète Première dame du pays qui lutte contre l’anorexie ?",
-            "link": "https://www.rtl.be/actu/belgique/societe/qui-est-veerle-hegge-la-discrete-premiere-dame-du-pays-qui-lutte-contre/2026-03-25/article/783768",
-            "published": "Wed, 25 Mar 2026 18:08:07 +0000",
-            "summary": ""
-        },
-        {
-            "source": "RTBF Info",
-            "title": "\"Un jour, une carte\": l’écocide, une arme comme une autre dans les conflits contemporains",
-            "link": "https://www.rtbf.be/article/un-jour-une-carte-l-ecocide-une-arme-comme-une-autre-dans-les-conflits-contemporains-11700244",
-            "published": "Wed, 25 Mar 2026 18:07:45 +0100",
-            "summary": "Un exemple concret se situe à la frontière israélo-libanaise. Nous sommes en 2005, et de la colline d'un petit..."
-        },
-        {
-            "source": "France-info",
-            "title": "Christophe Honoré rend sa liberté à Emma Bovary au Théâtre Sarah Bernhardt par la grâce de Ludivine Sagnier",
-            "link": "https://www.franceinfo.fr/culture/spectacles/theatre/christophe-honore-rend-sa-liberte-a-emma-bovary-au-theatre-sarah-bernhardt-par-la-grace-de-ludivine-sagnier_7893011.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 18:02:58 +0100",
-            "summary": "\"Madame Bovary\" de Flaubert est un classique de la littérature. Ses adaptations au cinéma et au théâtre sont fréquentes. Cette saison, Christophe Honoré crée une \"Bovary Madame\" et Hugo Mallon une \"Ma"
-        },
-        {
-            "source": "France-info",
-            "title": "Comptabilité, plaintes, sanctions : l’Ordre des médecins contraint de se réformer, son président tente de rassurer, \"les réformes sont déjà en cours\"",
-            "link": "https://www.franceinfo.fr/france/bretagne/comptabilite-plaintes-sanctions-l-ordre-des-medecins-contraint-de-se-reformer-son-president-tente-de-rassurer-les-reformes-sont-deja-en-cours_7893854.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 17:55:05 +0100",
-            "summary": "Pointé du doigt par un rapport de l’Inspection générale des finances pour des irrégularités de gestion et des failles disciplinaires, l’Ordre des médecins assure avoir déjà engagé plusieurs réformes. "
-        },
-        {
-            "source": "France-info",
-            "title": "Le Français Dorian Godon encore vainqueur lors de la 3e étape du Tour de Catalogne à l'issue d'un final fou où Remco Evenepoel a chuté alors qu'il menait",
-            "link": "https://www.franceinfo.fr/sports/cyclisme/le-francais-dorian-godon-encore-vainqueur-lors-de-la-3e-etape-du-tour-de-catalogne-a-l-issue-d-un-final-fou-ou-remco-evenepoel-a-chute-alors-qu-il-menait_7893794.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 17:51:34 +0100",
-            "summary": "Le champion olympique belge a réalisé un énorme numéro, avec Jonas Vingegaard sur son porte-bagage, avant de chuter à 500m de l'arrivée, mercredi."
-        },
-        {
-            "source": "7sur7",
-            "title": "Instagram et YouTube déclarés responsables de la dépression d’une ado aux États-Unis",
-            "link": "https://www.7sur7.be/monde/instagram-et-youtube-declares-responsables-de-la-depression-dune-ado-aux-etats-unis~a627a5f8/",
-            "published": "Wed, 25 Mar 2026 17:49:00 GMT",
-            "summary": "Un tribunal américain a reconnu Meta et YouTube coupables d’avoir porté préjudice à une femme souffrant de dépression. Le jury a accordé à cette dernière trois millions de dollars de dommages et intér"
-        },
-        {
-            "source": "RTBF Info",
-            "title": "Les agents du DNF désormais équipés de gilets pare-balles pour contrôler les pêcheurs",
-            "link": "https://www.rtbf.be/article/les-agents-du-dnf-desormais-equipes-de-gilets-pare-balles-pour-controler-les-pecheurs-11700252",
-            "published": "Wed, 25 Mar 2026 17:46:33 +0100",
-            "summary": "Dany, pêcheur, taquine régulièrement le poisson le long de l'Ourthe. Que des agents du DNF soient désormais équipés..."
-        },
-        {
-            "source": "France-info",
-            "title": "La baisse de la TVA sur l'essence \"est inefficace et coûteuse\", affirme Sébastien Lecornu devant l'Assemblée nationale",
-            "link": "https://www.franceinfo.fr/economie/automobile/essence/la-baisse-de-la-tva-sur-l-essence-est-inefficace-et-couteuse-affirme-sebastien-lecornu-devant-l-assemblee-nationale_7893725.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 17:43:35 +0100",
-            "summary": "\"Aucun chèque, aucune mesure globale à l'aveugle ne seront efficaces dans la crise actuelle. Derrière chaque chèque se cachent généralement un impôt ou une répercussion très grave sur le déficit publi"
-        },
-        {
-            "source": "RTBF Info",
-            "title": "Législatives au Danemark : le roi Frederik X charge Mette Frederiksen de mener les négociations pour un nouveau gouvernement",
-            "link": "https://www.rtbf.be/article/legislatives-au-danemark-le-roi-frederik-x-charge-mette-frederiksen-de-mener-les-negociations-en-vue-d-un-nouveau-gouvernement-11700049",
-            "published": "Wed, 25 Mar 2026 17:41:48 +0100",
-            "summary": "Le bloc de gauche, qui rassemble cinq formations dont les sociaux-démocrates, a obtenu 84 sièges, contre 77 pour la droite..."
-        },
-        {
-            "source": "Frandroid",
-            "title": "Samsung Galaxy S26 Ultra, TV LG OLED55C5 et forfait RED by SFR : les 3 meilleurs bons plans tech du mercredi 25 mars 2026",
-            "link": "https://www.frandroid.com/bons-plans/3040087_samsung-galaxy-s26-ultra-tv-lg-oled55c5-et-forfait-red-by-sfr-les-3-meilleurs-bons-plans-tech-du-mercredi-25-mars-2026",
-            "published": "Wed, 25 Mar 2026 17:40:00 +0000",
-            "summary": ""
-        },
-        {
-            "source": "7sur7",
-            "title": "L’activiste Wouter Mouton impliqué dans une violente chute lors du Tour de Bruges",
-            "link": "https://www.7sur7.be/cyclisme/lactiviste-wouter-mouton-implique-dans-une-violente-chute-lors-du-tour-de-bruges~a644037c/",
-            "published": "Wed, 25 Mar 2026 17:36:01 GMT",
-            "summary": "L’activiste climatique Wouter Mouton a tenté de perturber la course cycliste du Tour de Bruges, se retrouvant ainsi impliqué dans la chute d’un groupe de coureurs. “Nous cherchons à déterminer quelles"
-        },
-        {
-            "source": "RTBF Info",
-            "title": "Boussu : pas de treizième édition pour le Summer Music Festival",
-            "link": "https://www.rtbf.be/article/boussu-pas-de-treizieme-edition-pour-le-summer-music-festival-11700243",
-            "published": "Wed, 25 Mar 2026 17:26:22 +0100",
-            "summary": "\"Le Summer Music Festival aura vécu 12 éditions mémorables\", indique la publication. Les organisateurs remercient..."
-        },
-        {
-            "source": "France-info",
-            "title": "Petits colis : la douane peut désormais contrôler les colis du e-commerce dédouanés dans un autre pays de l'Union européenne",
-            "link": "https://www.franceinfo.fr/economie/commerce/petits-colis-la-douane-peut-desormais-controler-les-colis-du-e-commerce-dedouanes-dans-un-autre-pays-de-l-union-europeenne_7893761.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 17:23:03 +0100",
-            "summary": "Un arrêté permet dorénavant à la douane française d'intervenir après l'entrée sur le territoire de petits colis, y compris mis en libre pratique dans un autre État membre."
-        },
-        {
-            "source": "RTBF Monde",
-            "title": "Le Mexique pointe du doigt ICE pour la mort de 13 de ses ressortissants aux Etats-Unis",
-            "link": "https://www.rtbf.be/article/le-mexique-pointe-du-doigt-ice-pour-la-mort-de-13-de-ses-ressortissants-aux-etats-unis-11700226",
-            "published": "Wed, 25 Mar 2026 17:22:23 +0100",
-            "summary": "Ces décès, évoqués à l'occasion d'une conférence de presse par le ministère mexicain des Affaires étrangères,..."
-        },
-        {
-            "source": "RTBF Info",
-            "title": "Les piscines publiques, elles aussi, victimes de l’augmentation des prix de l’énergie",
-            "link": "https://www.rtbf.be/article/les-piscines-publiques-elles-aussi-victimes-de-l-augmentation-des-prix-de-l-energie-11700215",
-            "published": "Wed, 25 Mar 2026 17:11:48 +0100",
-            "summary": "La flambée des prix touche tout le monde, les particuliers comme les collectivités. Se déplacer, se chauffer, cuisiner,..."
-        },
-        {
-            "source": "7sur7",
-            "title": "Gims placé en garde à vue dans une affaire de blanchiment en bande organisée",
-            "link": "https://www.7sur7.be/people/gims-place-en-garde-a-vue-dans-une-affaire-de-blanchiment-en-bande-organisee~a6cd8049/",
-            "published": "Wed, 25 Mar 2026 17:11:00 GMT",
-            "summary": "Le chanteur congolais Gims a été placé en garde à vue ce mercredi 25 mars, a annoncé le parquet français chargé de la criminalité organisée. Une source proche du dossier a confirmé la nouvelle à Franc"
-        },
-        {
-            "source": "Frandroid",
-            "title": "Tesla se fait écraser par BYD en Europe : les chiffres de ventes sont implacables, à un (gros) détail près",
-            "link": "https://www.frandroid.com/marques/byd/3039929_tesla-se-fait-ecraser-par-byd-en-europe-les-chiffres-de-ventes-sont-implacables-a-un-gros-detail-pres",
-            "published": "Wed, 25 Mar 2026 17:05:14 +0000",
-            "summary": ""
         }
     ]
 }
