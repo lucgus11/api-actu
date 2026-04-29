@@ -1,14 +1,210 @@
 {
-    "last_update": "2026-04-29T02:49:11.302348",
-    "new_articles_added": 193,
+    "last_update": "2026-04-29T05:54:23.456004",
+    "new_articles_added": 195,
     "total_articles": 100,
     "articles": [
+        {
+            "source": "France-info",
+            "title": "La destruction des forêts tropicales ralentit, mais demeure inquiétante",
+            "link": "https://www.franceinfo.fr/environnement/crise-climatique/forets/la-destruction-des-forets-tropicales-ralentit-mais-demeure-inquietante_7971605.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 07:49:15 +0200",
+            "summary": "Les régions tropicales ont perdu l'an dernier 4,3 millions d'hectares de forêt primaire, une superficie équivalente à celle du Danemark, selon les données collectées par satellite et analysées par Glo"
+        },
+        {
+            "source": "France-info",
+            "title": "Guerre au Moyen-Orient : les Etats-Unis ont \"vaincu militairement\" l'Iran, répète Donald Trump",
+            "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-etats-unis-ont-vaincu-militairement-l-iran-repete-donald-trump_7971554.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 07:47:29 +0200",
+            "summary": "C'est ce qu'a déclaré le président américain, mardi soir, lors de l'ouverture du banquet en présence du roi Charles III."
+        },
+        {
+            "source": "France-info",
+            "title": "Ligue des champions : \"Le meilleur match que j'aie vu au stade\"... PSG-Bayern, un sommet de football qui restera dans l'histoire",
+            "link": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/ligue-des-champions-le-meilleur-match-que-j-ai-vu-au-stade-psg-bayern-un-sommet-de-football-qui-restera-dans-l-histoire_7970591.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 07:39:34 +0200",
+            "summary": "Après le feu d'artifice exceptionnel proposé par les deux équipes lors de la victoire 5-4 du PSG, mardi en demi-finale aller, l'émerveillement a été partagé à la fois par les acteurs et les observateu"
+        },
+        {
+            "source": "France-info",
+            "title": "Santé : chaque malade a coûté en moyenne 2 500 euros à la Sécurité sociale en 2023",
+            "link": "https://www.franceinfo.fr/sante/sante-chaque-malade-a-coute-en-moyenne-2-500-euros-a-la-securite-sociale-en-2023_7971548.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 07:21:24 +0200",
+            "summary": "Selon les comptes de la Direction de la recherche, des études, de l'évaluation et des statistiques, les Français qui ont les dépenses de santé les plus élevées sont les mieux remboursés."
+        },
+        {
+            "source": "France-info",
+            "title": "Trois questions sur les virements bancaires bloqués ou non pendant les jours fériés de mai",
+            "link": "https://www.franceinfo.fr/economie/trois-questions-sur-les-virements-bancaires-bloques-ou-non-pendant-les-jours-feries-de-mai_7969793.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 07:19:15 +0200",
+            "summary": "Comme lors du week-end de Pâques, les virements interbancaires seront bloqués exceptionnellement le vendredi 1er mai en raison de la fermeture du système européen. Mais les autres ponts ne seront pas "
+        },
+        {
+            "source": "RTBF Monde",
+            "title": "L’eau, arme de domination et crime de guerre d’Israël contre les Palestiniens",
+            "link": "https://www.rtbf.be/article/l-eau-arme-de-domination-et-crime-de-guerre-d-israel-contre-les-palestiniens-11716449",
+            "published": "Wed, 29 Apr 2026 07:00:46 +0200",
+            "summary": "\"Ce que l'on constate, c'est que les autorités israéliennes continuent de détruire les conditions mêmes de la vie..."
+        },
+        {
+            "source": "RTBF Info",
+            "title": "Créé pour remplacer Unia, l’Institut flamand des droits humains embarrasse la N-VA",
+            "link": "https://www.rtbf.be/article/cree-pour-remplacer-unia-l-institut-flamand-des-droits-humains-embarrasse-la-n-va-11716604",
+            "published": "Wed, 29 Apr 2026 07:00:00 +0200",
+            "summary": "Ces dernières semaines, le VMRI, Vlaams Mensenrechteninstituut, l'institut flamand des droits humains, s'est retrouvé..."
+        },
+        {
+            "source": "RTBF Monde",
+            "title": "Les Emirats arabes unis annoncent leur retrait surprise de l’Opep au nom de leur \"intérêt national\"",
+            "link": "https://www.rtbf.be/article/les-emirats-arabes-unis-annoncent-leur-retrait-de-l-opep-a-partir-de-mai-11716528",
+            "published": "Wed, 29 Apr 2026 06:55:08 +0200",
+            "summary": "Le pays du Golfe, qui figure parmi les plus grands producteurs au monde, quittera le groupe mené par Ryad et l'alliance..."
+        },
+        {
+            "source": "RTBF Monde",
+            "title": "L'ex-directeur du FBI Comey inculpé de \"menace contre la vie\" de Trump",
+            "link": "https://www.rtbf.be/article/l-ex-directeur-du-fbi-james-comey-cible-de-donald-trump-de-nouveau-inculpe-11716699",
+            "published": "Wed, 29 Apr 2026 06:54:43 +0200",
+            "summary": "Une juge fédérale avait annulé en novembre deux inculpations téléguidées par le président américain contre James..."
+        },
+        {
+            "source": "France-info",
+            "title": "Plan d'électrification : si la sortie du gaz n'est pas anticipée, la facture annuelle pourrait augmenter de 53% dès 2030 pour les ménages, alerte une étude",
+            "link": "https://www.franceinfo.fr/environnement/energie/plan-d-electrification-si-la-sortie-du-gaz-n-est-pas-anticipee-la-facture-annuelle-pourrait-augmenter-de-53-des-2030-pour-les-menages-alerte-une-etude_7971575.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 06:54:33 +0200",
+            "summary": "Selon la Fédération européenne des associations de consommateurs, les personnes concernées pourraient payé 300 euros supplémentaires par an. 35% des ménages français se chauffent encore au gaz."
+        },
+        {
+            "source": "RTBF Monde",
+            "title": "Attaques au Mali : \"La situation est maîtrisée\", affirme le chef de la junte Assimi Goïta",
+            "link": "https://www.rtbf.be/article/attaques-au-mali-la-situation-est-maitrisee-affirme-le-chef-de-la-junte-assimi-goita-11716767",
+            "published": "Wed, 29 Apr 2026 06:40:40 +0200",
+            "summary": "M. Goïta, qui s'exprimait pour la première fois depuis ces attaques, a toutefois reconnu une situation d'\"extrême..."
+        },
+        {
+            "source": "France-info",
+            "title": "L'électricité bat un record de prix négatif en Belgique, un phénomène de plus en plus fréquent",
+            "link": "https://www.franceinfo.fr/environnement/energie/l-electricite-bat-un-record-de-prix-negatif-en-belgique-un-phenomene-de-plus-en-plus-frequent_7969652.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 06:31:25 +0200",
+            "summary": "Dimanche, le prix du mégawattheure a chuté à -480 euros dimanche. Pourtant, ce phénomène ne profite pas aux consommateurs. Explications."
+        },
+        {
+            "source": "RTBF Monde",
+            "title": "Direct – Guerre au Moyen-Orient : le transport maritime dans le détroit d’Ormuz pratiquement au point mort, selon l’Onu",
+            "link": "https://www.rtbf.be/article/direct-guerre-au-moyen-orient-le-transport-maritime-dans-le-detroit-d-ormuz-pratiquement-au-point-mort-selon-l-onu-11716800",
+            "published": "Wed, 29 Apr 2026 06:13:49 +0200",
+            "summary": "Une nouvelle publication du tableau de bord de l'Onu Commerce et Développement (CNUCED) surveille les prix de..."
+        },
+        {
+            "source": "RTBF Info",
+            "title": "Andenne compte dix-sept espèces de chauves-souris différentes sur son territoire",
+            "link": "https://www.rtbf.be/article/andenne-compte-dix-sept-especes-de-chauves-souris-differentes-sur-son-territoire-11716688",
+            "published": "Wed, 29 Apr 2026 06:02:47 +0200",
+            "summary": "Pour recenser les chauves-souris, Sébastien Krickx, Gradué principal au DEMNa, Direction de la nature et de l'eau, doit..."
+        },
+        {
+            "source": "France-info",
+            "title": "Climat : l'Europe se réchauffe deux fois plus vite que la moyenne mondiale, alerte l'Institut Copernicus",
+            "link": "https://www.franceinfo.fr/environnement/crise-climatique/climat-l-europe-se-rechauffe-deux-fois-plus-vite-que-la-moyenne-mondiale-alerte-l-institut-copernicus_7970084.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 06:00:03 +0200",
+            "summary": "Des températures extrêmes et des incendies record : les impacts du réchauffement climatique ont continué de s'aggraver en 2025 sur le Vieux Continent, relève un rapport de l'Institut Copernicus dévoil"
+        },
+        {
+            "source": "France-info",
+            "title": "\"Le Diable s'habille en Prada 2\" : vingt ans après, tout a changé, sauf Miranda",
+            "link": "https://www.franceinfo.fr/culture/cinema/sorties-de-films/le-diable-s-habille-en-prada-2-vingt-ans-apres-tout-a-change-sauf-miranda_7961342.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 06:00:01 +0200",
+            "summary": "En faisant le choix d'un casting et d'une équipe de production semblable au premier volet paru en 2006, cette suite entend lui faire honneur."
+        },
+        {
+            "source": "France-info",
+            "title": "Sophie Adenot dans l'espace : retrouvez nos meilleurs contenus",
+            "link": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/sophie-adenot-dans-l-espace-retrouvez-nos-meilleurs-contenus_7959746.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 05:55:01 +0200",
+            "summary": "Elle s'est envolée le 13 février. L'astronaute française Sophie Adenot a rejoint la Station spatiale internationale, pour la mission Epsilon. Elle est la deuxième femme française dans l'espace, après "
+        },
+        {
+            "source": "France-info",
+            "title": "Gyroscope, pesée dans l'espace, bulles d'eau… Avec \"La science du dimanche matin\", Sophie Adenot vulgarise ses expériences à bord de l'ISS sur les réseaux sociaux",
+            "link": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/gyroscope-pesee-dans-l-espace-bulles-d-eau-avec-la-science-du-dimanche-matin-sophie-adenot-vulgarise-ses-experiences-a-bord-de-l-iss-sur-les-reseaux-sociaux_7967678.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 05:54:30 +0200",
+            "summary": "Depuis la Station spatiale internationale, l'astronaute française raconte son quotidien en orbite à des milliers d'internautes, à qui elle transmet des vidéos ludiques et instructives."
+        },
+        {
+            "source": "France-info",
+            "title": "\"J'ai envie de pousser mes objectifs encore plus loin\" : comment Sophie Adenot peut réconcilier les jeunes filles avec les filières scientifiques",
+            "link": "https://www.franceinfo.fr/sciences/espace/sophie-adenot/temoignages-j-ai-envie-de-pousser-mes-objectifs-encore-plus-loin-comment-sophie-adenot-peut-reconcilier-les-jeunes-filles-avec-les-filieres-scientifiques_7969628.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 05:53:04 +0200",
+            "summary": "Deuxième femme française envoyée dans l'espace, Sophie Adenot participe à de nombreuses expériences scientifiques, dont certaines ambitionnent d'attirer les plus jeunes vers des carrières scientifique"
+        },
+        {
+            "source": "7sur7",
+            "title": "Un pilote tué dans le crash d’un petit avion dans le nord de l’Allemagne",
+            "link": "https://www.7sur7.be/monde/un-pilote-tue-dans-le-crash-dun-petit-avion-dans-le-nord-de-lallemagne~afecddd0/",
+            "published": "Wed, 29 Apr 2026 05:46:24 GMT",
+            "summary": "Le pilote d'un petit avion a trouvé la mort dans le crash de son appareil mardi soir dans le nord-ouest de l'Allemagne, a indiqué la police locale mercredi."
+        },
+        {
+            "source": "Frandroid",
+            "title": "Apple se prépare à concurrencer Google Photos avec iOS 27",
+            "link": "https://www.frandroid.com/marques/apple/3082149_apple-se-prepare-a-concurrencer-google-photos-avec-ios-27",
+            "published": "Wed, 29 Apr 2026 05:45:58 +0000",
+            "summary": ""
+        },
+        {
+            "source": "Frandroid",
+            "title": "Amazon fait sa French Week en plein French Days et casse les prix à coup de codes promo",
+            "link": "https://www.frandroid.com/bons-plans/3081213_amazon-fait-sa-french-week-en-plein-pendant-les-french-days-et-casse-les-prix-a-coup-de-codes-promo",
+            "published": "Wed, 29 Apr 2026 05:30:00 +0000",
+            "summary": ""
+        },
+        {
+            "source": "7sur7",
+            "title": "Trump affirme que les États-Unis ont “vaincu militairement” l’Iran",
+            "link": "https://www.7sur7.be/monde/trump-affirme-que-les-etats-unis-ont-vaincu-militairement-liran~a069546f/",
+            "published": "Wed, 29 Apr 2026 05:22:00 GMT",
+            "summary": ""
+        },
+        {
+            "source": "7sur7",
+            "title": "Crise des opioïdes aux États-Unis: Purdue Pharma condamné, plus de 8 milliards de dollars à verser",
+            "link": "https://www.7sur7.be/monde/crise-des-opioides-aux-etats-unis-purdue-pharma-condamne-plus-de-8-milliards-de-dollars-a-verser~a2a694bb/",
+            "published": "Wed, 29 Apr 2026 05:09:02 GMT",
+            "summary": "Une juge fédérale du New Jersey a condamné mardi le laboratoire américain Purdue Pharma, considéré comme à l'origine de la crise des opioïdes aux États-Unis, avant l'entrée en vigueur de son plan de f"
+        },
+        {
+            "source": "7sur7",
+            "title": "Inculpé de “menace contre la vie” de Trump, l’ex-directeur du FBI réagit: “Je n’ai toujours pas peur”",
+            "link": "https://www.7sur7.be/monde/inculpe-de-menace-contre-la-vie-de-trump-lex-directeur-du-fbi-reagit-je-nai-toujours-pas-peur~a911839b/",
+            "published": "Wed, 29 Apr 2026 04:51:00 GMT",
+            "summary": "L’ex-directeur du FBI James Comey a été inculpé mardi de “menace contre la vie” du président Donald Trump, a annoncé le ministre de la Justice par intérim, Todd Blanche."
+        },
         {
             "source": "France-info",
             "title": "PSG-Bayern : les Parisiens arrachent une courte victoire au terme d'un combat fou marqué par neuf buts... Revivez la demi-finale aller de Ligue des champions",
             "link": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/direct-psg-bayern-les-parisiens-face-a-un-immense-defi-pour-retrouver-la-finale-suivez-la-demi-finale-aller-de-ligue-des-champions_7967654.html#xtor=RSS-3-[lestitres]",
             "published": "Wed, 29 Apr 2026 04:46:36 +0200",
             "summary": "Les tenants du titre ont pris une courte avance au Parc des Princes, mardi, au terme d'un match exceptionnel."
+        },
+        {
+            "source": "7sur7",
+            "title": "“L’armée ukrainienne aura la priorité” : Zelensky veut vendre le surplus d’armes à l’étranger",
+            "link": "https://www.7sur7.be/monde/larmee-ukrainienne-aura-la-priorite-zelensky-veut-vendre-le-surplus-darmes-a-letranger~acb4cd7c/",
+            "published": "Wed, 29 Apr 2026 04:36:14 GMT",
+            "summary": "L'Ukraine s'apprête à exporter des armes alors que le pays en produit plus que nécessaire, a annoncé le président ukrainien Volodymyr Zelensky mardi soir."
+        },
+        {
+            "source": "7sur7",
+            "title": "“Sans nous, vous parleriez français”: Charles III enchaîne les blagues face à Trump",
+            "link": "https://www.7sur7.be/monde/sans-nous-vous-parleriez-francais-charles-iii-enchaine-les-blagues-face-a-trump~va980cb66/",
+            "published": "Wed, 29 Apr 2026 04:17:44 GMT",
+            "summary": "Le roi Charles III a rendu la monnaie de sa pièce à Donald Trump mardi lors d'un dîner d'État à la Maison Blanche, affirmant avec humour que les Américains parleraient français si les Britanniques n'a"
+        },
+        {
+            "source": "7sur7 Monde",
+            "title": "“Sans nous, vous parleriez français”: Charles III enchaîne les blagues face à Trump",
+            "link": "https://www.7sur7.be/monde/sans-nous-vous-parleriez-francais-charles-iii-enchaine-les-blagues-face-a-trump~a980cb66/",
+            "published": "Wed, 29 Apr 2026 04:17:44 GMT",
+            "summary": "Le roi Charles III a rendu la monnaie de sa pièce à Donald Trump mardi lors d'un dîner d'État à la Maison Blanche, affirmant avec humour que les Américains parleraient français si les Britanniques n'a"
         },
         {
             "source": "France-info",
@@ -506,202 +702,6 @@
             "link": "https://www.frandroid.com/marques/byd/3039929_tesla-se-fait-ecraser-par-byd-en-europe-les-chiffres-de-ventes-sont-implacables-a-un-gros-detail-pres",
             "published": "Wed, 25 Mar 2026 17:05:14 +0000",
             "summary": ""
-        },
-        {
-            "source": "7sur7",
-            "title": "Des études réécrivent l’histoire de la domestication du chien",
-            "link": "https://www.7sur7.be/sciences/des-etudes-reecrivent-lhistoire-de-la-domestication-du-chien~a9cdf2e5/",
-            "published": "Wed, 25 Mar 2026 17:01:20 GMT",
-            "summary": "De nouvelles recherches révèlent que les chiens accompagnaient déjà l’être humain en Europe il y a près de 16.000 ans, soit 5.000 ans plus tôt que ce qu’indiquaient les études précédentes."
-        },
-        {
-            "source": "Frandroid",
-            "title": "Boulanger retire 500 € sur ce puissant PC portable gamer Lenovo sous RTX 5070",
-            "link": "https://www.frandroid.com/bons-plans/2848863_boulanger-retire-500-euros-sur-ce-puissant-pc-portable-gamer-lenovo-sous-rtx-5070",
-            "published": "Wed, 25 Mar 2026 16:58:38 +0000",
-            "summary": ""
-        },
-        {
-            "source": "France-info",
-            "title": "Les deux femmes portées disparues dans l'Aveyron retrouvées mortes au Portugal",
-            "link": "https://www.franceinfo.fr/faits-divers/les-deux-femmes-portees-disparues-dans-l-aveyron-retrouvees-mortes-au-portugal_7893707.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 16:56:20 +0100",
-            "summary": "Les corps des deux femmes portées disparues en Aveyron depuis vendredi ont été retrouvés au Portugal, selon l’AFP. Le principal suspect, un ex-policier de 42 ans, a été interpellé mardi soir au Portug"
-        },
-        {
-            "source": "France-info",
-            "title": "Guerre au Moyen-Orient : \"C'est toute notre conception de l'armement qu'il faut repenser\", affirme Sébastien Lecornu devant l'Assemblée nationale",
-            "link": "https://www.franceinfo.fr/monde/moyen-orient/direct-guerre-au-moyen-orient-l-iran-annonce-des-tirs-de-missiles-vers-israel-bahrein-le-koweit-et-la-jordanie_7892732.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 16:53:13 +0100",
-            "summary": "\"Le rôle du gouvernement n'est pas de commenter le chaos du monde, il est d'agir, a affirmé Sebastien Lecornu. Oui, cette crise nous concerne directement\", a déclaré le Premier ministre dans le cadre "
-        },
-        {
-            "source": "7sur7",
-            "title": "10.200 milliards de dollars: voici la note astronomique laissée par les plus gros pollueurs (et le pire est à venir)",
-            "link": "https://www.7sur7.be/ecologie/10-200-milliards-de-dollars-voici-la-note-astronomique-laissee-par-les-plus-gros-pollueurs-et-le-pire-est-a-venir~a2729d0a/",
-            "published": "Wed, 25 Mar 2026 16:46:22 GMT",
-            "summary": "Une étude publiée mercredi révèle que le coût économique des émissions de CO₂ est beaucoup plus élevé que les estimations précédentes. Les plus gros pollueurs seraient responsables de milliards de dol"
-        },
-        {
-            "source": "RTBF Info",
-            "title": "Anderlecht: un agent de sécurité et deux policiers blessés au CPAS",
-            "link": "https://www.rtbf.be/article/anderlecht-un-agent-de-securite-et-deux-policiers-blesses-au-cpas-11700210",
-            "published": "Wed, 25 Mar 2026 16:44:01 +0100",
-            "summary": "Les faits se sont produits vers 10h30. Selon la police, ses équipes sont intervenues au CPAS d'Anderlecht après le..."
-        },
-        {
-            "source": "France-info",
-            "title": "Etudiant frappé à mort à Reims : les trois accusés de nouveau condamnés à 14 ans de réclusion criminelle en appel",
-            "link": "https://www.franceinfo.fr/faits-divers/justice-proces/etudiant-frappe-a-mort-a-reims-les-trois-accuses-de-nouveau-condamnes-a-14-ans-de-reclusion-criminelle-en-appel_7893650.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 16:39:31 +0100",
-            "summary": "Bastien Payet, 23 ans, a été battu à mort en 2019 à Reims en sortant d'un bar. La mère de la victime, Frédérique Couturier, se dit \"soulagée\" à la sortie du tribunal."
-        },
-        {
-            "source": "RTBF Info",
-            "title": "Deux jours où la culture est reine à l’Athénée Royal d’Houffalize",
-            "link": "https://www.rtbf.be/article/deux-jours-ou-la-culture-est-reine-a-l-athenee-royal-d-houffalize-11700201",
-            "published": "Wed, 25 Mar 2026 16:32:39 +0100",
-            "summary": "Le théâtre du Sursaut a posé pendant deux jours ses valises à l'Athénée Royal d'Houffalize. Lundi et mardi, les..."
-        },
-        {
-            "source": "RTBF Monde",
-            "title": "Le patron de la Chambre de commerce internationale craint \"la pire crise industrielle de mémoire humaine\"",
-            "link": "https://www.rtbf.be/article/le-patron-de-la-chambre-de-commerce-internationale-craint-la-pire-crise-industrielle-de-memoire-humaine-11700212",
-            "published": "Wed, 25 Mar 2026 16:30:00 +0100",
-            "summary": "\"Il est impossible de parler de l'avenir du système commercial sans reconnaître l'ampleur du choc qui frappe actuellement..."
-        },
-        {
-            "source": "Frandroid",
-            "title": "J’ai testé le MacBook Neo : le meilleur premier MacBook de beaucoup de gens ?",
-            "link": "https://www.frandroid.com/marques/apple/3031705_macbook-neo-test-complet",
-            "published": "Wed, 25 Mar 2026 16:30:00 +0000",
-            "summary": ""
-        },
-        {
-            "source": "7sur7",
-            "title": "Une nouvelle plainte aurait été déposée contre Patrick Bruel en Belgique pour agression sexuelle",
-            "link": "https://www.7sur7.be/people/une-nouvelle-plainte-aurait-ete-deposee-contre-patrick-bruel-en-belgique-pour-agression-sexuelle~a11fcfd6/",
-            "published": "Wed, 25 Mar 2026 16:23:52 GMT",
-            "summary": "Patrick Bruel est visé par une nouvelle plainte, cette fois déposée en Belgique, rapporte RTL. L’artiste nie toujours les différents faits qui lui sont reprochés."
-        },
-        {
-            "source": "France-info",
-            "title": "Le \"bûcheron du Doubs\" condamné à 18 ans de réclusion, notamment pour des viols et du chantage à la sextape contre 42 victimes",
-            "link": "https://www.franceinfo.fr/france/bourgogne-franche-comte/theo-denner-le-gamin-perdu-devenu-chasseur-sexuel-aux-42-victimes-condamne-a-18-ans-de-reclusion-criminelle_7893572.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 16:23:12 +0100",
-            "summary": "18 ans de réclusion criminelle. C'est la peine prononcée ce 25 mars 2026 à l'encontre de Théo Denner (25 ans), reconnu coupable de viols, agressions sexuelles, harcèlement sexuel et atteinte à la vie "
-        },
-        {
-            "source": "7sur7",
-            "title": "“Elle avait jeté mon téléphone”: il traîne son ex-compagne par les cheveux sur la bande d’arrêt d’urgence de l’E19",
-            "link": "https://www.7sur7.be/faits-divers/elle-avait-jete-mon-telephone-il-traine-son-ex-compagne-par-les-cheveux-sur-la-bande-darret-durgence-de-le19~af356be06/",
-            "published": "Wed, 25 Mar 2026 16:22:49 GMT",
-            "summary": "Un habitant de Malines a comparu mercredi pour des faits de violence conjugale extrême. Il avait forcé son ex-compagne à monter en voiture avant de l’emmener contre son gré vers Bruxelles, la frappant"
-        },
-        {
-            "source": "France-info",
-            "title": "Nucléaire, sanctions, détroit d'Ormuz... Ce que l'on sait du plan de paix de Donald Trump pour l'Iran, rejeté par Téhéran",
-            "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/guerre-au-moyen-orient-ce-que-l-on-sait-du-plan-de-paix-propose-par-donald-trump-apres-un-mois-de-conflit-avec-l-iran_7892918.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 16:20:54 +0100",
-            "summary": "Le président des Etats-Unis assure que des discussions avec l'Iran ont lieu \"en ce moment\". Mais \"la guerre prendra fin lorsque l'Iran décidera d'y mettre fin\", a réagi Téhéran."
-        },
-        {
-            "source": "RTBF Info",
-            "title": "Bébé abandonné à Pecq : la maman bénéficie de la suspension du prononcé pour une durée de deux ans",
-            "link": "https://www.rtbf.be/article/bebe-abandonne-a-pecq-la-maman-beneficie-de-la-suspension-du-prononce-pour-une-duree-de-deux-ans-11700178",
-            "published": "Wed, 25 Mar 2026 16:13:03 +0100",
-            "summary": "L'histoire remonte au samedi 26 avril 2025 quand une passante trouve un enfant abandonné le long du canal. Elle le..."
-        },
-        {
-            "source": "7sur7",
-            "title": "L’Italie s’allie avec l’Algérie pour s’alimenter en gaz",
-            "link": "https://www.7sur7.be/monde/litalie-sallie-avec-lalgerie-pour-salimenter-en-gaz~a03d5d7f/",
-            "published": "Wed, 25 Mar 2026 16:09:45 GMT",
-            "summary": "En visite officielle à Alger, la cheffe du gouvernement italien, Giorgia Meloni, a déclaré mercredi vouloir renforcer la coopération avec l’Algérie afin d’augmenter les livraisons de gaz algérien vers"
-        },
-        {
-            "source": "7sur7",
-            "title": "Le plan de Trump pourrait-il faire chuter rapidement les prix du pétrole et le marché de l’énergie, s’il était accepté?",
-            "link": "https://www.7sur7.be/monde/le-plan-de-trump-pourrait-il-faire-chuter-rapidement-les-prix-du-petrole-et-le-marche-de-lenergie-sil-etait-accepte~a93f909a/",
-            "published": "Wed, 25 Mar 2026 16:04:16 GMT",
-            "summary": "Donald Trump aurait proposé à l’Iran un plan en 15 points pour mettre fin à la guerre, bien que Téhéran nie de son côté toute négociation avec les États-Unis. Un accord est-il réellement en préparatio"
-        },
-        {
-            "source": "7sur7",
-            "title": "Trump s’entoure d’un conseil tech avec Zuckerberg et Huang",
-            "link": "https://www.7sur7.be/monde/trump-sentoure-dun-conseil-tech-avec-zuckerberg-et-huang~a535f0b6/",
-            "published": "Wed, 25 Mar 2026 16:02:55 GMT",
-            "summary": "Donald Trump a annoncé mercredi la nomination des premiers membres du conseil aux sciences et technologies (PCAST), créé au début de son mandat. Selon un message publié par la Maison-Blanche, ce conse"
-        },
-        {
-            "source": "Frandroid",
-            "title": "Sony Bravia Theatre : des barres de son, des caissons et même des enceintes arrière pour un home cinéma totalement immersif",
-            "link": "https://www.frandroid.com/marques/sony/3039349_bravia-theatre-des-barres-de-son-des-caissons-et-meme-des-enceintes-arriere-pour-un-home-cinema-totalement-immersif",
-            "published": "Wed, 25 Mar 2026 16:02:00 +0000",
-            "summary": ""
-        },
-        {
-            "source": "Frandroid",
-            "title": "Bravia 3 II et Bravia 2 II : les nouvelles TV LCD d’entrée de gamme chez Sony",
-            "link": "https://www.frandroid.com/produits-android/tv-connectee-produits/3038935_bravia-3-ii-et-bravia-2-ii-les-nouvelles-tv-lcd-dentree-de-gamme-chez-sony",
-            "published": "Wed, 25 Mar 2026 16:00:00 +0000",
-            "summary": ""
-        },
-        {
-            "source": "7sur7",
-            "title": "Les deux Françaises portées disparues ont été retrouvées mortes au Portugal",
-            "link": "https://www.7sur7.be/faits-divers/les-deux-francaises-portees-disparues-ont-ete-retrouvees-mortes-au-portugal~a9cb2d11/",
-            "published": "Wed, 25 Mar 2026 15:56:59 GMT",
-            "summary": "Les deux femmes portées disparues dans l’Aveyron depuis le vendredi 20 mars ont été retrouvées mortes au Portugal, a indiqué une source proche du dossier à l’AFP. Une information judiciaire pour “enlè"
-        },
-        {
-            "source": "France-info",
-            "title": "Des \"1001 Nuits\" à l'art contemporain : le Louvre-Lens explore les orientalismes",
-            "link": "https://www.franceinfo.fr/culture/arts-expos/des-1001-nuits-a-l-art-contemporain-le-louvre-lens-explore-les-orientalismes_7893404.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 15:49:03 +0100",
-            "summary": "L’exposition retrace les échanges culturels entre Orient et Occident du Moyen Âge à nos jours à travers de près de 300 œuvres."
-        },
-        {
-            "source": "France-info",
-            "title": "Dans nos assiettes, un poison silencieux nommé cadmium",
-            "link": "https://www.franceinfo.fr/sante/alimentation/dans-nos-assiettes-un-poison-silencieux-nomme-cadmium_7893116.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 15:44:37 +0100",
-            "summary": "Présent dans de nombreux aliments du quotidien, le cadmium inquiète les autorités sanitaires. Ce métal toxique, issu notamment des sols agricoles, peut avoir des effets graves sur la santé. L’Anses al"
-        },
-        {
-            "source": "France-info",
-            "title": "La Hongrie va réduire les livraisons de gaz à l'Ukraine, tant que Kiev ne rétablira pas l'approvisionnement en pétrole russe",
-            "link": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-hongrie-va-reduire-les-livraisons-de-gaz-a-l-ukraine-tant-que-kiev-ne-retablira-pas-l-approvisionnement-en-petrole-russe_7893368.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 15:42:58 +0100",
-            "summary": "La Hongrie, qui a obtenu des exemptions de l'Union européenne pour continuer à acheter du pétrole russe, est la principale source d'approvisionnement en gaz de l'Ukraine. Budapest accuse Kiev de ne ri"
-        },
-        {
-            "source": "7sur7",
-            "title": "Un agent de sécurité et deux policiers blessés au CPAS d’Anderlecht",
-            "link": "https://www.7sur7.be/faits-divers/un-agent-de-securite-et-deux-policiers-blesses-au-cpas-danderlecht~a5e3412c/",
-            "published": "Wed, 25 Mar 2026 15:42:30 GMT",
-            "summary": "Un agent de sécurité du CPAS d’Anderlecht et deux policiers ont été blessés mercredi matin lors d’une intervention liée à un homme agressif dans les locaux de l’institution, ont indiqué la zone de pol"
-        },
-        {
-            "source": "RTBF Monde",
-            "title": "Les armes à sous-munitions, véritable défi pour le bouclier antimissile israélien",
-            "link": "https://www.rtbf.be/article/les-armes-a-sous-munitions-veritable-defi-pour-le-bouclier-antimissile-israelien-11699905",
-            "published": "Wed, 25 Mar 2026 15:39:27 +0100",
-            "summary": "Mardi matin, les secours israéliens ont indiqué avoir pris en charge quatre personnes à Tel-Aviv, où un immeuble a été..."
-        },
-        {
-            "source": "7sur7",
-            "title": "Le “pire tortionnaire” du régime Maduro nommé ministre de la Défense",
-            "link": "https://www.7sur7.be/monde/le-pire-tortionnaire-du-regime-maduro-nomme-ministre-de-la-defense~a73c1b03/",
-            "published": "Wed, 25 Mar 2026 15:34:58 GMT",
-            "summary": "La présidente par intérim du Venezuela, Delcy Rodríguez, a promu le chef du contre-espionnage militaire au poste de ministre de la Défense. Gustavo González López, âgé de 65 ans, est considéré comme l"
-        },
-        {
-            "source": "7sur7 Monde",
-            "title": "“Coupable de crimes contre l’humanité”: le “pire tortionnaire” du régime Maduro nommé ministre de la Défense",
-            "link": "https://www.7sur7.be/monde/coupable-de-crimes-contre-lhumanite-le-pire-tortionnaire-du-regime-maduro-nomme-ministre-de-la-defense~a73c1b03/",
-            "published": "Wed, 25 Mar 2026 15:34:58 GMT",
-            "summary": "La présidente par intérim du Venezuela, Delcy Rodríguez, a promu le chef du contre-espionnage militaire au poste de ministre de la Défense. Gustavo González López, âgé de 65 ans, est considéré comme l"
         }
     ]
 }
