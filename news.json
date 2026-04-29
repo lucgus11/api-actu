@@ -1,8 +1,15 @@
 {
-    "last_update": "2026-04-28T21:57:29.162208",
-    "new_articles_added": 188,
+    "last_update": "2026-04-29T02:49:11.302348",
+    "new_articles_added": 193,
     "total_articles": 100,
     "articles": [
+        {
+            "source": "France-info",
+            "title": "PSG-Bayern : les Parisiens arrachent une courte victoire au terme d'un combat fou marqué par neuf buts... Revivez la demi-finale aller de Ligue des champions",
+            "link": "https://www.franceinfo.fr/sports/foot/ligue-des-champions/direct-psg-bayern-les-parisiens-face-a-un-immense-defi-pour-retrouver-la-finale-suivez-la-demi-finale-aller-de-ligue-des-champions_7967654.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 04:46:36 +0200",
+            "summary": "Les tenants du titre ont pris une courte avance au Parc des Princes, mardi, au terme d'un match exceptionnel."
+        },
         {
             "source": "France-info",
             "title": "La Banque de France abaisse ses prévisions de croissance en raison de la guerre au Moyen-Orient",
@@ -695,13 +702,6 @@
             "link": "https://www.7sur7.be/monde/coupable-de-crimes-contre-lhumanite-le-pire-tortionnaire-du-regime-maduro-nomme-ministre-de-la-defense~a73c1b03/",
             "published": "Wed, 25 Mar 2026 15:34:58 GMT",
             "summary": "La présidente par intérim du Venezuela, Delcy Rodríguez, a promu le chef du contre-espionnage militaire au poste de ministre de la Défense. Gustavo González López, âgé de 65 ans, est considéré comme l"
-        },
-        {
-            "source": "France-info",
-            "title": "Quels sont les \"navires non hostiles\" que l'Iran autorise à passer par le détroit d'Ormuz ?",
-            "link": "https://www.franceinfo.fr/monde/iran/crise-dans-le-detroit-d-ormuz/quels-sont-les-navires-non-hostiles-que-l-iran-autorise-a-passer-par-le-detroit-d-ormuz_7893260.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 25 Mar 2026 15:30:50 +0100",
-            "summary": "Cette voie maritime stratégique, quasiment fermée depuis le début des frappes américano-israéliennes fin février, est partiellement ouverte depuis dimanche par le régime iranien. Téhéran exclut toutef"
         }
     ]
 }
