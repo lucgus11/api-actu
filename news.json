@@ -1,6 +1,6 @@
 {
-    "last_update": "2026-04-29T21:58:32.849489",
-    "new_articles_added": 124,
+    "last_update": "2026-04-30T02:51:31.329521",
+    "new_articles_added": 112,
     "total_articles": 100,
     "articles": [
         {
@@ -25,11 +25,25 @@
             "summary": "Dans le cadre de cette audition parlementaire, le Pentagone a par ailleurs précisé que la guerre au Moyen-Orient avait déjà coûté 25 milliards de dollars."
         },
         {
+            "source": "RTBF Monde",
+            "title": "Guerre au Moyen-Orient : Trump dit que l'Iran est \"en effondrement\", le Pentagone évalue le coût de la guerre en Iran à 25 milliards de dollars (revivez notre direct)",
+            "link": "https://www.rtbf.be/article/direct-guerre-au-moyen-orient-le-transport-maritime-dans-le-detroit-d-ormuz-pratiquement-au-point-mort-selon-l-onu-11716800",
+            "published": "Wed, 29 Apr 2026 22:43:35 +0200",
+            "summary": "Une nouvelle publication du tableau de bord de l'Onu Commerce et Développement (CNUCED) surveille les prix de..."
+        },
+        {
             "source": "France-info",
             "title": "La délégation iranienne dénonce une \"insulte\" à l'aéroport de Toronto et annule sa présence au congrès de la Fifa",
             "link": "https://www.franceinfo.fr/monde/iran/la-delegation-iranienne-denonce-une-insulte-a-l-aeroport-de-toronto-et-annule-sa-presence-au-congres-de-la-fifa_7972643.html#xtor=RSS-3-[lestitres]",
             "published": "Wed, 29 Apr 2026 22:35:20 +0200",
             "summary": "Elle a ciblé \"l'un des organes les plus honorables des forces armées iraniennes\", précise un communiqué, sans davantage de détails."
+        },
+        {
+            "source": "Frandroid",
+            "title": "Vous avez connu cet écran noir dans les années 90 ? Lenovo vient de le racheter",
+            "link": "https://www.frandroid.com/marques/lenovo/3083919_vous-avez-connu-cet-ecran-noir-dans-les-annees-90-lenovo-vient-de-le-racheter",
+            "published": "Wed, 29 Apr 2026 22:24:59 +0000",
+            "summary": ""
         },
         {
             "source": "France-info",
@@ -361,6 +375,13 @@
             "summary": ""
         },
         {
+            "source": "Frandroid",
+            "title": "THX ouvre deux nouveaux laboratoires en Asie pour certifier la qualité d’image et celle du son",
+            "link": "https://www.frandroid.com/produits-android/audio/casque-audio/3083899_thx-ouvre-deux-nouveaux-laboratoires-en-asie-pour-certifier-la-qualite-dimage-et-celle-du-son",
+            "published": "Wed, 29 Apr 2026 17:49:59 +0000",
+            "summary": ""
+        },
+        {
             "source": "RTL-info",
             "title": "Âge légal, bonus-malus et fonction publique : voici les changements de la réforme des pensions",
             "link": "https://www.rtl.be/actu/belgique/politique/age-legal-bonus-malus-et-fonction-publique-voici-les-changements-de-la-reforme/2026-04-29/article/787272",
@@ -681,27 +702,6 @@
             "link": "https://www.rtbf.be/article/qr-crise-energetique-un-retour-du-gaz-russe-est-il-possible-11716960",
             "published": "Wed, 29 Apr 2026 15:22:03 +0200",
             "summary": "Stéphane Martin, de Namur, nous pose cette question : \n\n\"Etant donné les perturbations dans le détroit d'Ormuz et leur..."
-        },
-        {
-            "source": "France-info",
-            "title": "On a découvert dans la Voie Lactée une étoile datant du début de l'univers !",
-            "link": "https://www.franceinfo.fr/sciences/on-a-decouvert-dans-la-voie-lactee-une-etoile-datant-du-debut-de-l-univers_7972082.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 29 Apr 2026 15:15:01 +0200",
-            "summary": "Bill François raconte comment de jeunes étudiants ont découvert une étoile pas comme les autres dans la Voie Lactée : beaucoup plus ancienne que notre galaxie, donc venant d'ailleurs."
-        },
-        {
-            "source": "Frandroid",
-            "title": "1 600 km d’autonomie et écrans invisibles : les Volkswagen électriques chinoises m’ont totalement bluffé",
-            "link": "https://www.frandroid.com/marques/volkswagen/3081619_1-600-km-dautonomie-et-ecrans-invisibles-les-volkswagen-electriques-chinoises-mont-totalement-bluffe",
-            "published": "Wed, 29 Apr 2026 15:14:29 +0000",
-            "summary": ""
-        },
-        {
-            "source": "France-info",
-            "title": "Emmanuel Macron appelle à réfléchir à de \"nouvelles réponses\" face à la hausse des prix de l'énergie, dans un contexte \"hautement incertain\"",
-            "link": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/prix-des-carburants-emmanuel-macron-appelle-a-reflechir-a-de-nouvelles-reponses-dans-un-contexte-hautement-incertain_7972013.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 29 Apr 2026 15:06:51 +0200",
-            "summary": "La porte-parole du gouvernement, Maud Bregeon, a cité le chef de l'Etat à l'issue du Conseil des ministres, mercredi."
         }
     ]
 }
