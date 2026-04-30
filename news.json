@@ -1,6 +1,6 @@
 {
-    "last_update": "2026-04-30T05:58:32.782611",
-    "new_articles_added": 128,
+    "last_update": "2026-04-30T08:31:47.582030",
+    "new_articles_added": 153,
     "total_articles": 100,
     "articles": [
         {
@@ -107,6 +107,13 @@
             "link": "https://www.franceinfo.fr/economie/transports/une-nouvelle-compagnie-aerienne-francaise-air-inter-region-prendra-son-envol-l-an-prochain_7972616.html#xtor=RSS-3-[lestitres]",
             "published": "Wed, 29 Apr 2026 21:12:02 +0200",
             "summary": "Elle sera spécialisée dans les liaisons interrégionales, sur des distances courtes, selon son fondateur."
+        },
+        {
+            "source": "France-info",
+            "title": "\"Qui profite ?\" : Sébastien Lecornu appelle TotalEnergies à redistribuer ses bénéfices qui ont bondi pendant la crise",
+            "link": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/qui-profite-sebastien-lecornu-appelle-totalenergies-a-redistribuer-ses-benefices-qui-ont-bondi-pendant-la-crise_7972586.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 21:07:57 +0200",
+            "summary": "Dopée par la flambée des prix des carburants, TotalEnergies a annoncé mercredi 29 avril un bénéfice net de 5,8 milliards de dollars au premier trimestre. Une hausse de 51% sur un an. Le Premier minist"
         },
         {
             "source": "RTBF Monde",
@@ -352,6 +359,13 @@
             "link": "https://www.7sur7.be/economie/linflation-a-bondi-a-4-01-en-avril~aea0d520/",
             "published": "Wed, 29 Apr 2026 17:58:00 GMT",
             "summary": "L’inflation est passée de 1,65 % en mars à 4,01% en avril, a finalement annoncé mercredi soir le bureau Statbel."
+        },
+        {
+            "source": "France-info",
+            "title": "Travail le 1er-Mai : Des bouchers prêts à ouvrir coûte que coûte",
+            "link": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/travail-le-1er-mai-des-bouchers-prets-a-ouvrir-coute-que-coute_7972124.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Apr 2026 17:54:41 +0200",
+            "summary": "Certains commerçants ont décidé d'ouvrir leur boutique coûte que coûte ce vendredi 1er mai 2026. Après le revirement du gouvernement, qui a finalement renoncé à élargir les règles, de nombreuses profe"
         },
         {
             "source": "France-info",
@@ -688,20 +702,6 @@
             "link": "https://www.rtl.be/actu/belgique/faits-divers/mon-fils-est-en-panique-aucun-train-ne-roule-entre-bruxelles-et-braine-lalleud/2026-04-29/article/787243",
             "published": "Wed, 29 Apr 2026 15:25:41 +0000",
             "summary": ""
-        },
-        {
-            "source": "France-info",
-            "title": "Deux personnes blessées lors d'une attaque au couteau dans un quartier juif de Londres, un suspect arrêté",
-            "link": "https://www.franceinfo.fr/monde/royaume-uni/deux-personnes-blessees-lors-d-une-attaque-au-couteau-dans-un-quartier-juif-de-londres-le-premier-ministre-keir-starmer-juge-la-situation-profondement-preoccupante_7972043.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 29 Apr 2026 15:23:15 +0200",
-            "summary": "Le maire de la capitale britannique, Sadiq Khan, a condamné une \"attaque épouvantable contre deux juifs londoniens\"."
-        },
-        {
-            "source": "RTBF Monde",
-            "title": "QR crise énergétique : un retour du gaz russe est-il possible ?",
-            "link": "https://www.rtbf.be/article/qr-crise-energetique-un-retour-du-gaz-russe-est-il-possible-11716960",
-            "published": "Wed, 29 Apr 2026 15:22:03 +0200",
-            "summary": "Stéphane Martin, de Namur, nous pose cette question : \n\n\"Etant donné les perturbations dans le détroit d'Ormuz et leur..."
         }
     ]
 }
