@@ -1,8 +1,15 @@
 {
-    "last_update": "2026-07-28T22:03:40.471705",
+    "last_update": "2026-07-29T02:31:05.700097",
     "new_articles_added": 210,
     "total_articles": 100,
     "articles": [
+        {
+            "source": "France-info",
+            "title": "La Fifa dévoile un projet de société commerciale ouverte à des investisseurs extérieurs",
+            "link": "https://www.franceinfo.fr/sports/la-fifa-devoile-un-projet-de-societe-commerciale-ouverte-a-des-investisseurs-exterieurs_8126135.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Jul 2026 00:17:34 +0200",
+            "summary": "D'après le journal \"The Times\", le président de la Fifa, Gianni Infantino, qui a régulièrement affiché sa proximité avec le président américain, pourrait à terme devenir directeur général de cette nou"
+        },
         {
             "source": "France-info",
             "title": "Tennis : Arthur Fils écarte Jiri Lehecka et retrouvera Jannik Sinner en demi-finale du tournoi de Madrid",
@@ -695,13 +702,6 @@
             "link": "https://www.7sur7.be/monde/lattaque-contre-deux-juifs-a-londres-consideree-comme-un-acte-terroriste~a261b9f4/",
             "published": "Wed, 29 Apr 2026 15:28:00 GMT",
             "summary": "La police de Londres a dit considérer comme un “acte terroriste” l’attaque au couteau perpétrée mercredi à Londres contre deux hommes juifs, qui sont hospitalisés dans un état stable."
-        },
-        {
-            "source": "RTL-info",
-            "title": "« Mon fils est en panique » : aucun train ne roule entre Bruxelles et Braine-l’Alleud, que se passe-t-il sur les rails ?",
-            "link": "https://www.rtl.be/actu/belgique/faits-divers/mon-fils-est-en-panique-aucun-train-ne-roule-entre-bruxelles-et-braine-lalleud/2026-04-29/article/787243",
-            "published": "Wed, 29 Apr 2026 15:25:41 +0000",
-            "summary": ""
         }
     ]
 }
