@@ -1,6 +1,6 @@
 {
-    "last_update": "2026-07-30T08:24:18.074702",
-    "new_articles_added": 169,
+    "last_update": "2026-07-30T11:07:01.852372",
+    "new_articles_added": 180,
     "total_articles": 100,
     "articles": [
         {
@@ -403,6 +403,13 @@
             "summary": "Ce ressortissant français avait déjà été condamné en mars. Ses dix ans de prison ont été confirmés en appel par la justice azerbaïdjanaise."
         },
         {
+            "source": "France-info",
+            "title": "Zones touchées par les feux, hectares brûlés... Visualisez et suivez les incendies en France au fil de l'été",
+            "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/zones-brulees-hectares-partis-en-fumee-visualisez-et-suivez-les-incendies-dans-l-hexagone-au-fil-de-l-ete_8116688.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Jul 2026 17:02:30 +0200",
+            "summary": "Suivez régulièrement la situation en France métropolitaine grâce à notre carte interactive. Mise à jour quotidiennement, elle affiche les feux recensés par le Système européen d'information sur les in"
+        },
+        {
             "source": "7sur7",
             "title": "Le père d’Amy Winehouse devra verser près d’un million de livres à deux amies de sa fille",
             "link": "https://www.7sur7.be/people/le-pere-damy-winehouse-devra-verser-pres-dun-million-de-livres-a-deux-amies-de-sa-fille~ab1d9dcb2/",
@@ -695,13 +702,6 @@
             "link": "https://www.7sur7.be/monde/le-cerveau-de-lune-des-plus-grandes-affaires-de-fraude-aux-etats-unis-menerait-une-vie-de-luxe-en-russie~a1ef071f/",
             "published": "Wed, 29 Jul 2026 15:03:50 GMT",
             "summary": "Un homme recherché par Washington, car soupçonné d’être le chef d’un gang ayant émis deux milliards de dollars de fausses factures médicales aux États-Unis, mènerait apparemment une vie de luxe en Rus"
-        },
-        {
-            "source": "France-info",
-            "title": "\"Un acte de vandalisme environnemental\" : deux sites de baignade fermés par intermittence à Paris depuis dimanche à cause d'une pollution au fioul",
-            "link": "https://www.franceinfo.fr/environnement/pollution/un-acte-de-vandalisme-environnemental-deux-sites-de-baignade-fermes-par-intermittence-a-paris-depuis-dimanche-a-cause-d-une-pollution-au-fioul_8127086.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 29 Jul 2026 15:03:19 +0200",
-            "summary": "Les sites parisiens de bras Marie, dans le 4e arrondissement et de Bercy, dans le 12e arrondissement, sont concernés par cette pollution."
         }
     ]
 }
