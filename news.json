@@ -1,6 +1,6 @@
 {
-    "last_update": "2026-07-30T02:13:13.456873",
-    "new_articles_added": 129,
+    "last_update": "2026-07-30T05:39:48.529954",
+    "new_articles_added": 145,
     "total_articles": 100,
     "articles": [
         {
@@ -133,6 +133,13 @@
             "source": "7sur7",
             "title": "Magnésium, déshydratation, etc.: un médecin du sport analyse sept mythes sur les crampes musculaires",
             "link": "https://www.7sur7.be/sante/magnesium-deshydratation-etc-un-medecin-du-sport-analyse-sept-mythes-sur-les-crampes-musculaires~ac9615f8/",
+            "published": "Wed, 29 Jul 2026 20:01:29 GMT",
+            "summary": "Tous les sportifs connaissent cela: vous êtes en train de courir, de faire du vélo ou de jouer au football, et soudain, un muscle se contracte, provoquant une crampe douloureuse. Est-ce dû à la chaleu"
+        },
+        {
+            "source": "7sur7",
+            "title": "Magnésium, déshydratation: un médecin du sport analyse sept mythes sur les crampes musculaires",
+            "link": "https://www.7sur7.be/sante/magnesium-deshydratation-un-medecin-du-sport-analyse-sept-mythes-sur-les-crampes-musculaires~ac9615f8/",
             "published": "Wed, 29 Jul 2026 20:01:29 GMT",
             "summary": "Tous les sportifs connaissent cela: vous êtes en train de courir, de faire du vélo ou de jouer au football, et soudain, un muscle se contracte, provoquant une crampe douloureuse. Est-ce dû à la chaleu"
         },
@@ -536,6 +543,13 @@
             "summary": "Le bancassureur Belfius et Dexia affichent une exposition totale d'environ 766 millions d'euros sur Thames Water, la société britannique des eaux en difficulté financière, rapporte mercredi L'Echo."
         },
         {
+            "source": "France-info",
+            "title": "Incendies en France : comment venir en aide aux sinistrés, soutenir les pompiers ou préparer l'après ?",
+            "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/incendies-en-france-comment-venir-en-aide-aux-sinistres-soutenir-les-pompiers-ou-preparer-l-apres_8123681.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Jul 2026 15:52:45 +0200",
+            "summary": "La Fondation de France, le Secours populaire, le maire de Paris ou encore le président de la région Sud ont lancé des appels à la solidarité."
+        },
+        {
             "source": "7sur7",
             "title": "Le nombre de demandes de nationalité belge chute depuis la forte hausse du tarif",
             "link": "https://www.7sur7.be/belgique/le-nombre-de-demandes-de-nationalite-belge-chute-depuis-la-forte-hausse-du-tarif~a68a445d/",
@@ -688,20 +702,6 @@
             "link": "https://www.rtl.be/actu/belgique/meteo/nouveau-record-de-chaleur-ce-29-juillet-est-le-plus-chaud-chez-nous-depuis-plus/2026-07-29/article/795931",
             "published": "Wed, 29 Jul 2026 14:53:43 +0000",
             "summary": ""
-        },
-        {
-            "source": "France-info",
-            "title": "Guerre au Moyen-Orient : Donald Trump menace de frapper \"fort\" l'Iran après les attaques iraniennes en Jordanie",
-            "link": "https://www.franceinfo.fr/monde/iran/guerre-entre-les-etats-unis-israel-et-l-iran/direct-guerre-au-moyen-orient-les-etats-unis-ont-frappe-le-nord-ouest-de-l-iran-selon-la-television-d-etat-iranienne_8127041.html#xtor=RSS-3-[lestitres]",
-            "published": "Wed, 29 Jul 2026 14:48:37 +0200",
-            "summary": "Les frappes reprennent au Moyen-Orient après une accalmie des hostilités pendant plusieurs jours. Le cours du pétrole a bondi face à cette montée des tensions."
-        },
-        {
-            "source": "7sur7",
-            "title": "Deux pompiers décèdent en Grèce en luttant contre un incendie",
-            "link": "https://www.7sur7.be/monde/deux-pompiers-decedent-en-grece-en-luttant-contre-un-incendie~a603c9ad/",
-            "published": "Wed, 29 Jul 2026 14:44:00 GMT",
-            "summary": "🔴 Suivez les dernières informations sur les incendies et les vagues de chaleur à travers l’Europe dans notre live ci-dessous."
         }
     ]
 }
