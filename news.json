@@ -1,6 +1,6 @@
 {
-    "last_update": "2026-07-30T05:39:48.529954",
-    "new_articles_added": 145,
+    "last_update": "2026-07-30T08:24:18.074702",
+    "new_articles_added": 169,
     "total_articles": 100,
     "articles": [
         {
@@ -23,6 +23,13 @@
             "link": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/incendies-et-feux-de-foret/en-gironde-80-hectares-dedies-aux-recherches-forestieres-de-l-inrae-ont-brule-dans-l-incendie_8127662.html#xtor=RSS-3-[lestitres]",
             "published": "Wed, 29 Jul 2026 23:01:15 +0200",
             "summary": "Les dispositifs comportaient notamment des parcelles destinées à tester le mélange d'espèces, à documenter l'effet du dérèglement climatique sur les arbres pour encore à étudier l'impact des bioagress"
+        },
+        {
+            "source": "France-info",
+            "title": "\"Je vais passer en mode survie\" : qui sont les \"traumatisés de la canicule\" ?",
+            "link": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/je-vais-passer-en-mode-survie-qui-sont-les-traumatises-de-la-canicule_8127620.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Jul 2026 22:38:57 +0200",
+            "summary": "Ces canicules à répétition éprouvent les corps, mais aussi les esprits. À chaque nouvelle alerte, certains voient l’angoisse monter. Ils scrutent sans cesse les prévisions, renoncent à sortir ou viven"
         },
         {
             "source": "France-info",
@@ -634,6 +641,13 @@
             "summary": "L'accident a eu lieu mercredi vers 11h55 dans l'avenue des Sorbiers à Magnée, sur la commune de Fléron, lors d'une..."
         },
         {
+            "source": "France-info",
+            "title": "La situation des incendies en Espagne jugée \"favorable\", des dizaines de milliers d'évacués peuvent rentrer chez eux",
+            "link": "https://www.franceinfo.fr/monde/espagne/avec-une-situation-favorable-pour-les-incendies-en-espagne-des-dizaines-de-milliers-d-evacues-rentrent-chez-eux_8126984.html#xtor=RSS-3-[lestitres]",
+            "published": "Wed, 29 Jul 2026 15:18:24 +0200",
+            "summary": "Les 12 prochaines heures sont \"décisives\" pour maîtriser le feu qui sévit depuis près d'une semaine, selon le Premier ministre espagnol. L'Espagne va en effet connaître une hausse des températures et "
+        },
+        {
             "source": "7sur7",
             "title": "Le Conseil d’État a annulé les licences de trottinettes et vélos partagés en Région bruxelloise",
             "link": "https://www.7sur7.be/belgique/le-conseil-detat-a-annule-les-licences-de-trottinettes-et-velos-partages-en-region-bruxelloise~a3cb4773/",
@@ -688,20 +702,6 @@
             "link": "https://www.franceinfo.fr/environnement/pollution/un-acte-de-vandalisme-environnemental-deux-sites-de-baignade-fermes-par-intermittence-a-paris-depuis-dimanche-a-cause-d-une-pollution-au-fioul_8127086.html#xtor=RSS-3-[lestitres]",
             "published": "Wed, 29 Jul 2026 15:03:19 +0200",
             "summary": "Les sites parisiens de bras Marie, dans le 4e arrondissement et de Bercy, dans le 12e arrondissement, sont concernés par cette pollution."
-        },
-        {
-            "source": "RTBF Monde",
-            "title": "L’armée israélienne accuse le Hezbollah d’une \"violation\" de l’accord de cessez-le-feu",
-            "link": "https://www.rtbf.be/article/l-armee-israelienne-accuse-le-hezbollah-d-une-violation-de-l-accord-de-cessez-le-feu-11764051",
-            "published": "Wed, 29 Jul 2026 15:00:10 +0200",
-            "summary": "\"Dans la nuit de mardi à mercredi, le Hezbollah a lancé un drone chargé d'explosifs en direction d'un véhicule du..."
-        },
-        {
-            "source": "RTL-info",
-            "title": "Nouveau record de chaleur : ce 29 juillet est le plus chaud chez nous depuis plus de 100 ans",
-            "link": "https://www.rtl.be/actu/belgique/meteo/nouveau-record-de-chaleur-ce-29-juillet-est-le-plus-chaud-chez-nous-depuis-plus/2026-07-29/article/795931",
-            "published": "Wed, 29 Jul 2026 14:53:43 +0000",
-            "summary": ""
         }
     ]
 }
